@@ -1,0 +1,8 @@
+---
+title: "MeyerPerin Foundation"
+---
+<meta http-equiv='refresh' content='5; URL=https://meyerperin.com/'>
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
