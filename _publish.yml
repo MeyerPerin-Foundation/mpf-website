@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 4d10f34d-464c-4810-a6bc-3522b245f5c5
+      url: 'https://lighthearted-fenglisu-f31a7a.netlify.app'
