@@ -1,9 +1,10 @@
 ---
-title: "About"
-image: /images/lucas_mgsq.jpeg
+title: "MeyerPerin Foundation"
+image: /images/mplogo.png
+id: hero
 include-in-header: _msft-clarity.html
 about:
-  template: solana
+  template: jolla
   image-shape: round
   links:
     - icon: "{{< iconify fa6-brands threads >}}"
@@ -18,7 +19,15 @@ about:
 
 ---
 
-Lucas is the Principal of the MeyerPerin foundation.
+:::{#hero}
 
+The MeyerPerin Foundation is a nonprofit organization dedicated to the advancement of science and technology, with a focus on Artificial Intelligence and Education. 
 
+We are especially interested in helping neurodivergent people thrive in their scientific pursuits, especially those with Autism and ADHD.
+
+:::
+
+## Board of Directors
+
+[Lucas A. Meyer](https://www.meyerperin.com), President.
 

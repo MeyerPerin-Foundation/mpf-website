@@ -11,7 +11,7 @@ description: Real-life experiences and struggles of a person with ADHD, the proc
 image: /images/adhd_heading.png
 include-in-header: _msft-clarity.html
 page-layout: full
-title: Do I Have ADHD?
+title: My experience with ADHD diagnosis
 toc: true
 toc-expand: true
 ---
