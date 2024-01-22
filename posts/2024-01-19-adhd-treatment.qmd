@@ -1,35 +1,47 @@
 ---
 author: Lucas A. Meyer
 date: 2024-01-19
-draft: true
+draft: false
 image: /images/adhd-treatment.png
 include-in-header: _msft-clarity.html
 page-layout: full
-title: Treating ADHD
+title: Treating my ADHD
 toc: true
 toc-expand: true
 ---
 <article data-clarity-region="article">
 
-Today, Jan 19th 2024, I am starting the treatment for my ADHD. If you want to read more about how I got my diagnosis, you can read my previous post about [getting Diagnosed with ADHD](/posts/2024-01-04-adhd.qmd).
+On January 19th, 2024, I started treatment for ADHD. If you want to read more about how I got my diagnosis, you can read my previous post about [getting Diagnosed with ADHD](/posts/2024-01-04-adhd.qmd).
 
-Switching from a diagnosis to a treatment was harder than I expected. After I finished the diagnosis, the doctor that did it sent the results to my primary care provider. A few days went by and nothing happened. I emailed a care coordinator, and she asked me to send a copy to her. I did, and again nothing else happened for a few days. Then I found an opening in my primary care provider's calendar and booked it. She had not received the results, so I printed a copy and brought to her. The third attempt to have the results reach her was successful.
+Switching from a diagnosis to a treatment was harder than I expected. After I finished the diagnosis, my results were immediately sent the results to my primary care provider (PCP). A few days went by and nothing happened. I emailed my PCP's care coordinator, and she asked me to send a copy of the diagnosis to her. I did, and again nothing else happened for a few days. Then I found an opening in my primary care provider's calendar and booked it for next day. My PCP had not yet received the results from her own coordinator, so I printed a copy and brought to her. 
 
-## Medicine
+## The first few days
 
-We had a 20-minute meeting about the results and the treatment options. She suggested a stimulant from three options: Adderall (amphetamine), Ritalin (methylphenidate), and Strattera (Atomoxetine). For no specific reason, I was worried about habit-forming, which I had read that could be a problem with Ritalin and Adderall. I asked about Strattera first, but she told me that it only work for about 50% of the people, whereas Ritalin and Adderall tend to work for 70-80%, and that the risk of addiction is very low at the low dosages used in ADHD treatment. She also told me that the most common side effects are loss of appetite and insomnia, but that they usually go away after a few weeks. 
+I plan to update my progress on this post as I go through the treatment. I will start with the first few days, and then update it as I go through the treatment. 
+
+I will also also keep the [coping technologies](#coping-technologies) and [coping strategies](#coping-strategies) sections up-to-date as I find new things that help me cope with ADHD symptoms.
+
+### Treating ADHD with Medication
+
+The PCP and I had a 20-minute meeting about the results and the treatment options. She suggested a stimulant from three options: Adderall (amphetamine), Ritalin (methylphenidate), and Strattera (Atomoxetine). For no specific reason, I was worried about habit-forming, which I had read that could be a problem with Ritalin and Adderall. I asked about Strattera first, but she told me that it only work for about 50% of the people, whereas Ritalin and Adderall tend to work for 70-80%, and that the risk of addiction is very low at the low dosages used in ADHD treatment. She also told me that the most common side effects are loss of appetite and insomnia, but that they usually go away after a few weeks. 
 
 She suggested I try Ritalin first, and prescribed me 10mg of the extended release version. She told me to take them in the morning, becase it is a stimulant and it could cause me to lose sleep if I took it too late in the day. 
 
-Therefore, today, I got my prescription filled and took my first dose at about 11 AM. Honestly, the day seemed to progress as usual, with me getting distracted at about the usual amount and using all of my coping strategies to manage. According to my primary care provider, the initial dosage of 10mg is probably not even therapeutic and used more to see if I will have any side effects, but we'll meet again in 2-3 weeks to review. 
+I got my prescription filled that same day and took my first dose at about 11 AM. The day seemed to progress as usual, with me getting distracted at about the usual amount and using all of my coping strategies to manage. According to my primary care provider, the initial dosage of 10mg is probably not even therapeutic and used more to see if I will have any side effects, but we'll meet again in 2-3 weeks to review. 
 
-## Therapy
+### Therapy
 
-In addition to the medicine, I also started therapy with a provider that specializes in ADHD. I was actually supposed to start it last week on Jan 12th, but the therapist had to reschedule because she was sick. I had my first session with her today, and it was mostly an introduction to the process. 
+In addition to Ritalin, I also started therapy with a provider that specializes in ADHD. I was actually supposed to start it a week before the medicine, but the therapist had to reschedule because she was sick. I had my first session with her today, and it was mostly an introduction to the process of therapy.
 
-She asked me if I had therapy before, and I told her that I was switching therapists, as the therapist I used until December last year retired. She asked about my family history (dad left early, mom probably neurodivergent), whether I had a difficult childhood (harder than average) and about my social life (does social media count?). Apparently, social media doesn't count as much, but it's better than nothing. She also screened me for anxiety and depression. Then, she asked about my goals.
+She asked me if I had therapy before, and I told her that I was switching therapists, as the therapist I used until November last year retired. She asked about my family history (dad left my life early, mom probably neurodivergent), whether I had a difficult childhood, and about my social life. Apparently, social media doesn't count as much for a social life, but it's better than nothing. She also screened me for anxiety and depression (negative for both). Then, she asked about my goals.
 
-I told her that my main goal is to get better tools to manage being overwhelmed, which happens occasionally. At this point, I should probably pause and say that I'm a parent of three teenagers, a principal at Microsoft that does projects that are public, that my wife is sick with Stage IV cancer, and that I have some other things going on, so feeling overwhelmed is probably to be expected.
+I told her that my main goal is to get better tools to manage being overwhelmed, which happens occasionally. The feeling of being overwhelmed happens when I have too many things to do and I don't know where to start, so I end up doing nothing. This usually results in some things being late, which leads to me being more overwhelmed. Another common problem is being distracted by something and forgetting to do something important. I told her that I have a lot of coping strategies, but I'm not sure if they are the best ones, and I would like to learn more.
+
+We decided on a bi-weekly rythm, and I will have my next session in two weeks. 
+
+### How are things going so far?
+
+Getting diagnosed is helpful, because now I understand many of the things that happen, even though I still have trouble controlling them. As of now, the dosage of the medicine is probably too low to make a difference, but I noticed that I am getting more tired than usual at night and sleeping better. My level of distraction and being overwhelmed don't seem to have improved substantially.
 
 ## Coping Technologies
 
@@ -44,5 +56,13 @@ Over time I acquired a lot of products to help me cope with the [symptoms](#symp
 - **[Ray-Ban Meta](https://l.meyerperin.com/rayban_meta):** works as a headset and as reading glasses. It also has a camera, which I use quite a lot, and an AI that I don't use as much yet.
 - **[Kindle Scribe](2024-01-12-kindle-scribe.qmd):** during the years, I had (and lost) many notebooks and loose sheets of paper. The Kindle Scribe is an e-ink notebook that feels like a real notebook, but has a lot of capacity. I can also carry academic papers on it. I used to have a reMarkable 2 but I changed to the Kindle Scribe because it solves a few more of my use cases. 
 - **[Pillbox](https://l.meyerperin.com/pillbox):** I use a pillbox to organize my vitamins and medications. I usually forget whether I took the medication or not a few hours after the time I was supposed to take it, so I use the pillbox to keep track of whether I took it or not.
+
+## Coping Strategies
+
+I also have a few coping strategies that I use to manage my symptoms. I will list them below:
+
+- **Multiple projects:** As counterintuitive as it may seem, I usually have multiple projects going on at the same time. The way this works is that when I'm working on a project and get distracted, the distraction usually comes from another project (like an email or a meeting), so I switch to that project. This way, I'm still being productive.
+
+- **Logging activities as I start them:** I got the habit (or routine) of logging most activities as I start executing them. This helps me when I eventually get distracted, because I can go back to the log and see what I was doing before I got distracted. I use Siri and Microsoft To-Do to log activities, as described in the [Coping Technologies](#coping-technologies) section.
 
 </article>
