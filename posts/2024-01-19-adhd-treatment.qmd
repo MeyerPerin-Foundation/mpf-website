@@ -2,7 +2,7 @@
 author: Lucas A. Meyer
 date: 2024-01-19
 draft: false
-image: /images/adhd-treatment.png
+image: /images/adhd_treatment.png
 include-in-header: _msft-clarity.html
 page-layout: full
 title: Treating my ADHD
