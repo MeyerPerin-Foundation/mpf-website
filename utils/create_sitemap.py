@@ -27,4 +27,4 @@ for dir in posts_dir:
                 url_list.append(url_target)
 
 df_sites = pd.DataFrame(site_pages)
-df_sites.to_xml("sitemap.xml", index=False, row_name="url", root_name="urlset", namespaces={"": "http://www.sitemaps.org/schemas/sitemap/0.9"})
+df_sites.to_xml("sitemaps/sitemap.xml", index=False, row_name="url", root_name="urlset", namespaces={"": "http://www.sitemaps.org/schemas/sitemap/0.9"})
