@@ -35,9 +35,9 @@ title-block-banner: false
 include-in-header: _msft-clarity.html
 ---
 
-The MeyerPerin Foundation is a non-profit organization dedicated to the advancement of science and technology, with a preferred focus on Artificial Intelligence and Education. 
+The MeyerPerin Foundation is a nonprofit organization dedicated to the advancement of science and technology, with a focus on Artificial Intelligence and Education. 
 
-We are especially interested in helping neurodivergent people thrive in their scientific and technical pursuits, especially those with Autism and ADHD.
+We are especially interested in helping neurodivergent people thrive in their scientific pursuits, especially those with Autism and ADHD.
 
 ## Featured Articles  
 
