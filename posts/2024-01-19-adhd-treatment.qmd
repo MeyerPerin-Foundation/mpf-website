@@ -1,0 +1,48 @@
+---
+author: Lucas A. Meyer
+date: 2024-01-19
+draft: true
+image: /images/adhd-treatment.png
+include-in-header: _msft-clarity.html
+page-layout: full
+title: Treating ADHD
+toc: true
+toc-expand: true
+---
+<article data-clarity-region="article">
+
+Today, Jan 19th 2024, I am starting the treatment for my ADHD. If you want to read more about how I got my diagnosis, you can read my previous post about [getting Diagnosed with ADHD](/posts/2024-01-04-adhd.qmd).
+
+Switching from a diagnosis to a treatment was harder than I expected. After I finished the diagnosis, the doctor that did it sent the results to my primary care provider. A few days went by and nothing happened. I emailed a care coordinator, and she asked me to send a copy to her. I did, and again nothing else happened for a few days. Then I found an opening in my primary care provider's calendar and booked it. She had not received the results, so I printed a copy and brought to her. The third attempt to have the results reach her was successful.
+
+## Medicine
+
+We had a 20-minute meeting about the results and the treatment options. She suggested a stimulant from three options: Adderall (amphetamine), Ritalin (methylphenidate), and Strattera (Atomoxetine). For no specific reason, I was worried about habit-forming, which I had read that could be a problem with Ritalin and Adderall. I asked about Strattera first, but she told me that it only work for about 50% of the people, whereas Ritalin and Adderall tend to work for 70-80%, and that the risk of addiction is very low at the low dosages used in ADHD treatment. She also told me that the most common side effects are loss of appetite and insomnia, but that they usually go away after a few weeks. 
+
+She suggested I try Ritalin first, and prescribed me 10mg of the extended release version. She told me to take them in the morning, becase it is a stimulant and it could cause me to lose sleep if I took it too late in the day. 
+
+Therefore, today, I got my prescription filled and took my first dose at about 11 AM. Honestly, the day seemed to progress as usual, with me getting distracted at about the usual amount and using all of my coping strategies to manage. According to my primary care provider, the initial dosage of 10mg is probably not even therapeutic and used more to see if I will have any side effects, but we'll meet again in 2-3 weeks to review. 
+
+## Therapy
+
+In addition to the medicine, I also started therapy with a provider that specializes in ADHD. I was actually supposed to start it last week on Jan 12th, but the therapist had to reschedule because she was sick. I had my first session with her today, and it was mostly an introduction to the process. 
+
+She asked me if I had therapy before, and I told her that I was switching therapists, as the therapist I used until December last year retired. She asked about my family history (dad left early, mom probably neurodivergent), whether I had a difficult childhood (harder than average) and about my social life (does social media count?). Apparently, social media doesn't count as much, but it's better than nothing. She also screened me for anxiety and depression. Then, she asked about my goals.
+
+I told her that my main goal is to get better tools to manage being overwhelmed, which happens occasionally. At this point, I should probably pause and say that I'm a parent of three teenagers, a principal at Microsoft that does projects that are public, that my wife is sick with Stage IV cancer, and that I have some other things going on, so feeling overwhelmed is probably to be expected.
+
+## Coping Technologies
+
+Over time I acquired a lot of products to help me cope with the [symptoms](#symptoms). I will list them below:
+
+{{< include _affiliate.qmd >}}
+
+- **[Microsoft To-Do](https://l.meyerperin.com/todo):** I use Microsoft To-Do to keep track of tasks. I like it because it's **very** simple, it's multiplatform, so I can see and check tasks from my phone, my computer and my watch. Since it integrates well with Siri, I can add tasks simply by saying 'Hey Siri, remind me to X', which helps me keep track of things. I specifically add tasks to my to-do list as I'm starting them, because that will help me remember to finish if I get distracted.
+- **[Apple AirTags](https://l.meyerperin.com/airtags):** I have these on everything since I lose something almost daily. The new AirTags have a feature called Precision Finding that allows me to find things a lot faster, and I use it a lot.
+- **[Wallet with keyring](https://l.meyerperin.com/keyring_wallet)**: A wallet with an attached keyring allows me to carry my badge, car and house keys, wallet, and an AirTag all together, making it hard for me to lose things.
+- **[S-biner carabiners](https://l.meyerperin.com/sbiner):** I use these to attach things to my backpack and to each other, so I have only one bundle of items to keep track of.
+- **[Ray-Ban Meta](https://l.meyerperin.com/rayban_meta):** works as a headset and as reading glasses. It also has a camera, which I use quite a lot, and an AI that I don't use as much yet.
+- **[Kindle Scribe](2024-01-12-kindle-scribe.qmd):** during the years, I had (and lost) many notebooks and loose sheets of paper. The Kindle Scribe is an e-ink notebook that feels like a real notebook, but has a lot of capacity. I can also carry academic papers on it. I used to have a reMarkable 2 but I changed to the Kindle Scribe because it solves a few more of my use cases. 
+- **[Pillbox](https://l.meyerperin.com/pillbox):** I use a pillbox to organize my vitamins and medications. I usually forget whether I took the medication or not a few hours after the time I was supposed to take it, so I use the pillbox to keep track of whether I took it or not.
+
+</article>

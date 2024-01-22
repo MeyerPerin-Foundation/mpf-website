@@ -1,8 +1,52 @@
 ---
 title: "MeyerPerin Foundation"
+title-meta: "Articles and Blog"
+toc: true
+toc-expand: true
+listing:
+- id: articles
+  contents: 
+  - posts/2024-01-12-kindle-scribe.qmd
+  - posts/2024-01-04-adhd.qmd
+  - posts/2024-01-05-thread_manager.qmd
+  - posts/2023-12-16-skv_py.qmd
+  - posts/2023-09-23-midjourney.qmd
+  - posts/2023-10-15-semantic_kernel.qmd
+  sort: False
+  type: grid
+  image-height: 320px
+  categories: false
+  sort-ui: false
+  filter-ui: false
+  fields: [image, author, date, title, subtitle]
+  feed: true
+- id: blog
+  contents: posts
+  sort: "date desc"
+  type: grid
+  fields: [image, author, date, title, subtitle]
+  image-height: 320px
+  categories: false
+  sort-ui: true
+  filter-ui: true
+
+page-layout: full
+title-block-banner: false
+include-in-header: _msft-clarity.html
 ---
-<meta http-equiv='refresh' content='10; URL=https://meyerperin.com/'>
 
-For now, this is just a placeholder for the work of the MeyerPerin Foundation.
+The MeyerPerin Foundation is a non-profit organization dedicated to the advancement of knowledge in science and technology, with a preferred focus on Artificial Intelligence and Education. 
 
-We will be adding content soon.
+We are especially interested in helping neurodivergent people thrive in their scientific and technical pursuits, especially those with Autism and ADHD.
+
+## Featured Articles  
+
+:::{#articles}
+:::
+
+---
+
+## Blog
+
+:::{#blog}
+:::

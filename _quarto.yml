@@ -1,19 +1,54 @@
 project:
   type: website
 
+  preview:
+    port: 4200
+    browser: false
+    
+  render:
+    - '*.qmd'
+
+execute: 
+  freeze: auto
+      
 website:
   title: "MeyerPerin Foundation"
+  google-analytics: "G-JJ4KSW4LMR"
+  margin-footer: subscribe.html
+  twitter-card: true
+  open-graph: true
+  site-url: https://www.meyerperin.org
+  description: The MeyerPerin Foundation is a non-profit organization dedicated to the advancement of knowledge in science and technology, 
+    with a preferred focus on Artificial Intelligence and Education. We are especially interested in helping neurodivergent people 
+    thrive in their scientific and technical pursuits, especially those with Autism and ADHD.
+  favicon: /favicon-32x32.png
+
   navbar:
+    logo: /images/mplogo.png
     left:
-      - href: index.qmd
-        text: Home
+      - text: "Home"
+        file: index.qmd
+      - text: "GitHub Repositories" 
+        menu:
+          - text: "OpenAI Vision API with the Semantic Kernel"
+            href: https://github.com/lucas-a-meyer/sk-vision-py
+          - text: "Pytly: Python client for the T.LY link shortener"
+            href: https://github.com/lucas-a-meyer/pytly     
+    right:
+      - text: "{{< iconify fa6-brands threads >}}"
+        href: https://threads.net/@lucas_a_meyer
+      - icon: linkedin
+        href: https://www.linkedin.com/in/lucasameyer      
+      - icon: github
+        href: https://github.com/lucas-a-meyer
+      - icon: stack-overflow
+        href: https://stackoverflow.com/users/1850561/lucas-a-meyer
       - about.qmd
+
 
 format:
   html:
-    theme: cosmo
+    theme: materia
     css: styles.css
-    toc: true
-
-execute:
-  freeze: auto
+    grid:
+      sidebar-width: 500px

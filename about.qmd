@@ -1,5 +1,24 @@
 ---
 title: "About"
+image: /images/lucas_mgsq.jpeg
+include-in-header: _msft-clarity.html
+about:
+  template: solana
+  image-shape: round
+  links:
+    - icon: "{{< iconify fa6-brands threads >}}"
+      text: "{{< iconify fa6-brands threads >}} Threads"
+      href: https://threads.net/@lucas_a_meyer
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/lucasameyer
+    - icon: github
+      text: Github
+      href: https://github.com/lucas-a-meyer
+
 ---
 
-About this site
+Lucas is the Principal of the MeyerPerin foundation.
+
+
+
