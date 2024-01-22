@@ -8,7 +8,7 @@ posts_dir = ["_site/posts", "_site/articles"]
 
 site_pages = []
 url_list = []
-site_root = "https://www.meyerperin.org"
+site_root = "https://meyerperin.org"
 
 for dir in posts_dir:
     # assign folder with dir excluding docs/
