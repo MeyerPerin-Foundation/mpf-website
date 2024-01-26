@@ -6,7 +6,7 @@ image: /images/teen-books.png
 include-in-header: _msft-clarity.html
 page-layout: full
 description: a list of books that talk about science and technology in fun ways, and have been very successful with my teenagers.
-title: Books to help Teenagers Fall in Love with Science
+title: Books to Help Teenagers Fall in Love with Science
 toc: true
 toc-expand: true
 ---
