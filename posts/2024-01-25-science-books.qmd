@@ -1,0 +1,33 @@
+---
+author: Lucas A. Meyer
+date: 2024-01-25
+draft: false
+image: /images/teen-books.png
+include-in-header: _msft-clarity.html
+page-layout: full
+description: a list of books that talk about science and technology in fun ways, and have been very successful with my teenagers.
+title: Books to help Teenagers Fall in Love with Science
+toc: true
+toc-expand: true
+---
+<article data-clarity-region="article">
+
+Here are some books that talk about science and technology in fun ways, and have been very successful with my teenagers.
+
+The books are ordered roughly in the order of preference of my teens. The one they liked the most (and re-read all the time) is Humble Pi, by Matt Parker. This is the very top of their list. Even the book on the bottom of this list, The Martian, is still a great book that they loved. I, too, read and enjoyed all of them.
+
+| Title | Author | Description |
+|-------|--------|-------------|
+| [Humble Pi](https://amzn.to/48NQxTw) | Matt Parker |  A funny book about math mistakes. Their favorite. |
+| [What If?](https://amzn.to/42bacdR) | Randall Munroe |  Precise scientific answers to absurd questions. |
+| [What If? 2](https://amzn.to/3Sa52Kx) | Randall Munroe  | Precise scientific answers to even more absurd questions. |
+| [Soonish](https://amzn.to/4bdCxUG) | Kelly and Zach Weinersmith | A funny book about the future of technology. |
+| [Fuzz](https://amzn.to/4b90GMi) | Mary Roach | A funny book about the science of animal-human interactions. |
+| [How to Fake a Moon Landing](https://amzn.to/3vSbLRS) | Darryl Cunningham | A graphic novel about science denial. |
+| [How To](https://amzn.to/4931MYJ)| Randall Munroe | A funny book about how to do things in extremely difficult ways. |
+| [Hollywood Wants to Kill You](https://amzn.to/47Kxp7T) | Dr. Michael Brooks and Rick Edwards | A funny and informative way of learning science through movies about extinguishing the human race. |
+| [The Martian](https://amzn.to/47QhULD) | Andy Weir |  Every problem has a solution, but every solution creates a new problem. Will he survive at the end? |
+
+I hope this helps you find great reads.
+
+</article>
