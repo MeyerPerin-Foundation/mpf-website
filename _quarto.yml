@@ -45,7 +45,6 @@ website:
         href: https://github.com/lucas-a-meyer
       - about.qmd
 
-
 format:
   html:
     theme: materia
