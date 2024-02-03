@@ -5,20 +5,24 @@ draft: false
 image: /images/code-concurrency.webp
 include-in-header: _msft-clarity.html
 page-layout: full
-description: How can you run several OpenAI requests concurrently if you have multiple API keys? This article shows you how to use Python's asyncio library to run multiple requests concurrently.
+description: How can you run several OpenAI requests concurrently? This article shows you how to use Python's asyncio library to run multiple requests concurrently.
 title: Running multiple OpenAI requests concurrently with Python's asyncio
 toc: true
 toc-expand: true
 ---
 <article data-clarity-region="article">
 
-It's possible that you have multiple OpenAI requests that you want to run concurrently. For example, you might have multiple Azure OpenAI subscriptions and want to process several documents at the same time, so that you can finish processing them faster. You can do that by using Python's `asyncio` library.
+It's possible that you have multiple OpenAI requests that you want to run concurrently. For example, you want to process several documents at the same time, so that you can finish processing them faster. You can do so by using Python's `asyncio` library.
 
 ## Prerequisites
 
-To run the code in this article, you need to have Python **3.11** installed. This will enable you to use the `TaskGroup` functionality. You also need to have the `openai` Python package installed, version 1.0 or higher. You will also need to have two OpenAI subscriptions or Azure OpenAI subscriptions. 
+To run the code in this article, you need to have Python **3.11** installed. This will enable you to use the `TaskGroup` functionality. You also need to have the `openai` Python package installed, version 1.0 or higher.
 
 In my case, I have two Azure OpenAI subscriptions, one in the US East region and another in the US West region. Therefore, I have two API keys, one for each region. To make things more interesting, I'll assume that each region has different models, `gpt-4` in US East and `gpt-4-turbo` in US West. 
+
+:::{.callout-note}
+This code also works if you have only one subscription, and it's also faster when run concurrently. One potential issue with that approach is that the OpenAI API has [rate limits](https://platform.openai.com/docs/guides/rate-limits) per account, so if you run multiple requests concurrently, you may hit the rate limit faster.
+:::
 
 To test concurrency, I will ask GPT to perform a task that takes about 30 seconds to complete, such as generating a five-paragraph story about a theme. I have four themes, "dog", "cat", "chicken", and "tiger". I will ask GPT to generate stories about "dog" and "cat" concurrently, and then "chicken" and "tiger" will be generated concurrently. I will time how long it took to generate the stories concurrently, and I will also measure the time to generate the stories sequentially, so that I can compare the results.
 
@@ -172,6 +176,10 @@ The code below is required just to start the whole process.
 if __name__ == "__main__":
     asyncio.run(main())
 ```
+## What if you have just one subscription?
+
+The code above also works if you only have one subscription. For example, if you were to replace the `client1` with `client2` everywhere in the code above, you would still be able to run the tasks concurrently. The only difference is that you would be using the same subscription for both tasks, so you would be consuming your rate limits faster. However, you would still be able to run the tasks concurrently, and you would still see a significant improvement in the time it takes to generate the results.
+
 ## Conclusion
 
 Running AI models concurrently can significantly reduce the time it takes to generate the results. This is especially important when you have to generate a large number of results, or when the results take a long time to generate. In this case, we saw that running the models concurrently with double the resources, as expected, took about half the time. This is a significant improvement, and it can make a big difference in practice.
