@@ -14,7 +14,7 @@ execute:
   freeze: auto
       
 website:
-  title: "MeyerPerin Foundation"
+  title: "MeyerPerin"
   google-analytics: "G-JJ4KSW4LMR"
   margin-footer: subscribe.html
   twitter-card: true
@@ -32,11 +32,20 @@ website:
         file: index.qmd
       - text: "GitHub Repositories" 
         menu:
+          - text: "Thread Manager: manage social media with AI (WIP)"
+            href: https://github.com/MeyerPerin-Foundation/thread-manager  
           - text: "OpenAI Vision API with the Semantic Kernel"
-            href: https://github.com/lucas-a-meyer/sk-vision-py
+            href: https://github.com/MeyerPerin-Foundation/sk-vision-py
           - text: "Pytly: Python client for the T.LY link shortener"
-            href: https://github.com/lucas-a-meyer/pytly     
+            href: https://github.com/MeyerPerin-Foundation/pytly 
+          - text: "A plugin to use DALL-E 3 with the Semantic Kernel in C#"
+            href: https://github.com/MeyerPerin-Foundation/dalle3-sk-plugin-csharp    
+          - text: "A plugin to use DALL-E 3 with the Semantic Kernel in Python"
+            href: https://github.com/MeyerPerin-Foundation/dalle3-sk-plugin-py     
+          
     right:
+      - text: "Contact Us"
+        href: contact.qmd
       - text: "{{< iconify fa6-brands threads >}}"
         href: https://threads.net/@lucas_a_meyer
       - icon: linkedin
