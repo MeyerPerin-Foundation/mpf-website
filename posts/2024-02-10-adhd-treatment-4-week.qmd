@@ -1,0 +1,42 @@
+---
+author: Lucas A. Meyer
+date: 2024-02-10
+draft: false
+image: /images/adhd-4-week.png
+include-in-header: _msft-clarity.html
+page-layout: full
+title: ADHD Treatment — 4-week update
+toc: true
+toc-expand: true
+---
+<article data-clarity-region="article">
+
+In the beginning of 2024, I have been [diagnosed with ADHD](2024-01-04-adhd.qmd). Since then, I started [treatment with medicine and therapy](2024-01-19-adhd-treatment.qmd). 
+
+Over time, I [acquired a few technologies](2024-02-02-adhd-coping-technologies.qmd) and developed a [few strategies](2024-02-03-adhd-coping-strategies.qmd) to cope with ADHD.
+
+This is my 4-week update on my treatment.
+
+## 4-week checkpoint
+
+The doctor and I agreed to run the treatment for about four weeks, after which I should check back for any adjustments. I agreed to document how things were going to make the adjustments easier.
+
+For the first four weeks, I diligently took the prescribed Ritalin dose, usually at 8 AM. As you would expect with someone with ADHD, I forgot to take the medicine a few times. When that happened, I usually  remembered before 11 AM. During the 28 days, I completely forgot one time, took it by 11 AM five times, and took it at 1 PM one time.
+
+I noticed a few things when taking the medicine. The first is that I flush a little. When I looked at online forums like Reddit, I found that this seems to be a common side effect that disappears over time. The second is that I usually feel _wiped out_ at the end of the day, even more than usual. Interestingly, this helped me sleep better.
+
+The other side-effect we talked about was insomnia. Taking the medicine at 11 AM didn't seem to make any difference in my tiredness or productivity, but on the day I took the medicine at 1 PM, I was awake until 1 AM, which is unusual for me (I'm usually up early at around 6 AM). Insomnia is a known side-effect of stimulants, and definitely something to monitor. After that experience, I decided to completely skip the medicine for days I forget to take it before 11 AM.
+
+Because I keep track of almost every one of my tasks in a [to-do list](2024-02-02-adhd-coping-technologies.qmd#microsoft-to-do), I was able to notice that there was some small improvement of my symptoms, but it was minimal. The main improvement was that I was able to tackle some tasks that were "annoying but easy", like scheduling someone to clean the dryer vents of my house. Incidentally, [Thumbtack](www.thumbtack.com) (no affiliation) has been pretty good for scheduling those "annoying but easy" home maintenance tasks. As for the other symptoms, my overall levels of forgetfulness and fidgetry didn't seem to change.
+
+I met with my doctor again, and she suggested increasing the dose to 20 mg of long-acting. which is the default dose for most people. I will start with this new dose on Monday. The long acting version is supposed to work for 8-12 hours.
+
+## Therapy
+
+The therapist I'm working with can only meet every other week. I think that now, in the beginning, it would be beneficial for me to meet more frequently, especially as try to recast a lot of the things that have been problematic for me over my life under the new lens provided by a diagnosis. For example, sometimes I would think that I was not interested in some things, but it was just a period of my life where a lot was going on and I was easily distracted. We are still trying to find out a schedule that works well for both of us.
+
+## Verdict
+
+I think the initial doses of therapy and medicine were not sufficient for improving the symptoms substantially, but at least the side-effects haven't been bad. Now that the medicine dose has increased, I plan to increase the frequency of my therapy and document my progress after three months.
+
+</article>

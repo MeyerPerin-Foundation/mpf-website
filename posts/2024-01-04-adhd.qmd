@@ -11,16 +11,16 @@ description: Real-life experiences and struggles of a person with ADHD, the proc
 image: /images/adhd_heading.png
 include-in-header: _msft-clarity.html
 page-layout: full
-title: My experience with ADHD diagnosis
+title: Getting an ADHD diagnosis
 toc: true
 toc-expand: true
 ---
 <article data-clarity-region="article">
 
 
-In October 2023, lots of people with ADHD started posting about their experiences on [Threads](https://www.threads.net). Have you ever commuted to work and forgot to bring your laptop? Check. Do you frequently procrastinate a simple two-minute task for several days? Check. Another person I conneced with through LinkedIn also posts about her experience.
+In October 2023, lots of people with ADHD started posting about their experiences on [Threads](https://www.threads.net). Have you ever commuted to work and forgot to bring your laptop? Check. Do you frequently procrastinate a simple two-minute task for several days? Check. 
 
-As I started seeing a [lot of myself](#symptoms) in their experiences, and realized that I developed several coping mechanisms and acquired several [coping technologies](#coping-technologies) over time, I decided to go for a full diagnosis. 
+As I started seeing a [lot of myself](#symptoms) in their experiences, and realized that I developed [several coping mechanisms](2024-02-03-adhd-coping-strategies.qmd) and acquired several [coping technologies](2024-02-02-adhd-coping-technologies.qmd) over time, I decided to go for a full diagnosis. 
 
 ::: {.callout-important}
 **I am not a doctor. I am a computer scientist and economist. This is not medical advice. If you suspect you have ADHD, you should talk to a medical professional, like I did.**
@@ -36,7 +36,7 @@ Whether I have ADHD or not, I do have some symptoms that are commonly associated
 - I have a hard time focusing on things that are not interesting to me.
 - I oscillate between hyperfocus and not being able to focus at all.
 
-Despite the difficulties, I manage to function well, because I developed a lot of coping mechanisms and [technologies](#coping-technologies) over the years. 
+Despite the difficulties, I manage to function well, because I developed a lot of coping mechanisms and [technologies](2024-02-02-adhd-coping-technologies.qmd) over the years. 
 
 ## Why I Decided to Get Tested
 
@@ -130,6 +130,10 @@ There is, however, an immense advantage in going through a process that was so c
 I posted about my experience in Threads, and I got a lot of reactions. Most people are supportive and describe their own experiences being diagnosed. Some people, however, are skeptical. They say that ADHD is overdiagnosed, and that it's a fad, or a quick excuse to be lazy and forgetful. While I disagree, I have seen some websites that promise a "quick and easy" diagnosis and to get you medications fast. It feels similar to advertisements for Viagra and off-label Ozempic.
 
 Overall, having documented this process through posts has been a good experience, and I really hope it helps other people.
+
+## Treatment
+
+I have been documenting the progress with my treatment. I have written a [1-week update](2024-01-19-adhd-treatment.qmd) and a [4-week update](2024-02-10-adhd-treatment-4-week.qmd).
 
 ## What about you?
 

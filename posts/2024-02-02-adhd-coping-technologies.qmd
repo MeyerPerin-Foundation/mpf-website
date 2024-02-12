@@ -1,0 +1,64 @@
+---
+author: Lucas A. Meyer
+date: 2024-02-02
+draft: false
+image: /images/adhd-tech.png
+include-in-header: _msft-clarity.html
+page-layout: full
+title: Technnologies I use to cope with ADHD
+toc: true
+toc-expand: true
+---
+<article data-clarity-region="article">
+
+In the beginning of 2024, I have been [diagnosed with ADHD](2024-01-04-adhd.qmd). Since then, I started [treatment with medicine and therapy](2024-01-19-adhd-treatment.qmd). I also wrote a [4-week update](2024-02-10-adhd-treatment-4-week.qmd) about my treatment.
+
+Over time, I developed a [few strategies](2024-02-03-adhd-coping-strategies.qmd) to cope with ADHD. 
+
+Since I work with technology, I have also acquired several products and services that help me cope. They are listed below.
+
+## Microsoft To-Do
+
+I use [Microsoft To-Do](https://l.meyerperin.com/todo) to keep track of tasks. I like it because it's **very** simple, it's multiplatform, so I can see and check tasks from my phone, my computer and my watch. Since it integrates well with Siri, I can add tasks simply by saying 'Hey Siri, remind me to X', which helps me keep track of things. I specifically add tasks to my to-do list as I'm starting them, because that will help me remember to finish if I get distracted.
+
+## Apple AirTags
+
+I have [Apple AirTags](https://l.meyerperin.com/airtags) on everything since I lose something almost daily. The new AirTags have a feature called Precision Finding that allows me to find things a lot faster, and I use it a lot.
+
+## Wallet with Key Ring
+
+I bought a [wallet with an attached keyring](https://l.meyerperin.com/keyring_wallet) that allows me to carry my badge, car and house keys, wallet, and an AirTag all together, making it hard for me to lose things.
+
+## S-biner carabiners
+
+I have a lot of [S-biner carabiners](https://l.meyerperin.com/sbiner). I use them to attach things to my backpack and to each other, so I have only one bundle of items to keep track of.
+
+## Ray-Ban Meta Sunglasses
+
+The [Ray-Ban Meta](https://l.meyerperin.com/rayban_meta) works as sunglasses, a headset and as reading glasses. It also has a camera, which I use quite a lot, and an AI that I don't use as much yet.
+
+## Kindle Scribe
+
+I always carry a [Kindle Scribe](2024-01-12-kindle-scribe.qmd). I had (and lost) many notebooks and loose sheets of paper. The Kindle Scribe is an e-ink notebook that feels like a real notebook, but has a lot of capacity. I can also carry academic papers on it. I used to have a reMarkable 2 but I changed to the Kindle Scribe because it solves a few more of my use cases. 
+
+## Pillbox
+
+I use a [pillbox](https://l.meyerperin.com/pillbox) to organize my vitamins and medications. I usually forget whether I took the medication or not a few hours after the time I was supposed to take it, so I use the pillbox to keep track of whether I took it or not.
+
+## Coping Strategies
+
+I also have a few coping strategies that I use to manage my symptoms. I will list them below:
+
+### Multiple open projects
+ 
+As counterintuitive as it may seem, I usually have multiple projects going on at the same time. The way this works is that when I'm working on a project and get distracted, the distraction usually comes from another project (like an email or a meeting), so I switch to that project. This way, I'm still being productive.
+
+### Log activities as I start them
+
+ I got the habit (or routine) of logging most activities as I start executing them. This helps me when I eventually get distracted, because I can go back to the log and see what I was doing before I got distracted. I use Siri and Microsoft To-Do to log activities, as described in the [Coping Technologies](#coping-technologies) section.
+
+### Plan activities I don't want to start 
+
+I learned this technique recently. When I realize that I haven't been productive and my day is a "bad day", instead of trying to concentrate and do more, I go into planning mode. I essentially give up trying to do things, I start just planning and preparing things. If I'm trying to download 100 images and keep getting distracted, I would instead just list the websites that I want to download the images from, create the the Azure storage to receive it, etc. I may call this **productive avoidance**.
+
+</article>

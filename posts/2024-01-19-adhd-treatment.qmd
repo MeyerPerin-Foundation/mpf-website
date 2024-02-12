@@ -5,7 +5,7 @@ draft: false
 image: /images/adhd_treatment.png
 include-in-header: _msft-clarity.html
 page-layout: full
-title: My experience with ADHD treatment
+title: Starting ADHD treatment
 toc: true
 toc-expand: true
 ---
@@ -13,15 +13,13 @@ toc-expand: true
 
 On January 19th, 2024, I started treatment for ADHD. If you want to read more about how I got my diagnosis, you can read my previous post about [getting Diagnosed with ADHD](/posts/2024-01-04-adhd.qmd).
 
+Over time, I [acquired a few technologies](2024-02-02-adhd-coping-technologies.qmd) and developed a [few strategies](2024-02-03-adhd-coping-strategies.qmd) to cope with ADHD.
+
+## The first week (Jan 12 - Jan 19)
+
 Switching from a diagnosis to a treatment was harder than I expected. After I finished the diagnosis, my results were immediately sent the results to my primary care provider (PCP). A few days went by and nothing happened. I emailed my PCP's care coordinator, and she asked me to send a copy of the diagnosis to her. I did, and again nothing else happened for a few days. Then I found an opening in my primary care provider's calendar and booked it for next day. My PCP had not yet received the results from her own coordinator, so I printed a copy and brought to her. 
 
-## The first few days
-
-I plan to update my progress on this post as I go through the treatment. I will start with the first few days, and then update it as I go through the treatment. 
-
-I will also also keep the [coping technologies](#coping-technologies) and [coping strategies](#coping-strategies) sections up-to-date as I find new things that help me cope with ADHD symptoms.
-
-### Treating ADHD with Medication
+### Medicine
 
 The PCP and I had a 20-minute meeting about the results and the treatment options. She suggested a stimulant from three options: Adderall (amphetamine), Ritalin (methylphenidate), and Strattera (Atomoxetine). For no specific reason, I was worried about habit-forming, which I had read that could be a problem with Ritalin and Adderall. I asked about Strattera first, but she told me that it only work for about 50% of the people, whereas Ritalin and Adderall tend to work for 70-80%, and that the risk of addiction is very low at the low dosages used in ADHD treatment. She also told me that the most common side effects are loss of appetite and insomnia, but that they usually go away after a few weeks. 
 
@@ -39,30 +37,10 @@ I told her that my main goal is to get better tools to manage being overwhelmed,
 
 We decided on a bi-weekly rythm, and I will have my next session in two weeks. 
 
-### How are things going so far?
+## How are things going so far?
 
 Getting diagnosed is helpful, because now I understand many of the things that happen, even though I still have trouble controlling them. As of now, the dosage of the medicine is probably too low to make a difference, but I noticed that I am getting more tired than usual at night and sleeping better. My level of distraction and being overwhelmed don't seem to have improved substantially.
 
-## Coping Technologies
-
-Over time I acquired a lot of products to help me cope with the [symptoms](#symptoms). I will list them below:
-
-{{< include _affiliate.qmd >}}
-
-- **[Microsoft To-Do](https://l.meyerperin.com/todo):** I use Microsoft To-Do to keep track of tasks. I like it because it's **very** simple, it's multiplatform, so I can see and check tasks from my phone, my computer and my watch. Since it integrates well with Siri, I can add tasks simply by saying 'Hey Siri, remind me to X', which helps me keep track of things. I specifically add tasks to my to-do list as I'm starting them, because that will help me remember to finish if I get distracted.
-- **[Apple AirTags](https://l.meyerperin.com/airtags):** I have these on everything since I lose something almost daily. The new AirTags have a feature called Precision Finding that allows me to find things a lot faster, and I use it a lot.
-- **[Wallet with keyring](https://l.meyerperin.com/keyring_wallet)**: A wallet with an attached keyring allows me to carry my badge, car and house keys, wallet, and an AirTag all together, making it hard for me to lose things.
-- **[S-biner carabiners](https://l.meyerperin.com/sbiner):** I use these to attach things to my backpack and to each other, so I have only one bundle of items to keep track of.
-- **[Ray-Ban Meta](https://l.meyerperin.com/rayban_meta):** works as a headset and as reading glasses. It also has a camera, which I use quite a lot, and an AI that I don't use as much yet.
-- **[Kindle Scribe](2024-01-12-kindle-scribe.qmd):** during the years, I had (and lost) many notebooks and loose sheets of paper. The Kindle Scribe is an e-ink notebook that feels like a real notebook, but has a lot of capacity. I can also carry academic papers on it. I used to have a reMarkable 2 but I changed to the Kindle Scribe because it solves a few more of my use cases. 
-- **[Pillbox](https://l.meyerperin.com/pillbox):** I use a pillbox to organize my vitamins and medications. I usually forget whether I took the medication or not a few hours after the time I was supposed to take it, so I use the pillbox to keep track of whether I took it or not.
-
-## Coping Strategies
-
-I also have a few coping strategies that I use to manage my symptoms. I will list them below:
-
-- **Multiple projects:** As counterintuitive as it may seem, I usually have multiple projects going on at the same time. The way this works is that when I'm working on a project and get distracted, the distraction usually comes from another project (like an email or a meeting), so I switch to that project. This way, I'm still being productive.
-
-- **Logging activities as I start them:** I got the habit (or routine) of logging most activities as I start executing them. This helps me when I eventually get distracted, because I can go back to the log and see what I was doing before I got distracted. I use Siri and Microsoft To-Do to log activities, as described in the [Coping Technologies](#coping-technologies) section.
+The post above is about my first week of treatment. I also documented the [first four weeks](2024-02-10-adhd-treatment-4-week.qmd) of treatment.
 
 </article>
