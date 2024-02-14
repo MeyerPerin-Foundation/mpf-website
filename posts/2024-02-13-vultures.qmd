@@ -25,6 +25,6 @@ This is a very interesting paper that can help you learn a lot about experiment 
 
 You can find the full paper by Eyal Frank and Anant Sudarshan in the link below. 
 
-https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4318579
+<https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4318579>
 
 </article>
