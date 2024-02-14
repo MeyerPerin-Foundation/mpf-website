@@ -21,7 +21,7 @@ The researchers could use a Differences-in-Differences quasi-experimental design
 
 After the vultures' demise, the death rates in these regions started to decline more slowly than regions that never had vultures. 
 
-This is a very interesting paper that can help you learn a lot about experiment design and how #sustainability and #economics are sometimes closely related. 
+This is a very interesting paper that can help you learn a lot about experiment design and how sustainability and economics are sometimes closely related. 
 
 You can find the full paper by Eyal Frank and Anant Sudarshan in the link below. 
 
