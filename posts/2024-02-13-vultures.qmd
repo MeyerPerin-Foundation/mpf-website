@@ -1,0 +1,30 @@
+---
+author: Lucas A. Meyer
+date: 2024-02-10
+draft: false
+image: /images/dr-vulture.png
+include-in-header: _msft-clarity.html
+page-layout: full
+title: The Social Costs of Killing Vultures
+toc: true
+toc-expand: true
+---
+<article data-clarity-region="article">
+
+In 1993, the patent of a painkiller called diclofenac expired and it started to be used in livestock. At about the same time, the population of vultures in India started to decline. Recently, researchers from UChicago linked these two events and showed that this resulted in approximately 100k additional HUMAN deaths per year. How?
+
+It was not known then, but diclofenac is extremely toxic to vultures. Animals treated with diclofenac pose no risk to humans, but even trace amounts in an animal carcass cause fatal kidney failure in vultures. Therefore, the population of vultures in India fell by over 95%.
+
+Vultures are extremely efficient cleaners - a group can consume a carcass of a large animal in less than one hour. They usually compete with dogs and rats, who are not efficient cleaners. Without vultures, carcasses are more likely to rot in the open, potentially increasing water pollution and supporting more dogs that can carry rabies.
+
+The researchers could use a Differences-in-Differences quasi-experimental design, since the demise of vultures was fast and unexpected, and it happened only in regions where vultures were present. 
+
+After the vultures' demise, the death rates in these regions started to decline more slowly than regions that never had vultures. 
+
+This is a very interesting paper that can help you learn a lot about experiment design and how #sustainability and #economics are sometimes closely related. 
+
+You can find the full paper by Eyal Frank and Anant Sudarshan in the link below. 
+
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4318579
+
+</article>
