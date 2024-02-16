@@ -17,7 +17,7 @@ It was not known then, but diclofenac is extremely toxic to vultures. Animals tr
 
 Vultures are extremely efficient cleaners - a group can consume a carcass of a large animal in less than one hour. They usually compete with dogs and rats, who are not efficient cleaners. Without vultures, carcasses are more likely to rot in the open, potentially increasing water pollution and supporting more dogs that can carry rabies.
 
-The researchers could use a Differences-in-Differences quasi-experimental design, since the demise of vultures was fast and unexpected, and it happened only in regions where vultures were present. 
+Because of the quick demise and large impact of vultures in sanitation, the researchers were able to use a Differences-in-Differences quasi-experimental design. One thing that helped a lot was that vultures were present in some regions but not others, naturally creating a treatment group (going from lots of vultures to no vultures) and a control group (no change).
 
 After the vultures' demise, the death rates in these regions started to decline more slowly than regions that never had vultures. 
 
