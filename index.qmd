@@ -6,11 +6,11 @@ toc-expand: true
 listing:
 - id: articles
   contents: 
+  - posts/2023-03-06-luddites.qmd
   - posts/2024-02-10-adhd-treatment-4-week.qmd
   - posts/2024-02-01-openai-concurrency.qmd
   - posts/2024-01-25-science-books.qmd
   - posts/2024-01-05-thread_manager.qmd
-  - posts/2023-12-16-skv_py.qmd
   - posts/2023-10-15-semantic_kernel.qmd
   sort: False
   type: grid
