@@ -6,7 +6,7 @@ toc-expand: true
 listing:
 - id: articles
   contents: 
-  - posts/2023-03-06-luddites.qmd
+  - posts/2024-03-06-luddites.qmd
   - posts/2024-02-10-adhd-treatment-4-week.qmd
   - posts/2024-02-01-openai-concurrency.qmd
   - posts/2024-01-25-science-books.qmd
