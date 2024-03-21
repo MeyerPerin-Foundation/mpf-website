@@ -13,7 +13,8 @@ toc-expand: true
 
 You know the feeling. You said yes to something, and now it's time to do it. But instead of feeling excited, you feel dread. This actually has a name: it's called the "Yes-Damn Effect" and it's the subject of lots of memes, usually titled "When you agreed to go out and the time to go out is getting closer." 
 
-![](/images/yesdamn.jpg){width=50%}
+
+<center>![](/images/yesdamn.jpg){width=50%}</center>
 
 The Yes-Damn Effect is usually caused by dynamic inconsistency: the "you" that needs to do the thing is not the same as the "you" that agreed to do the thing. 
 
@@ -27,7 +28,7 @@ Damn, indeed.
 
 It can be even worse: sometimes we overestimate the benefits, too. But let’s not even dwell on that, because there’s a cool technique that I want to tell you about. It’s called the "No-Yay Effect."
 
-![](/images/agree-to-go-out.jpg){width=50%}
+<center>![](/images/agree-to-go-out.jpg){width=50%}</center>
 
 As you become more experienced, you learn that you need to say "no" sometimes. You can’t do everything, and you can’t do everything well. But saying "no" is hard. You immediately see the disappointment of the person you’re saying "no" to, but you may not see the benefit to you.
 
