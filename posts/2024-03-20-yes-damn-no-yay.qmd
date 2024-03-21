@@ -17,7 +17,7 @@ You know the feeling. You said yes to something, and now it's time to do it. But
 
 The Yes-Damn Effect is usually caused by dynamic inconsistency: the "you" that needs to do the thing is not the same as the "you" that agreed to do the thing. You probably know this well: it's what happens when you go to the supermarket when you're hungry and buy a bunch of junk food, and then when you're home and not hungry, you regret it.
 
-As every software developer knows, we tend to overestimiate how much time our future selves will have, and underestimate how long the things we currently have on our plates will take, how many random things will pop up between now and then. So even if we estimate correctly the benefit of the thing we agree to do, we tend to underestimate the cost. Damn, indeed. 
+As every software developer knows, we tend to overestimate how much time our future selves will have, and underestimate how long the things we currently have on our plates will take, how many random things will pop up between now and then. So even if we estimate correctly the benefit of the thing we agree to do, we tend to underestimate the cost. Damn, indeed. 
 
 It can be even worse: sometimes we overestimate the benefits, too. But let's not even dwell on that, because there's a cool technique that I want to tell you about. It's called the "No-Yay Effect."
 
