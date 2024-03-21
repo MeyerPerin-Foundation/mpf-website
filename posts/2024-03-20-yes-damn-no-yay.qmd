@@ -13,7 +13,7 @@ toc-expand: true
 
 You know the feeling. You said yes to something, and now it's time to do it. But instead of feeling excited, you feel dread. This actually has a name: it's called the "Yes-Damn Effect" and it's the subject of lots of memes, usually titled "When you agreed to go out and the time to go out is getting closer." 
 
-![](/images/agree-to-go-out.jpg)
+![](/images/agree-to-go-out.jpg){width=50%}
 
 The Yes-Damn Effect is usually caused by dynamic inconsistency: the "you" that needs to do the thing is not the same as the "you" that agreed to do the thing. You probably know this well: it's what happens when you go to the supermarket when you're hungry and buy a bunch of junk food, and then when you're home and not hungry, you regret it.
 
