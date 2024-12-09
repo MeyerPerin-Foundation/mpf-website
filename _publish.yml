@@ -1,4 +1,4 @@
 - source: project
   netlify:
     - id: 4db2ca87-b2f8-4d77-9a59-1944fa8a03ae
-      url: 'https://meyerperin.org'
+      url: https://meyerperin.org

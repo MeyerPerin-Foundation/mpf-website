@@ -46,6 +46,8 @@ website:
     right:
       - text: "Contact Us"
         href: contact.qmd
+      - text: "{{< iconify fa6-brands bluesky >}}"
+        href: https://bsky.app/profile/lucasmeyer.bsky.social        
       - text: "{{< iconify fa6-brands threads >}}"
         href: https://threads.net/@lucas_a_meyer
       - icon: linkedin

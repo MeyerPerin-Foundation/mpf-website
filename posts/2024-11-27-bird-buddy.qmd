@@ -1,0 +1,167 @@
+---
+author: Lucas A. Meyer
+date: 2024-11-27
+draft: false
+image: /images/bird.jpg
+include-in-header: _msft-clarity.html
+page-layout: full
+title: Automatic posting from my Birdbuddy to Threads and Bluesky
+toc: true
+toc-expand: true
+---
+<article data-clarity-region="article">
+
+I **love** my Birdbuddy. The Birdbuddy is a **camera trap** for birds. It's a bird feeder that senses when something is in front of it, records a movie and takes several pictures. It then uses AI to identify the animal (usually a bird, but sometimes a squirrel) and sends me a notification on my phone, containing a "postcard", a gallery with the video and some of the pictures it took.
+
+Whenever I realize that the Birdbuddy captured a great picture, I post it to social media, usually to Threads and Bluesky, but there's a lot of friction in the process. I must download the pictures from the Birdbuddy app, then upload them to the social media app, write a caption, etc. So I decided to automate the process using AI and the Threads and Bluesky APIs.
+
+::: {.callout-note}
+The code below is a simplified version of what was actually deployed. The real code is at [this GitHub repository](https://github.com/MeyerPerin-Foundation/thread-manager), and uses more sophisticated prompting and error handling.
+:::
+
+## Gathering the postcards
+
+The first step is to gather the postcards. Birdbuddy doesn't really have a public API, but it uses GraphQL, and people have reverse-engineered the interface and created a Python library called `pybirdbuddy` that can download the postcards from the Bird Buddy app. 
+
+The code below shows how to get the pictures from the postcards that were collected in the last 24 hours:
+
+```python
+    bb = BirdBuddy(BIRD_BUDDY_USER, BIRD_BUDDY_PASSWORD)
+
+    # get the last day
+    since = datetime.datetime.now() - datetime.timedelta(hours=24)    
+    postcards = await bb.refresh_feed(since=since)
+
+    for card in postcards:
+        if card.get('__typename') == "FeedItemNewPostcard":
+            sighting = await bb.sighting_from_postcard(card.get('id')) 
+            species = sighting.report.sightings[0].species.name
+
+            media_items = [{'id': item['id'], 
+                            'date_created': item['createdAt'], 
+                            'species': species,
+                            'media_type': item['__typename'], 
+                            'image_url': item['contentUrl']} 
+                            for item in sigthing.medias 
+                            if item['__typename'] == 'MediaImage']
+```
+
+The downside is that this will download all the pictures, and many of the pictures are not very good. I want to filter them out automatically.
+
+## Is this picture any good?
+
+![Cardinal](/images/bird2.jpg){width=500}
+
+To filter the pictures, I use the GPT-4o model with a simple prompt. Here's the Python code that I use:
+
+```python
+
+def good_bird(image_url):
+
+    openai_client = OpenAI(api_key=app_config.OPENAI_API_KEY)
+    prompt = f"I want to post cute and interesting images of birds to social media.\n"
+    prompt += "Is this image such a picture? Reply 'Yes' if it is good, otherwise 'No'."
+
+    response = openai_client.chat.completions.create(
+        model="gpt-4o", 
+        messages=[
+            {"role": "system", "content": "You are a photography critic and social media content creator"},
+            {"role": "user", "content": [{"type": "text", "text": prompt}, 
+            {"type": "image_url", "image_url": {"url": image_url}}]}],)
+
+    return 'yes' in response.choices[0].message.content.lower()
+
+```
+
+Running the list of `media_items` through the `good_bird` function, I can filter out the pictures that are not good enough to post.
+
+I also use GPT-4o to generate a caption:
+
+```python
+def caption(species, image_url):
+
+    openai_client = OpenAI(api_key=app_config.OPENAI_API_KEY)
+    
+    prompt = f"Generate a caption for this {species} that was captured on a bird feeder camera.\n"
+    prompt += f"Do not assume the bird's gender.\n"
+    prompt += f"The caption will be used in a social media post and should be less than 200 characters.\n"
+    prompt += f"The caption should be suitable for a professional brand, although it can be funny.\n"
+    prompt += f"Do not use emojis or hashtags.  Do not ask for engagement. Do not ask questions.\n"
+
+    response = openai_client.chat.completions.create(
+        model="gpt-4o", 
+        messages=[
+            {"role": "system", "content": "You are a photographer and social media content creator"},
+            {"role": "user", "content": [{"type": "text", "text": prompt}, 
+            {"type": "image_url", "image_url": {"url": image_url}}]}],)
+
+    return response.choices[0].message.content
+```
+
+Now each image has a caption and a flag indicating if it's good enough to post. In my app, I'm saving all the pictures to a database and posting a few of them every day, but you could post it directly from the code above.
+
+## Posting to Threads and Bluesky
+
+To post the pictures, I use the Threads and Bluesky APIs. 
+
+The code below shows how to post a picture to Threads. Posting to Threads requires two api calls - one to an endpoint called `threads` to create the post and upload the assets another to an endpoint called `publish` to actually publish the post. You need a token and a user id to post to Threads, and you can obtain both from the Meta Developers website. Please note that the code below is a simplified version of the actual code, and you should handle errors and exceptions properly.
+
+```python
+
+def post_to_threads(message, image):
+    payload = {
+        "access_token": THREADS_TOKEN,
+        "text": message,
+        "media_type": "IMAGE",
+        "image_url": image
+    }
+
+    post_url = f"https://graph.threads.net/v1.0/{THREADS_USER_ID}/threads/"
+
+    response = requests.post(post_url, json=payload)
+
+    if response.status_code == 200:
+        # get response id
+        response_json = response.json()
+        creation_id = response_json["id"]
+    
+        publish_payload = {
+            "access_token": THREADS_TOKEN,
+            "creation_id": creation_id
+        }
+
+        publish_url = f"https://graph.threads.net/v1.0/{app_config.THREADS_USER_ID}/threads_publish/"
+
+    response = requests.post(publish_url, json=publish_payload)
+
+```
+
+Posting to Bluesky is similar, but a lot easier. You must have created an app password, your account password can't be used with the API. The code below shows how to post to Bluesky.
+In order to post to Bluesky, you should install the package `atproto`, which allows you to import a Bluesky `Client` class.
+
+```python
+
+def post_to_bluesky(message, image, image_alt_text):
+    client = Client()
+    client.login(BSKY_USER, BSKY_APP_PWD)
+
+    image_data = requests.get(image).content
+    client.send_image(message, image=image_data, image_alt=image_alt_text)
+
+```
+
+## Want to see the posts?
+
+You can see my Birdbuddy posts on [Threads](https://www.threads.net/@lucas_a_meyer) and [Bluesky](https://bsky.app/profile/lucasmeyer.bsky.social). They are all tagged with `#Birds`. I hope you enjoy them!
+
+## Buying your own Birdbuddy
+
+Right now, I own two Birdbuddies, the original version in my backyard and a Pro version in my front yard, and I'm likely to buy the hummingbird one soon.
+
+If you want to buy your own Birdbuddy, you can find it on [Amazon](https://amzn.to/4iv2cfB). 
+
+</article>
+
+## Comments {.unlisted}
+
+{{< bluesky-comments https://bsky.app/profile/lucasmeyer.bsky.social/post/3lbxfiyp7jc2a >}}

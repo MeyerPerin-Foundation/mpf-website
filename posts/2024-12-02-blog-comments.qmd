@@ -1,0 +1,56 @@
+---
+author: Lucas A. Meyer
+date: 2024-12-02
+draft: false
+image: /images/blog_comments.jpg
+include-in-header: _msft-clarity.html
+page-layout: full
+title: Using Bluesky to add comments to my blog
+toc: true
+toc-expand: true
+---
+<article data-clarity-region="article">
+
+Does anybody still blog? I am of the opinion that if you are in a a position of technical leadership, [you should have a blog](./2019-02-13-why-you-should-blog-if-you-are-a-data-scientist.qmd), and the main reason is **not** because it helps you promote your work, but because you will forget all the stuff you did. Egotistically, if you write about it, you can remember **what** you did, and most importantly, **how**. 
+
+Writing things as explanations to other people also helps you understand them better. And besides helping yourself, you can help a lot of other people, if someone besides you ever reads your blog.
+
+## Quarto and Bluesky comments
+
+I use [Quarto](https://quarto.org) to write my blog. It's free, allows me to write in Markdown and write customizations in Python, and I can host my blog for free on GitHub or Netlify (I chose Netlify). One perpetual annoyance for bloggers is to enable comments. People who use the popular WordPress platform can use a plugin, but there's a lot of spam. 
+
+Recently, [Garrick Aden-Buie](https://bsky.app/profile/grrrck.xyz) created a plugin that allows you do combine two actions: promoting your blog post on Bluesky and using Bluesky to manage comments.
+
+His full solution is on [his website](https://pkg.garrickadenbuie.com/quarto-bluesky-comments/), and it's very simple to use, so I'll just describe it here.
+
+## Enabling comments and a chicken and egg problem
+
+The first step is to install the Quarto extension. To do so, assuming you have Quarto installed, you can simply run the following command:
+
+`quarto add gadenbuie/quarto-bluesky-comments`
+
+You can publish your posts normally. To add the Bluesky comment functionality, you first need to share the post to Bluesky, to get the post (Bluesky posts are called skeets) ID. For example, I wrote my [post about Birdbuddy](./2024-11-27-bird-buddy.qmd) and shared it to Bluesky in the following skeet: [https://bsky.app/profile/lucasmeyer.bsky.social/post/3lbxfiyp7jc2a](https://bsky.app/profile/lucasmeyer.bsky.social/post/3lbxfiyp7jc2a). 
+
+Once you have the post/skeet URL, you have to go back to your blog post, ad add the following code at the end of the post **and republish it** (this is the chicken and egg problem):
+
+```markdown{shortcodes=false}
+{{< bluesky-comments skeet-url >}}
+```
+
+To make my blog post look pretty, I added a heading, so the final code for the Bluesky post would look like this:
+
+```markdown{shortcodes=false}
+## Comments {.unlisted}
+
+{{< bluesky-comments https://bsky.app/profile/lucasmeyer.bsky.social/post/3lbxfiyp7jc2a >}}
+```
+
+Now comments to the Bluesky post appear as comments on the blog.
+
+</article>
+
+I think this is great, because I would have promoted the post to Bluesky anyway, and since I always have to fix at list one error in the blog post, I would also end up republishing it, so I'm kinda getting the comments for free.
+
+## Comments {.unlisted}
+
+{{< bluesky-comments https://bsky.app/profile/lucasmeyer.bsky.social/post/3lce4em3ors2b >}}

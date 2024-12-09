@@ -7,6 +7,9 @@ about:
   template: jolla
   image-shape: round
   links:
+    - icon: "{{< iconify fa6-brands bluesky >}}"
+      text: "{{< iconify fa6-brands bluesky >}} Bluesky"
+      href: https://bsky.app/profile/lucasmeyer.bsky.social
     - icon: "{{< iconify fa6-brands threads >}}"
       text: "{{< iconify fa6-brands threads >}} Threads"
       href: https://threads.net/@lucas_a_meyer
