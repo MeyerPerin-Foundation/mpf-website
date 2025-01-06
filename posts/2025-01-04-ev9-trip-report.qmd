@@ -1,0 +1,64 @@
+---
+author: Lucas A. Meyer
+date: 2025-01-04
+draft: false
+image: /images/kia-ev9.webp
+include-in-header: _msft-clarity.html
+page-layout: full
+title: Trip Report - Houston to New Orleans in a Kia EV9
+toc: true
+toc-expand: true
+---
+<article data-clarity-region="article">
+
+In December 2024, on Christmas day, I drove my Kia EV9 from Fulshear, a suburb west of Houston, to New Orleans, a 380-mile trip.
+
+## Range
+
+My Kia EV9 is the Land long-range AWD trim, with a 99.8 kWh battery. The listed range is about 290 miles, but that assumes a mix of city and highway driving and some idealized conditions. This listed value is somewhat misleading in the real world for many reasons, one of which is that you don't want to get to your destination with 0% battery: keeping a reserve charge is important to avoid being stranded due to unexpected delays, detours, or non-functional chargers. Therefore, you should count that the best you can consume on a trip is about 90%. Even if you were to take a 10% discount and use a range of 261 miles, you may find that a lot of the mental shortcuts that you could use for internal combustion engine (ICE) vehicles (gas-powered cars) don't work well for electric vehicles (EVs).
+
+One mental shortcut is that for long highway trips, ICE vehicles tend to go farther than their listed range. The listed range assumes some proportion of highway driving and some proportion of city driving. In ICE vehicles, the highway consumption is lower, so an ICE vehicle with a listed range of 261 miles will probably go farther than that. The opposite is true for EVs: at high speeds, consumption is higher than average, so the actual highway travel range of the vehicle is likely lower.
+
+From my own measurements, my EV9 can do about 3.5 miles per kWh in the city (which would mean a 90% range of 315 miles) or about 2.7 miles driving at around 65 mph in a Houston highway (which would mean a 90% range of 253 miles). My planned interstate trip would have me driving at higher speeds, and therefore, my range would be even lower. I figured I'd need to charge twice unless I wanted to arrive almost empty.
+
+## Chargers and Planners
+
+These days, most hotels in the South of the United States don't have EV chargers (either slow or fast), and the city of New Orleans also doesn't have many public chargers. New Orleans is very walkable, but we wanted to do some things that required driving. Luckily, one of the places we wanted to drive to (Audubon Zoo) had a free slow charger that charges at 6 kWh per hour, so we could leave the car there for a few hours and get a little bit of charge. I planned for a 50% charge on arrival and assumed I'd be able to charge 30% at the Audubon Zoo on the day we visited it.
+
+Although I planned the whole route at home, I still had two concerns: one is that I hadn't yet driven the Kia EV9 on a long trip, so I didn't know what mileage I should use. The higher speeds I expected at the trip might lower my mileage substantially, but I didn't know exactly by how much. The other is that I didn't know which chargers would be working (a common problem these days), and whether they would be busy or not. With fast chargers spread far apart, a non-working charger could mean a long detour for which I might not even have enough charge to get to the next one. 
+
+For some vehicles, Apple Maps can help: the vehicle provides real time information to Apple Maps using CarPlay. However, the Kia EV9 does not support CarPlay yet, so I first tried using its built-in route planner, but it was frequently planning a route that used chargers that I suspected wouldn't be working. To confirm my suspicions, I used the PlugShare app and found out that several chargers suggested by Kia were closed at night, had restrictions like "Rivian owners only," or were out of service.
+
+Searching online, I got the recommendation to use a range calculator called [A Better Route Planner](https://abetterrouteplanner.com/), usually abbreviated to ABRP. I installed it, and it asked me about my car model and trim and whether I had a NACS (Tesla) to CCS (legacy fast charger) adapter. I have an adapter that I use in my other EV (a Ford F-150), so said yes, and it told me that I would need two stops to get to New Orleans with 50% charge. It planned a route with an Electrify America (CCS) charger in Sulphur, LA, and a Tesla (NACS) charger in Baton Rouge, LA. The total distance was 400 miles, and the total time was about 7 hours, including charging stops. I subscribed to the premium version of the app, which allows you to see real-time data about your car and adjust for climate and traffic, which would help me adjust the route as the app gathered real-time information about actual mileage, traffic and temperature.
+
+## A Worse Route Planner
+
+As we set out, I started measuring the real-time consumption. At about 75 mph, the actual consumption was about 2.4 miles per kWh, but at 80 mph, it was about 2.1 miles per kWh. At higher speeds, a lot of the advantages that make EVs energy efficient disappear. Even driving fast, we made it to Sulphur and quickly charged at Electrify America, reaching charging speeds of 200kW, which got us to 80% in about 20 minutes. Most fast chargers start charging slower when the battery state-of-charge (SoC) reaches 80%, so charging from 20% to 80% may take 20 minutes and charging from 80% to 90% may take an additional 20 minutes. Since the next planned stop in Baton Rouge was also a fast charger, to save trip time, I didn't "top off" the car to 90% or 100%. 
+
+I got to Baton Rouge to a bad surprise. I did not know then, but even though the app said I could charge at the Tesla supercharger, it turns out that I can't, even with the adapter. The reason is that Kia vehicles from charging in the Tesla superchargers until Jan 15th, 2025, even if you bring your own adapter. They can only charge in Tesla "magic chargers", a Tesla charger that includes a Tesla-owned attached adapter, but these chargers are not available in all locations.
+
+I then had two options: a detour to Electrify America in Hammond, LA, which meant a few extra miles, some extra time and reaching the charger with the battery at about 5% or keep going to a new group of Shell Recharge fast chargers at Tangers, LA, which was a lot closer to New Orleans. The problem: if that didn't work, we would be far away from other chargers. I decided to take the risk.
+
+## Shell (doesn't) Recharge
+
+As it's sometimes the case, the risk didn't pay off. Upon arriving at the Shell Recharge station, I was required to install the Shell Recharge app to activate the charger. The process was cumbersome, involving a $75 hold on my credit card for each attempt. Despite multiple tries and remote support assistance, most chargers failed to work, and the one that did could only charge at the unusably slow speed of 1 kW, meaning that it would take about 75 hours to charge the car. In total, I got a hold of $750 on my card (released after a few days) and lost about one hour.
+
+At that point, both Hammond and New Orleans were out of reach, and the teenagers in my car were hungry and cranky, so instead of having a Cajun dinner in New Orleans, we ended up going to the always reliable Waffle House, and I let my car charge for a couple hours in a slow ChargePoint charger, which gave me enough range to get somewhere. Bellies full, we decided that we would go to Hammond, use the reliable Electrify America and arrive with a charged car in New Orleans.
+
+## New Orleans chargers and the trip back
+
+Although New Orleans downtown doesn't have a lot of fast public chargers, the slow chargers I found were free, so I parked on them and recharged the car as we walked around at Audubon Zoo, or downtown while consuming beignets.
+
+Lessons learned, I deleted ABRP, manually planned a route back using Electrify America chargers, and decided that my next trip with the Kia EV9 would be only after Jan 15th, 2025, when my Kia will have access to a much larger charging network.
+
+## Final thoughts
+
+EVs are new, and we are having the usual growth pains for something that requires that much infrastructure. I was enormously happy that I could do my whole trip using my EV. At home, my EV is charged with solar power, so this means that the carbon signature of my trip was a lot lower than if I had driven a gas-powered car.
+
+Even though the adapter mishap and the problems with broken chargers were stressful, I am really happy that I chose to exclusively use EVs. The significantly lower carbon emissions compared to gas-powered cars and the cost and emissions savings from charging with solar power at home reaffirmed my decision. These benefits far outweighed the challenges I faced during this trip. They worked well enough for what I needed, and I know how to make the next trip better and perhaps even stress-free: I'll just wait a couple of weeks until both my EVs can use all fast-charging networks.
+
+</article>
+
+## Comments {.unlisted}
+
+{{< bluesky-comments https://bsky.app/profile/lucasmeyer.bsky.social/post/3lf4662ovx22r >}}

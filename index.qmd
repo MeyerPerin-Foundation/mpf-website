@@ -6,12 +6,12 @@ toc-expand: true
 listing:
 - id: articles
   contents: 
+  - posts/2025-01-04-ev9-trip-report.qmd
   - posts/2024-12-09-understanding-llms.qmd
   - posts/2024-11-27-bird-buddy.qmd
   - posts/2024-12-02-blog-comments.qmd
   - posts/2024-03-06-luddites.qmd
   - posts/2024-02-01-openai-concurrency.qmd
-  - posts/2024-03-20-yes-damn-no-yay.qmd
   
   sort: False
   type: grid
