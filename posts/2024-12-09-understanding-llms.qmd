@@ -61,4 +61,4 @@ I hope this post helps you understand a little better how LLMs work. If you want
 
 ## Comments {.unlisted}
 
-{{< bluesky-comments https://bsky.app/profile/lucasmeyer.bsky.social/post/3lcvhb4hc2s2v >}}
+{{< bluesky-comments https://bsky.app/profile/lucas.meyerperin.org/post/3lcvhb4hc2s2v >}}

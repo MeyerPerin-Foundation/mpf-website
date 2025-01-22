@@ -152,7 +152,7 @@ def post_to_bluesky(message, image, image_alt_text):
 
 ## Want to see the posts?
 
-You can see my Birdbuddy posts on [Threads](https://www.threads.net/@lucas_a_meyer) and [Bluesky](https://bsky.app/profile/lucasmeyer.bsky.social). They are all tagged with `#Birds`. I hope you enjoy them!
+You can see my Birdbuddy posts on [Bluesky](https://bsky.app/profile/lucas.meyerperin.org). They are all tagged with `#birds`. I hope you enjoy them!
 
 ## Buying your own Birdbuddy
 
@@ -164,4 +164,4 @@ If you want to buy your own Birdbuddy, you can find it on [Amazon](https://amzn.
 
 ## Comments {.unlisted}
 
-{{< bluesky-comments https://bsky.app/profile/lucasmeyer.bsky.social/post/3lbxfiyp7jc2a >}}
+{{< bluesky-comments https://bsky.app/profile/lucas.meyerperin.org/post/3lbxfiyp7jc2a >}}

@@ -53,4 +53,4 @@ I think this is great, because I would have promoted the post to Bluesky anyway,
 
 ## Comments {.unlisted}
 
-{{< bluesky-comments https://bsky.app/profile/lucasmeyer.bsky.social/post/3lce4em3ors2b >}}
+{{< bluesky-comments https://bsky.app/profile/lucas.meyerperin.org/post/3lce4em3ors2b >}}

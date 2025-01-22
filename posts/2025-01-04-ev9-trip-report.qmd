@@ -61,4 +61,4 @@ Even though the adapter mishap and the problems with broken chargers were stress
 
 ## Comments {.unlisted}
 
-{{< bluesky-comments https://bsky.app/profile/lucasmeyer.bsky.social/post/3lf4662ovx22r >}}
+{{< bluesky-comments https://bsky.app/profile/lucas.meyerperin.org/post/3lf4662ovx22r >}}
