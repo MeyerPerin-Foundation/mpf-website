@@ -39,7 +39,7 @@ The more you know about the neighborhood about your global maxima, the easier it
 
 Career coaches (and good managers) keep asking you about your "global objective". By learning more about it, they can tell you more the path to get there, or find someone that can. Over time, you may accumulate enough information to make a better move when you decide to.
 
-## THe multi-armed bandit
+## The multi-armed bandit
 
 The hardest problem to solve in career optimization is lack of information. People may have some general idea of where they want to go, but usually not much. For example, I commonly hear people saying that they want to become managers, but after just a few questions I realize that they don't really know what that means and whether they actually want that.
 
@@ -51,7 +51,7 @@ Imagine a slot machine that has multiple levers, therefore a "multi-armed bandit
 
 Without knowing the distributions, you can't know the optimal action to take. In real life, not only one doesn't know the distributions, but the distributions for each lever can change over time. If that was not complicated enough, you also have infinite levers to choose from. Nobody said it was supposed to be easy.
 
-![](/images/multi-armed-bandit.jpg)
+![](/images/multi-armed-bandit.png)
 
 The multi-armed bandit problem doesn't have a general optimal solution, but has several strategies that achieve approximate solutions. It is a classical reinforcement learning problem.
 
@@ -63,3 +63,5 @@ That's using data science in production.
 
 
 </article>
+
+{{< bluesky-comments https://bsky.app/profile/lucas.meyerperin.org/post/3lgszv7hx6a2o >}}

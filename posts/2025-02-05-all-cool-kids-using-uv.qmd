@@ -1,0 +1,81 @@
+---
+author: Lucas A. Meyer
+date: 2025-02-05
+draft: false
+image: /images/Astral.jpg
+include-in-header: _msft-clarity.html
+page-layout: full
+title: Using Astral's uv Pyhon packager in Azure Web Apps GitHub Actions
+toc: true
+toc-expand: true
+---
+<article data-clarity-region="article">
+
+I will eventually have to write a more detailed post about [Astral's `uv`](https://docs.astral.sh/uv/), a tool that all the cool kids are using. 
+
+In summary, it's a single tool that replaces a lot of different tools that we use to develop and distribute Python software. It can replace `pip`, `pip-tools`, `pipx`, `poetry`, `pyenv`, `twine`, and `virtualenv`. It's also very fast. 
+
+For now, I just want to show how to integrate `uv` in a GitHub Actions workflow that deploys to Azure Web Apps.
+
+## A typical Azure Web Apps workflow
+
+Azure Web Apps know how to work with Python repositories that contain a `requirements.txt` file. If you're building a Python app with Django, Flask or FastAPI and deploying it to an Azure Web App, you probably have a GitHub Actions workflow YAML that has a **build** step that looks like this, under the `.github/workflows` directory of your repository:
+
+```yaml
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python version
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Create and start virtual environment
+        run: |
+          python -m venv venv
+          source venv/bin/activate
+      
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+        
+      - name: Zip artifact for deployment
+        run: zip release.zip ./* -r
+
+```
+
+As you can see, this workflow checks out the repository, sets up Python 3.12, creates a virtual environment, installs the dependencies as listed in `requirements.txt`, zips the artifact and uploads it to the GitHub Actions runner. 
+
+If you have been using `uv`, you know that you don't need to manually create a virtual environment, and you don't need to list your dependencies in a `requirements.txt` file. You ***can*** do this locally with `uv` by exporting the dependencies with `uv pip compile pyproject.toml -o requirements.txt`, but that would add an extra step before checking in your code. Instead, we're going to do this directly in the GitHub Actions runner.
+
+## Replacing the virtual environment and `requirements.txt` steps with `uv`
+
+In order to use `uv` during the Azure build, you need to install `uv` in your GitHub Actions runner. You can delete the `Create and start virtual environment` and add the following code to install `uv`:
+
+```yaml
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
+```
+
+This will install `uv` in the GitHub Actions runner. The next step is to generate the requirements file. You can do this with the following command:
+
+```yaml
+      - name: Generate requirements.txt
+        run: uv pip compile pyproject.toml -o requirements.txt
+```
+
+Interestingly, deleting the `Install dependencies` step seems to have no effect at this point. If you need the packages during the build step, for example to perform tests, you shouldn't delete them, but apparently the `deploy` step of the GitHub Actions workflow will install the dependencies from the `requirements.txt` file even if you don't install them explicitly in the `build` step.
+
+## Just do it!
+
+I have been using `uv` for the past few months, and I can tell that my producitivity improved. It's easier to manage packages, to maintain installations, to install `pytorch`, and a lot easier to perform tests using multiple versions of Python using `uv`. 
+
+The only thing that was holding me back on using `uv` more was the lack of native integration with Azure Web Apps, but now that I have a workaround, I can't see myself going back to the old way of doing things.
+
+</article>
+
+## Comments {.unlisted}
+
+{{< bluesky-comments https://bsky.app/profile/lucas.meyerperin.org/post/3lhhh2vddyc2f >}}
