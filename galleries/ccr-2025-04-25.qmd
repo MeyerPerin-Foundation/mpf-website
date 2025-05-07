@@ -1,0 +1,166 @@
+---
+title: "Cross Creek Ranch"
+date: 2025-04-25
+subtitle: "Fulshear, TX"
+image: https://threadmanager.blob.core.windows.net/users/lcvvIIfrcgy3oo8NKhjkLYJDZvHJKG0Nj3gerYEDsgQ/themed_folders/photography/2025_04_25_Fulshear/4ae16c55-ab8e-5cdf-9700-4794a31c0c0b_thumb.jpg
+author: "Lucas A. Meyer"
+lightbox: true
+include-in-header:
+  - text: |
+      <style>
+        .image-row{display:flex;align-items:flex-start;gap:1rem;margin:1rem 0;}
+        .image-row img{max-width:300px;height:auto;flex-shrink:0;}
+        .image-row .caption{max-width:42rem;}
+      </style>
+---
+
+
+::: {.image-row}
+[![A graceful heron stands at the water’s edge, blending perfectly into the lush green reeds in the soft glow of morning light. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 600mm 9.0 f-stop, 200 ISO, 1/200s exposure 2025-04-25@18:12](https://threadmanager.blob.core.windows.net/users/lcvvIIfrcgy3oo8NKhjkLYJDZvHJKG0Nj3gerYEDsgQ/themed_folders/photography/2025_04_25_Fulshear/1d2c6cce-6497-5cbe-8f56-26aac264e9ff_thumb.jpg){.lightbox title="A graceful heron stands at the water’s edge, blending perfectly into the lush green reeds in the soft glow of morning light. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 600mm 9.0 f-stop, 200 ISO, 1/200s exposure 2025-04-25@18:12" alt="A graceful heron stands at the water’s edge, blending perfectly into the lush green reeds in the soft glow of morning light. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 600mm 9.0 f-stop, 200 ISO, 1/200s exposure 2025-04-25@18:12"}](https://threadmanager.blob.core.windows.net/users/lcvvIIfrcgy3oo8NKhjkLYJDZvHJKG0Nj3gerYEDsgQ/themed_folders/photography/2025_04_25_Fulshear/1d2c6cce-6497-5cbe-8f56-26aac264e9ff.jpg)
+<div class="caption">A graceful heron stands at the water’s edge, blending perfectly into the lush green reeds in the soft glow of morning light. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 600mm 9.0 f-stop, 200 ISO, 1/200s exposure 2025-04-25@18:12</div>
+:::
+
+
+::: {.image-row}
+[![A heron stands gracefully by the water’s edge, preening its feathers in the soft morning light. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 600mm 10.0 f-stop, 200 ISO, 1/200s exposure 2025-04-25@18:12](https://threadmanager.blob.core.windows.net/users/lcvvIIfrcgy3oo8NKhjkLYJDZvHJKG0Nj3gerYEDsgQ/themed_folders/photography/2025_04_25_Fulshear/42ea8dea-c444-547f-b9bf-27c9b90a0d9f_thumb.jpg){.lightbox title="A heron stands gracefully by the water’s edge, preening its feathers in the soft morning light. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 600mm 10.0 f-stop, 200 ISO, 1/200s exposure 2025-04-25@18:12" alt="A heron stands gracefully by the water’s edge, preening its feathers in the soft morning light. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 600mm 10.0 f-stop, 200 ISO, 1/200s exposure 2025-04-25@18:12"}](https://threadmanager.blob.core.windows.net/users/lcvvIIfrcgy3oo8NKhjkLYJDZvHJKG0Nj3gerYEDsgQ/themed_folders/photography/2025_04_25_Fulshear/42ea8dea-c444-547f-b9bf-27c9b90a0d9f.jpg)
+<div class="caption">A heron stands gracefully by the water’s edge, preening its feathers in the soft morning light. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 600mm 10.0 f-stop, 200 ISO, 1/200s exposure 2025-04-25@18:12</div>
+:::
+
+
+::: {.image-row}
+[![A majestic great blue heron stands tall by the water’s edge, blending seamlessly into its lush green surroundings. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 600mm 10.0 f-stop, 200 ISO, 1/200s exposure 2025-04-25@18:12](https://threadmanager.blob.core.windows.net/users/lcvvIIfrcgy3oo8NKhjkLYJDZvHJKG0Nj3gerYEDsgQ/themed_folders/photography/2025_04_25_Fulshear/ae09b6c7-facb-55f6-9d15-56fbce5938e4_thumb.jpg){.lightbox title="A majestic great blue heron stands tall by the water’s edge, blending seamlessly into its lush green surroundings. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 600mm 10.0 f-stop, 200 ISO, 1/200s exposure 2025-04-25@18:12" alt="A majestic great blue heron stands tall by the water’s edge, blending seamlessly into its lush green surroundings. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 600mm 10.0 f-stop, 200 ISO, 1/200s exposure 2025-04-25@18:12"}](https://threadmanager.blob.core.windows.net/users/lcvvIIfrcgy3oo8NKhjkLYJDZvHJKG0Nj3gerYEDsgQ/themed_folders/photography/2025_04_25_Fulshear/ae09b6c7-facb-55f6-9d15-56fbce5938e4.jpg)
+<div class="caption">A majestic great blue heron stands tall by the water’s edge, blending seamlessly into its lush green surroundings. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 600mm 10.0 f-stop, 200 ISO, 1/200s exposure 2025-04-25@18:12</div>
+:::
+
+
+::: {.image-row}
+[![A graceful egret stands at the water&#x27;s edge, basking in the calm and serenity of nature&#x27;s peaceful embrace. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 600mm 14.0 f-stop, 200 ISO, 1/200s exposure 2025-04-25@18:20](https://threadmanager.blob.core.windows.net/users/lcvvIIfrcgy3oo8NKhjkLYJDZvHJKG0Nj3gerYEDsgQ/themed_folders/photography/2025_04_25_Fulshear/b66894bb-dac7-511e-8e7b-030d0bf4c652_thumb.jpg){.lightbox title="A graceful egret stands at the water&#x27;s edge, basking in the calm and serenity of nature&#x27;s peaceful embrace. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 600mm 14.0 f-stop, 200 ISO, 1/200s exposure 2025-04-25@18:20" alt="A graceful egret stands at the water&#x27;s edge, basking in the calm and serenity of nature&#x27;s peaceful embrace. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 600mm 14.0 f-stop, 200 ISO, 1/200s exposure 2025-04-25@18:20"}](https://threadmanager.blob.core.windows.net/users/lcvvIIfrcgy3oo8NKhjkLYJDZvHJKG0Nj3gerYEDsgQ/themed_folders/photography/2025_04_25_Fulshear/b66894bb-dac7-511e-8e7b-030d0bf4c652.jpg)
+<div class="caption">A graceful egret stands at the water&amp;#x27;s edge, basking in the calm and serenity of nature&amp;#x27;s peaceful embrace. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 600mm 14.0 f-stop, 200 ISO, 1/200s exposure 2025-04-25@18:20</div>
+:::
+
+
+::: {.image-row}
+[![A graceful great egret searches the shallow water for its next meal, blending perfectly with the tranquil setting. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 220mm 11.0 f-stop, 200 ISO, 1/200s exposure 2025-04-25@18:21](https://threadmanager.blob.core.windows.net/users/lcvvIIfrcgy3oo8NKhjkLYJDZvHJKG0Nj3gerYEDsgQ/themed_folders/photography/2025_04_25_Fulshear/4fd0968c-a803-5cc0-981f-8e59d8aa957c_thumb.jpg){.lightbox title="A graceful great egret searches the shallow water for its next meal, blending perfectly with the tranquil setting. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 220mm 11.0 f-stop, 200 ISO, 1/200s exposure 2025-04-25@18:21" alt="A graceful great egret searches the shallow water for its next meal, blending perfectly with the tranquil setting. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 220mm 11.0 f-stop, 200 ISO, 1/200s exposure 2025-04-25@18:21"}](https://threadmanager.blob.core.windows.net/users/lcvvIIfrcgy3oo8NKhjkLYJDZvHJKG0Nj3gerYEDsgQ/themed_folders/photography/2025_04_25_Fulshear/4fd0968c-a803-5cc0-981f-8e59d8aa957c.jpg)
+<div class="caption">A graceful great egret searches the shallow water for its next meal, blending perfectly with the tranquil setting. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 220mm 11.0 f-stop, 200 ISO, 1/200s exposure 2025-04-25@18:21</div>
+:::
+
+
+::: {.image-row}
+[![A graceful great egret wades through the shallow waters, searching for its next meal in the peaceful wetlands. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 150mm 9.0 f-stop, 200 ISO, 1/200s exposure 2025-04-25@18:21](https://threadmanager.blob.core.windows.net/users/lcvvIIfrcgy3oo8NKhjkLYJDZvHJKG0Nj3gerYEDsgQ/themed_folders/photography/2025_04_25_Fulshear/20ffb73c-59c3-5e47-ad6c-703b747ef874_thumb.jpg){.lightbox title="A graceful great egret wades through the shallow waters, searching for its next meal in the peaceful wetlands. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 150mm 9.0 f-stop, 200 ISO, 1/200s exposure 2025-04-25@18:21" alt="A graceful great egret wades through the shallow waters, searching for its next meal in the peaceful wetlands. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 150mm 9.0 f-stop, 200 ISO, 1/200s exposure 2025-04-25@18:21"}](https://threadmanager.blob.core.windows.net/users/lcvvIIfrcgy3oo8NKhjkLYJDZvHJKG0Nj3gerYEDsgQ/themed_folders/photography/2025_04_25_Fulshear/20ffb73c-59c3-5e47-ad6c-703b747ef874.jpg)
+<div class="caption">A graceful great egret wades through the shallow waters, searching for its next meal in the peaceful wetlands. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 150mm 9.0 f-stop, 200 ISO, 1/200s exposure 2025-04-25@18:21</div>
+:::
+
+
+::: {.image-row}
+[![A graceful great egret stalks the shallow waters, searching for its next meal in the golden light of late afternoon. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 150mm 9.0 f-stop, 200 ISO, 1/200s exposure 2025-04-25@18:22](https://threadmanager.blob.core.windows.net/users/lcvvIIfrcgy3oo8NKhjkLYJDZvHJKG0Nj3gerYEDsgQ/themed_folders/photography/2025_04_25_Fulshear/4087f011-fc74-589f-98a8-2e3b6092209d_thumb.jpg){.lightbox title="A graceful great egret stalks the shallow waters, searching for its next meal in the golden light of late afternoon. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 150mm 9.0 f-stop, 200 ISO, 1/200s exposure 2025-04-25@18:22" alt="A graceful great egret stalks the shallow waters, searching for its next meal in the golden light of late afternoon. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 150mm 9.0 f-stop, 200 ISO, 1/200s exposure 2025-04-25@18:22"}](https://threadmanager.blob.core.windows.net/users/lcvvIIfrcgy3oo8NKhjkLYJDZvHJKG0Nj3gerYEDsgQ/themed_folders/photography/2025_04_25_Fulshear/4087f011-fc74-589f-98a8-2e3b6092209d.jpg)
+<div class="caption">A graceful great egret stalks the shallow waters, searching for its next meal in the golden light of late afternoon. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 150mm 9.0 f-stop, 200 ISO, 1/200s exposure 2025-04-25@18:22</div>
+:::
+
+
+::: {.image-row}
+[![With its long neck poised, a great egret scans the water’s edge, patiently awaiting the perfect moment to strike. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 449mm 10.0 f-stop, 200 ISO, 1/200s exposure 2025-04-25@18:22](https://threadmanager.blob.core.windows.net/users/lcvvIIfrcgy3oo8NKhjkLYJDZvHJKG0Nj3gerYEDsgQ/themed_folders/photography/2025_04_25_Fulshear/af2ee246-31a3-575b-9705-d3dc225d17c0_thumb.jpg){.lightbox title="With its long neck poised, a great egret scans the water’s edge, patiently awaiting the perfect moment to strike. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 449mm 10.0 f-stop, 200 ISO, 1/200s exposure 2025-04-25@18:22" alt="With its long neck poised, a great egret scans the water’s edge, patiently awaiting the perfect moment to strike. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 449mm 10.0 f-stop, 200 ISO, 1/200s exposure 2025-04-25@18:22"}](https://threadmanager.blob.core.windows.net/users/lcvvIIfrcgy3oo8NKhjkLYJDZvHJKG0Nj3gerYEDsgQ/themed_folders/photography/2025_04_25_Fulshear/af2ee246-31a3-575b-9705-d3dc225d17c0.jpg)
+<div class="caption">With its long neck poised, a great egret scans the water’s edge, patiently awaiting the perfect moment to strike. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 449mm 10.0 f-stop, 200 ISO, 1/200s exposure 2025-04-25@18:22</div>
+:::
+
+
+::: {.image-row}
+[![A great egret peers through the reeds, its sharp gaze focused on the waters below in search of its next meal. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 600mm 9.0 f-stop, 200 ISO, 1/200s exposure 2025-04-25@18:23](https://threadmanager.blob.core.windows.net/users/lcvvIIfrcgy3oo8NKhjkLYJDZvHJKG0Nj3gerYEDsgQ/themed_folders/photography/2025_04_25_Fulshear/2a1dc5e8-365a-557a-bee3-eed01d398527_thumb.jpg){.lightbox title="A great egret peers through the reeds, its sharp gaze focused on the waters below in search of its next meal. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 600mm 9.0 f-stop, 200 ISO, 1/200s exposure 2025-04-25@18:23" alt="A great egret peers through the reeds, its sharp gaze focused on the waters below in search of its next meal. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 600mm 9.0 f-stop, 200 ISO, 1/200s exposure 2025-04-25@18:23"}](https://threadmanager.blob.core.windows.net/users/lcvvIIfrcgy3oo8NKhjkLYJDZvHJKG0Nj3gerYEDsgQ/themed_folders/photography/2025_04_25_Fulshear/2a1dc5e8-365a-557a-bee3-eed01d398527.jpg)
+<div class="caption">A great egret peers through the reeds, its sharp gaze focused on the waters below in search of its next meal. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 600mm 9.0 f-stop, 200 ISO, 1/200s exposure 2025-04-25@18:23</div>
+:::
+
+
+::: {.image-row}
+[![A graceful great egret wades quietly through the marsh, blending into the reeds in search of its next meal. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 210mm 7.1 f-stop, 200 ISO, 1/200s exposure 2025-04-25@18:23](https://threadmanager.blob.core.windows.net/users/lcvvIIfrcgy3oo8NKhjkLYJDZvHJKG0Nj3gerYEDsgQ/themed_folders/photography/2025_04_25_Fulshear/a0f75fc8-56da-5c9a-83d9-61859c0bf67e_thumb.jpg){.lightbox title="A graceful great egret wades quietly through the marsh, blending into the reeds in search of its next meal. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 210mm 7.1 f-stop, 200 ISO, 1/200s exposure 2025-04-25@18:23" alt="A graceful great egret wades quietly through the marsh, blending into the reeds in search of its next meal. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 210mm 7.1 f-stop, 200 ISO, 1/200s exposure 2025-04-25@18:23"}](https://threadmanager.blob.core.windows.net/users/lcvvIIfrcgy3oo8NKhjkLYJDZvHJKG0Nj3gerYEDsgQ/themed_folders/photography/2025_04_25_Fulshear/a0f75fc8-56da-5c9a-83d9-61859c0bf67e.jpg)
+<div class="caption">A graceful great egret wades quietly through the marsh, blending into the reeds in search of its next meal. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 210mm 7.1 f-stop, 200 ISO, 1/200s exposure 2025-04-25@18:23</div>
+:::
+
+
+::: {.image-row}
+[![Great egret peeks through tall grass, eyes focused as it searches for its next meal by the water’s edge. Nature’s patience on display. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 400mm 10.0 f-stop, 200 ISO, 1/200s exposure 2025-04-25@18:23](https://threadmanager.blob.core.windows.net/users/lcvvIIfrcgy3oo8NKhjkLYJDZvHJKG0Nj3gerYEDsgQ/themed_folders/photography/2025_04_25_Fulshear/077e0221-cdc9-5202-9b00-8e2b65c6b050_thumb.jpg){.lightbox title="Great egret peeks through tall grass, eyes focused as it searches for its next meal by the water’s edge. Nature’s patience on display. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 400mm 10.0 f-stop, 200 ISO, 1/200s exposure 2025-04-25@18:23" alt="Great egret peeks through tall grass, eyes focused as it searches for its next meal by the water’s edge. Nature’s patience on display. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 400mm 10.0 f-stop, 200 ISO, 1/200s exposure 2025-04-25@18:23"}](https://threadmanager.blob.core.windows.net/users/lcvvIIfrcgy3oo8NKhjkLYJDZvHJKG0Nj3gerYEDsgQ/themed_folders/photography/2025_04_25_Fulshear/077e0221-cdc9-5202-9b00-8e2b65c6b050.jpg)
+<div class="caption">Great egret peeks through tall grass, eyes focused as it searches for its next meal by the water’s edge. Nature’s patience on display. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 400mm 10.0 f-stop, 200 ISO, 1/200s exposure 2025-04-25@18:23</div>
+:::
+
+
+::: {.image-row}
+[![A graceful great egret wades through the shallows, searching for its next meal among the reeds. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 150mm 8.0 f-stop, 200 ISO, 1/200s exposure 2025-04-25@18:25](https://threadmanager.blob.core.windows.net/users/lcvvIIfrcgy3oo8NKhjkLYJDZvHJKG0Nj3gerYEDsgQ/themed_folders/photography/2025_04_25_Fulshear/43e042d6-1bee-5a01-9235-9b82c07132e3_thumb.jpg){.lightbox title="A graceful great egret wades through the shallows, searching for its next meal among the reeds. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 150mm 8.0 f-stop, 200 ISO, 1/200s exposure 2025-04-25@18:25" alt="A graceful great egret wades through the shallows, searching for its next meal among the reeds. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 150mm 8.0 f-stop, 200 ISO, 1/200s exposure 2025-04-25@18:25"}](https://threadmanager.blob.core.windows.net/users/lcvvIIfrcgy3oo8NKhjkLYJDZvHJKG0Nj3gerYEDsgQ/themed_folders/photography/2025_04_25_Fulshear/43e042d6-1bee-5a01-9235-9b82c07132e3.jpg)
+<div class="caption">A graceful great egret wades through the shallows, searching for its next meal among the reeds. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 150mm 8.0 f-stop, 200 ISO, 1/200s exposure 2025-04-25@18:25</div>
+:::
+
+
+::: {.image-row}
+[![A curious wild rabbit pauses in the grass, its big eyes and twitching ears alert to every sound in the springtime meadow. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 373mm 6.1 f-stop, 400 ISO, 1/200s exposure 2025-04-25@18:27](https://threadmanager.blob.core.windows.net/users/lcvvIIfrcgy3oo8NKhjkLYJDZvHJKG0Nj3gerYEDsgQ/themed_folders/photography/2025_04_25_Fulshear/6729a606-df89-5a0b-af39-8c547457eb88_thumb.jpg){.lightbox title="A curious wild rabbit pauses in the grass, its big eyes and twitching ears alert to every sound in the springtime meadow. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 373mm 6.1 f-stop, 400 ISO, 1/200s exposure 2025-04-25@18:27" alt="A curious wild rabbit pauses in the grass, its big eyes and twitching ears alert to every sound in the springtime meadow. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 373mm 6.1 f-stop, 400 ISO, 1/200s exposure 2025-04-25@18:27"}](https://threadmanager.blob.core.windows.net/users/lcvvIIfrcgy3oo8NKhjkLYJDZvHJKG0Nj3gerYEDsgQ/themed_folders/photography/2025_04_25_Fulshear/6729a606-df89-5a0b-af39-8c547457eb88.jpg)
+<div class="caption">A curious wild rabbit pauses in the grass, its big eyes and twitching ears alert to every sound in the springtime meadow. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 373mm 6.1 f-stop, 400 ISO, 1/200s exposure 2025-04-25@18:27</div>
+:::
+
+
+::: {.image-row}
+[![Curious bunny in the grass, with big ears ready to catch every sound and eyes wide open for adventure. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 600mm 6.3 f-stop, 400 ISO, 1/200s exposure 2025-04-25@18:27](https://threadmanager.blob.core.windows.net/users/lcvvIIfrcgy3oo8NKhjkLYJDZvHJKG0Nj3gerYEDsgQ/themed_folders/photography/2025_04_25_Fulshear/4ae16c55-ab8e-5cdf-9700-4794a31c0c0b_thumb.jpg){.lightbox title="Curious bunny in the grass, with big ears ready to catch every sound and eyes wide open for adventure. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 600mm 6.3 f-stop, 400 ISO, 1/200s exposure 2025-04-25@18:27" alt="Curious bunny in the grass, with big ears ready to catch every sound and eyes wide open for adventure. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 600mm 6.3 f-stop, 400 ISO, 1/200s exposure 2025-04-25@18:27"}](https://threadmanager.blob.core.windows.net/users/lcvvIIfrcgy3oo8NKhjkLYJDZvHJKG0Nj3gerYEDsgQ/themed_folders/photography/2025_04_25_Fulshear/4ae16c55-ab8e-5cdf-9700-4794a31c0c0b.jpg)
+<div class="caption">Curious bunny in the grass, with big ears ready to catch every sound and eyes wide open for adventure. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 600mm 6.3 f-stop, 400 ISO, 1/200s exposure 2025-04-25@18:27</div>
+:::
+
+
+::: {.image-row}
+[![This curious bunny stopped for a quick pose, showing off its big ears and fluffy fur on a sunny day in the grass. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 600mm 6.3 f-stop, 500 ISO, 1/200s exposure 2025-04-25@18:27](https://threadmanager.blob.core.windows.net/users/lcvvIIfrcgy3oo8NKhjkLYJDZvHJKG0Nj3gerYEDsgQ/themed_folders/photography/2025_04_25_Fulshear/a40695cb-b5a9-5560-b2b3-0abf030e7595_thumb.jpg){.lightbox title="This curious bunny stopped for a quick pose, showing off its big ears and fluffy fur on a sunny day in the grass. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 600mm 6.3 f-stop, 500 ISO, 1/200s exposure 2025-04-25@18:27" alt="This curious bunny stopped for a quick pose, showing off its big ears and fluffy fur on a sunny day in the grass. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 600mm 6.3 f-stop, 500 ISO, 1/200s exposure 2025-04-25@18:27"}](https://threadmanager.blob.core.windows.net/users/lcvvIIfrcgy3oo8NKhjkLYJDZvHJKG0Nj3gerYEDsgQ/themed_folders/photography/2025_04_25_Fulshear/a40695cb-b5a9-5560-b2b3-0abf030e7595.jpg)
+<div class="caption">This curious bunny stopped for a quick pose, showing off its big ears and fluffy fur on a sunny day in the grass. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 600mm 6.3 f-stop, 500 ISO, 1/200s exposure 2025-04-25@18:27</div>
+:::
+
+
+::: {.image-row}
+[![Curious bunny enjoying a snack in the grass. Look at those adorable ears! 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 523mm 6.3 f-stop, 500 ISO, 1/200s exposure 2025-04-25@18:27](https://threadmanager.blob.core.windows.net/users/lcvvIIfrcgy3oo8NKhjkLYJDZvHJKG0Nj3gerYEDsgQ/themed_folders/photography/2025_04_25_Fulshear/3a953e45-f1de-528e-a42e-f009a157730a_thumb.jpg){.lightbox title="Curious bunny enjoying a snack in the grass. Look at those adorable ears! 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 523mm 6.3 f-stop, 500 ISO, 1/200s exposure 2025-04-25@18:27" alt="Curious bunny enjoying a snack in the grass. Look at those adorable ears! 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 523mm 6.3 f-stop, 500 ISO, 1/200s exposure 2025-04-25@18:27"}](https://threadmanager.blob.core.windows.net/users/lcvvIIfrcgy3oo8NKhjkLYJDZvHJKG0Nj3gerYEDsgQ/themed_folders/photography/2025_04_25_Fulshear/3a953e45-f1de-528e-a42e-f009a157730a.jpg)
+<div class="caption">Curious bunny enjoying a snack in the grass. Look at those adorable ears! 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 523mm 6.3 f-stop, 500 ISO, 1/200s exposure 2025-04-25@18:27</div>
+:::
+
+
+::: {.image-row}
+[![Bright-eyed and bushy-tailed: this adorable rabbit enjoys a snack while keeping a curious eye on the world around it. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 523mm 6.3 f-stop, 500 ISO, 1/200s exposure 2025-04-25@18:28](https://threadmanager.blob.core.windows.net/users/lcvvIIfrcgy3oo8NKhjkLYJDZvHJKG0Nj3gerYEDsgQ/themed_folders/photography/2025_04_25_Fulshear/0108ffe0-3aa4-52f1-a995-1f2ce85a153d_thumb.jpg){.lightbox title="Bright-eyed and bushy-tailed: this adorable rabbit enjoys a snack while keeping a curious eye on the world around it. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 523mm 6.3 f-stop, 500 ISO, 1/200s exposure 2025-04-25@18:28" alt="Bright-eyed and bushy-tailed: this adorable rabbit enjoys a snack while keeping a curious eye on the world around it. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 523mm 6.3 f-stop, 500 ISO, 1/200s exposure 2025-04-25@18:28"}](https://threadmanager.blob.core.windows.net/users/lcvvIIfrcgy3oo8NKhjkLYJDZvHJKG0Nj3gerYEDsgQ/themed_folders/photography/2025_04_25_Fulshear/0108ffe0-3aa4-52f1-a995-1f2ce85a153d.jpg)
+<div class="caption">Bright-eyed and bushy-tailed: this adorable rabbit enjoys a snack while keeping a curious eye on the world around it. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 523mm 6.3 f-stop, 500 ISO, 1/200s exposure 2025-04-25@18:28</div>
+:::
+
+
+::: {.image-row}
+[![Perched among the pine needles, a curious squirrel pauses mid-climb to take in the view of its forest home. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 200mm 5.6 f-stop, 1600 ISO, 1/200s exposure 2025-04-25@18:30](https://threadmanager.blob.core.windows.net/users/lcvvIIfrcgy3oo8NKhjkLYJDZvHJKG0Nj3gerYEDsgQ/themed_folders/photography/2025_04_25_Fulshear/2263293e-64dc-55e1-a7fa-6de268ed856d_thumb.jpg){.lightbox title="Perched among the pine needles, a curious squirrel pauses mid-climb to take in the view of its forest home. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 200mm 5.6 f-stop, 1600 ISO, 1/200s exposure 2025-04-25@18:30" alt="Perched among the pine needles, a curious squirrel pauses mid-climb to take in the view of its forest home. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 200mm 5.6 f-stop, 1600 ISO, 1/200s exposure 2025-04-25@18:30"}](https://threadmanager.blob.core.windows.net/users/lcvvIIfrcgy3oo8NKhjkLYJDZvHJKG0Nj3gerYEDsgQ/themed_folders/photography/2025_04_25_Fulshear/2263293e-64dc-55e1-a7fa-6de268ed856d.jpg)
+<div class="caption">Perched among the pine needles, a curious squirrel pauses mid-climb to take in the view of its forest home. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 200mm 5.6 f-stop, 1600 ISO, 1/200s exposure 2025-04-25@18:30</div>
+:::
+
+
+::: {.image-row}
+[![A curious bunny enjoys a sunny day, exploring the fresh green grass in the warmth of spring. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 473mm 7.1 f-stop, 200 ISO, 1/200s exposure 2025-04-25@18:49](https://threadmanager.blob.core.windows.net/users/lcvvIIfrcgy3oo8NKhjkLYJDZvHJKG0Nj3gerYEDsgQ/themed_folders/photography/2025_04_25_Fulshear/8fb81dc6-2b0d-5f6a-819d-b5cdee34572b_thumb.jpg){.lightbox title="A curious bunny enjoys a sunny day, exploring the fresh green grass in the warmth of spring. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 473mm 7.1 f-stop, 200 ISO, 1/200s exposure 2025-04-25@18:49" alt="A curious bunny enjoys a sunny day, exploring the fresh green grass in the warmth of spring. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 473mm 7.1 f-stop, 200 ISO, 1/200s exposure 2025-04-25@18:49"}](https://threadmanager.blob.core.windows.net/users/lcvvIIfrcgy3oo8NKhjkLYJDZvHJKG0Nj3gerYEDsgQ/themed_folders/photography/2025_04_25_Fulshear/8fb81dc6-2b0d-5f6a-819d-b5cdee34572b.jpg)
+<div class="caption">A curious bunny enjoys a sunny day, exploring the fresh green grass in the warmth of spring. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 473mm 7.1 f-stop, 200 ISO, 1/200s exposure 2025-04-25@18:49</div>
+:::
+
+
+::: {.image-row}
+[![A graceful great blue heron stands by the water’s edge, blending perfectly with the lush green marsh grass. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 600mm 7.1 f-stop, 200 ISO, 1/200s exposure 2025-04-25@18:54](https://threadmanager.blob.core.windows.net/users/lcvvIIfrcgy3oo8NKhjkLYJDZvHJKG0Nj3gerYEDsgQ/themed_folders/photography/2025_04_25_Fulshear/9660724f-e8bd-53e6-a952-e26c85b425f4_thumb.jpg){.lightbox title="A graceful great blue heron stands by the water’s edge, blending perfectly with the lush green marsh grass. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 600mm 7.1 f-stop, 200 ISO, 1/200s exposure 2025-04-25@18:54" alt="A graceful great blue heron stands by the water’s edge, blending perfectly with the lush green marsh grass. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 600mm 7.1 f-stop, 200 ISO, 1/200s exposure 2025-04-25@18:54"}](https://threadmanager.blob.core.windows.net/users/lcvvIIfrcgy3oo8NKhjkLYJDZvHJKG0Nj3gerYEDsgQ/themed_folders/photography/2025_04_25_Fulshear/9660724f-e8bd-53e6-a952-e26c85b425f4.jpg)
+<div class="caption">A graceful great blue heron stands by the water’s edge, blending perfectly with the lush green marsh grass. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 600mm 7.1 f-stop, 200 ISO, 1/200s exposure 2025-04-25@18:54</div>
+:::
+
+
+::: {.image-row}
+[![A great blue heron gracefully stalks the water’s edge, blending beautifully with the lush green marsh. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 600mm 7.1 f-stop, 200 ISO, 1/200s exposure 2025-04-25@18:55](https://threadmanager.blob.core.windows.net/users/lcvvIIfrcgy3oo8NKhjkLYJDZvHJKG0Nj3gerYEDsgQ/themed_folders/photography/2025_04_25_Fulshear/7793b698-1c82-50f0-a819-9960735cec06_thumb.jpg){.lightbox title="A great blue heron gracefully stalks the water’s edge, blending beautifully with the lush green marsh. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 600mm 7.1 f-stop, 200 ISO, 1/200s exposure 2025-04-25@18:55" alt="A great blue heron gracefully stalks the water’s edge, blending beautifully with the lush green marsh. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 600mm 7.1 f-stop, 200 ISO, 1/200s exposure 2025-04-25@18:55"}](https://threadmanager.blob.core.windows.net/users/lcvvIIfrcgy3oo8NKhjkLYJDZvHJKG0Nj3gerYEDsgQ/themed_folders/photography/2025_04_25_Fulshear/7793b698-1c82-50f0-a819-9960735cec06.jpg)
+<div class="caption">A great blue heron gracefully stalks the water’s edge, blending beautifully with the lush green marsh. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 600mm 7.1 f-stop, 200 ISO, 1/200s exposure 2025-04-25@18:55</div>
+:::
+
+
+::: {.image-row}
+[![A Northern Mockingbird stands alert on fresh green grass, soaking up the sunshine on a peaceful day. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 600mm 6.3 f-stop, 250 ISO, 1/200s exposure 2025-04-25@18:55](https://threadmanager.blob.core.windows.net/users/lcvvIIfrcgy3oo8NKhjkLYJDZvHJKG0Nj3gerYEDsgQ/themed_folders/photography/2025_04_25_Fulshear/74c55afb-fab4-56f5-a661-570417500849_thumb.jpg){.lightbox title="A Northern Mockingbird stands alert on fresh green grass, soaking up the sunshine on a peaceful day. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 600mm 6.3 f-stop, 250 ISO, 1/200s exposure 2025-04-25@18:55" alt="A Northern Mockingbird stands alert on fresh green grass, soaking up the sunshine on a peaceful day. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 600mm 6.3 f-stop, 250 ISO, 1/200s exposure 2025-04-25@18:55"}](https://threadmanager.blob.core.windows.net/users/lcvvIIfrcgy3oo8NKhjkLYJDZvHJKG0Nj3gerYEDsgQ/themed_folders/photography/2025_04_25_Fulshear/74c55afb-fab4-56f5-a661-570417500849.jpg)
+<div class="caption">A Northern Mockingbird stands alert on fresh green grass, soaking up the sunshine on a peaceful day. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 600mm 6.3 f-stop, 250 ISO, 1/200s exposure 2025-04-25@18:55</div>
+:::
+
+
+::: {.image-row}
+[![A majestic great blue heron stands tall along the water’s edge, blending perfectly into its peaceful wetland surroundings. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 150mm 6.3 f-stop, 200 ISO, 1/200s exposure 2025-04-25@18:58](https://threadmanager.blob.core.windows.net/users/lcvvIIfrcgy3oo8NKhjkLYJDZvHJKG0Nj3gerYEDsgQ/themed_folders/photography/2025_04_25_Fulshear/59d2103f-b4bc-5cc8-b5d1-6227e2aabfd1_thumb.jpg){.lightbox title="A majestic great blue heron stands tall along the water’s edge, blending perfectly into its peaceful wetland surroundings. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 150mm 6.3 f-stop, 200 ISO, 1/200s exposure 2025-04-25@18:58" alt="A majestic great blue heron stands tall along the water’s edge, blending perfectly into its peaceful wetland surroundings. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 150mm 6.3 f-stop, 200 ISO, 1/200s exposure 2025-04-25@18:58"}](https://threadmanager.blob.core.windows.net/users/lcvvIIfrcgy3oo8NKhjkLYJDZvHJKG0Nj3gerYEDsgQ/themed_folders/photography/2025_04_25_Fulshear/59d2103f-b4bc-5cc8-b5d1-6227e2aabfd1.jpg)
+<div class="caption">A majestic great blue heron stands tall along the water’s edge, blending perfectly into its peaceful wetland surroundings. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 150mm 6.3 f-stop, 200 ISO, 1/200s exposure 2025-04-25@18:58</div>
+:::
+
+
+::: {.image-row}
+[![A northern mockingbird perches quietly among green leaves, enjoying a peaceful morning in the heart of nature. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 150mm 5.0 f-stop, 250 ISO, 1/200s exposure 2025-04-25@19:04](https://threadmanager.blob.core.windows.net/users/lcvvIIfrcgy3oo8NKhjkLYJDZvHJKG0Nj3gerYEDsgQ/themed_folders/photography/2025_04_25_Fulshear/fbfcad7b-7ed0-52cd-b203-8227467114cb_thumb.jpg){.lightbox title="A northern mockingbird perches quietly among green leaves, enjoying a peaceful morning in the heart of nature. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 150mm 5.0 f-stop, 250 ISO, 1/200s exposure 2025-04-25@19:04" alt="A northern mockingbird perches quietly among green leaves, enjoying a peaceful morning in the heart of nature. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 150mm 5.0 f-stop, 250 ISO, 1/200s exposure 2025-04-25@19:04"}](https://threadmanager.blob.core.windows.net/users/lcvvIIfrcgy3oo8NKhjkLYJDZvHJKG0Nj3gerYEDsgQ/themed_folders/photography/2025_04_25_Fulshear/fbfcad7b-7ed0-52cd-b203-8227467114cb.jpg)
+<div class="caption">A northern mockingbird perches quietly among green leaves, enjoying a peaceful morning in the heart of nature. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 150mm 5.0 f-stop, 250 ISO, 1/200s exposure 2025-04-25@19:04</div>
+:::
+
+
+::: {.image-row}
+[![A curious blue jay stops on a brick ledge, adding a flash of color and charm to the quiet corner of a home. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 287mm 5.8 f-stop, 400 ISO, 1/200s exposure 2025-04-25@19:16](https://threadmanager.blob.core.windows.net/users/lcvvIIfrcgy3oo8NKhjkLYJDZvHJKG0Nj3gerYEDsgQ/themed_folders/photography/2025_04_25_Fulshear/8475cd6c-1603-5a04-a317-dda228d8a46c_thumb.jpg){.lightbox title="A curious blue jay stops on a brick ledge, adding a flash of color and charm to the quiet corner of a home. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 287mm 5.8 f-stop, 400 ISO, 1/200s exposure 2025-04-25@19:16" alt="A curious blue jay stops on a brick ledge, adding a flash of color and charm to the quiet corner of a home. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 287mm 5.8 f-stop, 400 ISO, 1/200s exposure 2025-04-25@19:16"}](https://threadmanager.blob.core.windows.net/users/lcvvIIfrcgy3oo8NKhjkLYJDZvHJKG0Nj3gerYEDsgQ/themed_folders/photography/2025_04_25_Fulshear/8475cd6c-1603-5a04-a317-dda228d8a46c.jpg)
+<div class="caption">A curious blue jay stops on a brick ledge, adding a flash of color and charm to the quiet corner of a home. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 287mm 5.8 f-stop, 400 ISO, 1/200s exposure 2025-04-25@19:16</div>
+:::
+

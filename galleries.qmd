@@ -1,0 +1,11 @@
+---
+title: "Photo Galleries"
+listing:
+  contents: galleries
+  type: grid
+  grid-columns: 3
+  fields: [title, date, author, image]
+  sort: date
+
+---
+My photography galleries

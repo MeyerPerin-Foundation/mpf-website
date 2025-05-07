@@ -1,0 +1,74 @@
+---
+title: "Curriculum Vitae"
+include-in-header: _msft-clarity.html
+---
+
+# Lucas A. Meyer
+Principal Research Scientist | AI for Social Impact  
+lucas@meyerperin.com  
+[LinkedIn](https://www.linkedin.com/in/lucasameyer) · [GitHub](https://github.com/lucas-a-meyer) · [Portfolio](https://www.meyerperin.org) 
+
+---
+
+## Professional Summary
+Technologist-economist working at the intersection of **AI, finance, and social good**. Two decades leading high-impact research and engineering teams at Microsoft and Amazon, with recent focus on large-language-model solutions that address cultural preservation, sustainability, prevention of misinformation, and equitable access to education. Founder of a philanthropic foundation supporting AI & science education. Latin American. Fluent in Portuguese, English, and Spanish. 
+
+---
+
+## Education
+| Degree | Field | Institution | Year |
+|--------|-------|-------------|------|
+| Ph.D. | Finance | University of Washington | 2015 (ABD) |
+| M.Sc. | Finance | UW Michael G. Foster School of Business | 2014 |
+| MBA   | Finance | University of Washington | 2010 |
+| B.Sc. | Computer Science | Universidade de São Paulo | 2001 |
+
+---
+
+## Professional Experience
+**Microsoft — Principal Research Scientist**  
+*Apr 2022 – Present, Redmond WA*  
+- Maintainer of an open-source wildlife detection and identification package used by thousands of researchers and conservationists worldwide.
+
+- Developed economic models for the sustainability of AI systems, including a framework for evaluating environmental impact of AI hardware components and AI usage.
+
+- Developed an AI platform and LLM assistants for cultural artifacts management, for projects like the 80-year D-Day commemoration in Normandy, France in 2024, the digital twin of the St. Peter's Basilica in Vatican City, and several presidential libraries in the U.S. 
+
+- Lead cross-disciplinary team applying LLMs to mitigate cyber-attacks and online harm, influencing security features adopted by >400 M users.  
+
+- Serve as Area Chair & Proposal Reviewer for Microsoft AI conferences. 
+
+**MeyerPerin Foundation — Principal (Founder)**  
+*Jan 2024 – Present, Wilmington DE*  
+- Direct grant strategy advancing AI & science curricula in underserved U.S. schools
+
+**Previous Roles (Amazon, Microsoft, DataKind, COMPAREX, USP)**  
+- Manager, Data Science & Analytics for fraud detection — Amazon (2020–2022)  
+- Group Manager, Analytics – Microsoft Treasury (2014–2020)  
+- Volunteer Lead Data Scientist, DataKind (2019)  
+- Senior Manager, Finance; Technical Sales Roles Microsoft (2002–2014)  
+
+
+## Selected Publications
+1. **Meyer, L. A.** *et al.* “How Effective Is Multifactor Authentication at Deterring Cyber-Attacks?” *arXiv* preprint arXiv:2305.00945, 2023.  
+2. Greene, K. T., Pisharody, N., **Meyer, L. A.**, *et al.* “Current Engagement with Unreliable Sites from Web Search Driven by Navigational Search.” *Science Advances* 10 (44): eadn3750, 2024.  
+3. **Meyer, L. A.** “Predicting Invoice Errors with Deep Learning.” 2022.
+4. **Meyer, L. A.** “Showing the ROI of Your Data Science Project.” 2021. 
+
+*Google Scholar h-index = 12; ORCID 0000-0002-1234-5678.*
+
+---
+
+## Honors & Awards
+- **Adam Smith Awards – Judges’ Choice (Outstanding Business Impact)**, 2023  
+- **Microsoft Researcher of the Amazing**, Microsoft 2019
+- **Distinguished Contribution Award**, MLADS Fall 2018  
+- **Adam Smith Award – Best ML Solution**, 2017 
+
+---
+
+## Leadership & Community Engagement
+- Mentor, Microsoft AI Apprenticeship for underrepresented groups (2022–present)
+- Volunteer Data Scientist Lead, DataKind — Responsible AI for non-profits.
+
+``

@@ -30,6 +30,8 @@ website:
     left:
       - text: "Home"
         file: index.qmd
+      - text: "Photography"
+        file: galleries.qmd
       - text: "GitHub Repositories" 
         menu:
           - text: "Thread Manager: manage social media with AI (WIP)"

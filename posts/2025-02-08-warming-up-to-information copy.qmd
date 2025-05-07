@@ -1,0 +1,41 @@
+---
+author: Lucas A. Meyer
+date: 2025-02-08
+draft: false
+image: /images/warmup.webp
+include-in-header: _msft-clarity.html
+page-layout: full
+title: Warming up to information
+toc: true
+toc-expand: true
+---
+<article data-clarity-region="article">
+
+
+Information is powerful—especially when you have it before everyone else and know how to use it. In any market, whether it’s sports betting, stocks, or product pricing, being the first to know something can give you a huge edge.
+
+## Warming up to information
+
+In February 2023, the Missouri Tigers basketball team (then 17–5) were heading to play the Mississippi State Bulldogs. On paper, the Tigers were the favorites, and the betting markets reflected that. However, the flight taking the Tigers' players got delayed due to mechanical issues, which meant that they would not arrive in time to perform their warm-ups.
+
+You likely don't know this, but teams that don't warm up usually lose their games. Of particular importance, at the time of this game, teams that didn't warm up were 0-13 against covering their spreads. A spread is the margin by which the favored team is expected to win. Covering the spread means meeting or exceeding that margin if you’re the favorite, or staying within that margin (or winning) if you’re the underdog. For example, if a team is favored by 5 points and wins by 7, they have covered the spread. If they're expected to lose by 5 points and lose by only 2 (or win), they have covered the spread.
+
+Quickly after the flight delay announcement, large bets started pouring in for the underdog Mississippi State. Sportsbooks took notice and opened an investigation. The investigating company contacted the Missouri athletic director and found out that they were running late. The time between the announcement, the surge of bets, the investigation, and the Missouri athletic director receiving the call from the investigators? **Six minutes.**
+
+Mississippi State went on to win 63–52, covering both the first-half and full-game point spreads and confirming once again the importance of warm-ups. This travel hiccup turned the odds on their head—and turned out to be a winning bet for people who had the information early.
+
+### Information in markets
+
+The same principle applies to many other markets—such as the stock market, elections, or even when it comes to convincing people to buy products. Whenever new information pops up, it can cause swift and significant changes. A company’s earnings, a major political event, or a sudden shift in supply can all move markets, public opinion, or consumer behavior almost instantly. Being the first to get reliable information (or interpret it correctly) often gives you a valuable advantage.
+
+Large institutions have an advantage in the amount of data and tools (data science and AI) to comb through enormous amounts of information, spot unexpected changes, and react before the odds move too much. Because of this, smaller investors, consumers, and gamblers often find themselves at a disadvantage: they don’t have the same resources to identify and act on opportunities before the moment has passed. It’s about quickly processing real-time data—everything from flight schedules and injury updates to social media chatter. Professional market participants can do that. Regular people with a hunch are easy prey.
+
+Can the underdog market participant ever win? The Tigers vs. Bulldogs case shows that it's *possible*: the bets were allowed, and the fact that an investigation was opened indicates that the sports betting platforms didn't know what was happening or how to take advantage of it.
+
+For a whole six minutes.
+
+</article>
+
+## Comments {.unlisted}
+
+{{< bluesky-comments https://bsky.app/profile/lucas.meyerperin.org/post/3lhqweomqsk2y >}}

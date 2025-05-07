@@ -1,0 +1,76 @@
+---
+title: "Jordan Legacies Dance"
+date: 2025-04-26
+subtitle: ""
+image: https://threadmanager.blob.core.windows.net/users/lcvvIIfrcgy3oo8NKhjkLYJDZvHJKG0Nj3gerYEDsgQ/themed_folders/photography/2025_04_26_Jordan-Legacies-Dance/5a61f077-e3b4-5869-9180-168d64e13508_thumb.jpg
+author: "Lucas A. Meyer"
+lightbox: true
+include-in-header:
+  - text: |
+      <style>
+        .image-row{display:flex;align-items:flex-start;gap:1rem;margin:1rem 0;}
+        .image-row img{max-width:300px;height:auto;flex-shrink:0;}
+        .image-row .caption{max-width:42rem;}
+      </style>
+---
+
+
+::: {.image-row}
+[![Soaring through the stage lights, capturing the power and grace of dance in a single, breathtaking leap. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 150mm 5.0 f-stop, 10000 ISO, 1/250s exposure 2025-04-26@19:23](https://threadmanager.blob.core.windows.net/users/lcvvIIfrcgy3oo8NKhjkLYJDZvHJKG0Nj3gerYEDsgQ/themed_folders/photography/2025_04_26_Jordan-Legacies-Dance/5f324d07-40dd-576f-a94e-df28fb7d6072_thumb.jpg){.lightbox title="Soaring through the stage lights, capturing the power and grace of dance in a single, breathtaking leap. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 150mm 5.0 f-stop, 10000 ISO, 1/250s exposure 2025-04-26@19:23" alt="Soaring through the stage lights, capturing the power and grace of dance in a single, breathtaking leap. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 150mm 5.0 f-stop, 10000 ISO, 1/250s exposure 2025-04-26@19:23"}](https://threadmanager.blob.core.windows.net/users/lcvvIIfrcgy3oo8NKhjkLYJDZvHJKG0Nj3gerYEDsgQ/themed_folders/photography/2025_04_26_Jordan-Legacies-Dance/5f324d07-40dd-576f-a94e-df28fb7d6072.jpg)
+<div class="caption">Soaring through the stage lights, capturing the power and grace of dance in a single, breathtaking leap. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 150mm 5.0 f-stop, 10000 ISO, 1/250s exposure 2025-04-26@19:23</div>
+:::
+
+
+::: {.image-row}
+[![Grace in motion: A ballerina spins under vibrant stage lights, capturing the energy and artistry of dance in a single breathtaking moment. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 150mm 5.0 f-stop, 12800 ISO, 1/250s exposure 2025-04-26@19:28](https://threadmanager.blob.core.windows.net/users/lcvvIIfrcgy3oo8NKhjkLYJDZvHJKG0Nj3gerYEDsgQ/themed_folders/photography/2025_04_26_Jordan-Legacies-Dance/635e02ed-fec4-525e-913c-32323b701c3d_thumb.jpg){.lightbox title="Grace in motion: A ballerina spins under vibrant stage lights, capturing the energy and artistry of dance in a single breathtaking moment. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 150mm 5.0 f-stop, 12800 ISO, 1/250s exposure 2025-04-26@19:28" alt="Grace in motion: A ballerina spins under vibrant stage lights, capturing the energy and artistry of dance in a single breathtaking moment. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 150mm 5.0 f-stop, 12800 ISO, 1/250s exposure 2025-04-26@19:28"}](https://threadmanager.blob.core.windows.net/users/lcvvIIfrcgy3oo8NKhjkLYJDZvHJKG0Nj3gerYEDsgQ/themed_folders/photography/2025_04_26_Jordan-Legacies-Dance/635e02ed-fec4-525e-913c-32323b701c3d.jpg)
+<div class="caption">Grace in motion: A ballerina spins under vibrant stage lights, capturing the energy and artistry of dance in a single breathtaking moment. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 150mm 5.0 f-stop, 12800 ISO, 1/250s exposure 2025-04-26@19:28</div>
+:::
+
+
+::: {.image-row}
+[![Taking the stage by storm in matching red tracksuits, ready to deliver an unforgettable performance! 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 150mm 5.0 f-stop, 10000 ISO, 1/250s exposure 2025-04-26@19:30](https://threadmanager.blob.core.windows.net/users/lcvvIIfrcgy3oo8NKhjkLYJDZvHJKG0Nj3gerYEDsgQ/themed_folders/photography/2025_04_26_Jordan-Legacies-Dance/80d1800c-4280-5d08-91a0-28f849ba01f6_thumb.jpg){.lightbox title="Taking the stage by storm in matching red tracksuits, ready to deliver an unforgettable performance! 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 150mm 5.0 f-stop, 10000 ISO, 1/250s exposure 2025-04-26@19:30" alt="Taking the stage by storm in matching red tracksuits, ready to deliver an unforgettable performance! 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 150mm 5.0 f-stop, 10000 ISO, 1/250s exposure 2025-04-26@19:30"}](https://threadmanager.blob.core.windows.net/users/lcvvIIfrcgy3oo8NKhjkLYJDZvHJKG0Nj3gerYEDsgQ/themed_folders/photography/2025_04_26_Jordan-Legacies-Dance/80d1800c-4280-5d08-91a0-28f849ba01f6.jpg)
+<div class="caption">Taking the stage by storm in matching red tracksuits, ready to deliver an unforgettable performance! 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 150mm 5.0 f-stop, 10000 ISO, 1/250s exposure 2025-04-26@19:30</div>
+:::
+
+
+::: {.image-row}
+[![Grace in motion: dancers command the stage with expressive movement and powerful energy under dramatic lighting. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 150mm 5.0 f-stop, 12800 ISO, 1/250s exposure 2025-04-26@19:31](https://threadmanager.blob.core.windows.net/users/lcvvIIfrcgy3oo8NKhjkLYJDZvHJKG0Nj3gerYEDsgQ/themed_folders/photography/2025_04_26_Jordan-Legacies-Dance/0f8a5f73-767f-5602-93db-7642584bbff5_thumb.jpg){.lightbox title="Grace in motion: dancers command the stage with expressive movement and powerful energy under dramatic lighting. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 150mm 5.0 f-stop, 12800 ISO, 1/250s exposure 2025-04-26@19:31" alt="Grace in motion: dancers command the stage with expressive movement and powerful energy under dramatic lighting. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 150mm 5.0 f-stop, 12800 ISO, 1/250s exposure 2025-04-26@19:31"}](https://threadmanager.blob.core.windows.net/users/lcvvIIfrcgy3oo8NKhjkLYJDZvHJKG0Nj3gerYEDsgQ/themed_folders/photography/2025_04_26_Jordan-Legacies-Dance/0f8a5f73-767f-5602-93db-7642584bbff5.jpg)
+<div class="caption">Grace in motion: dancers command the stage with expressive movement and powerful energy under dramatic lighting. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 150mm 5.0 f-stop, 12800 ISO, 1/250s exposure 2025-04-26@19:31</div>
+:::
+
+
+::: {.image-row}
+[![Grace in motion: a dancer leaps across the stage, illuminated by vibrant blue lights. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 150mm 5.0 f-stop, 5000 ISO, 1/250s exposure 2025-04-26@19:40](https://threadmanager.blob.core.windows.net/users/lcvvIIfrcgy3oo8NKhjkLYJDZvHJKG0Nj3gerYEDsgQ/themed_folders/photography/2025_04_26_Jordan-Legacies-Dance/0e4ca27c-b477-5f1d-8558-73107131838b_thumb.jpg){.lightbox title="Grace in motion: a dancer leaps across the stage, illuminated by vibrant blue lights. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 150mm 5.0 f-stop, 5000 ISO, 1/250s exposure 2025-04-26@19:40" alt="Grace in motion: a dancer leaps across the stage, illuminated by vibrant blue lights. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 150mm 5.0 f-stop, 5000 ISO, 1/250s exposure 2025-04-26@19:40"}](https://threadmanager.blob.core.windows.net/users/lcvvIIfrcgy3oo8NKhjkLYJDZvHJKG0Nj3gerYEDsgQ/themed_folders/photography/2025_04_26_Jordan-Legacies-Dance/0e4ca27c-b477-5f1d-8558-73107131838b.jpg)
+<div class="caption">Grace in motion: a dancer leaps across the stage, illuminated by vibrant blue lights. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 150mm 5.0 f-stop, 5000 ISO, 1/250s exposure 2025-04-26@19:40</div>
+:::
+
+
+::: {.image-row}
+[![Defying gravity with every move—this dance crew knows how to steal the show! #DanceGoals #OnStage 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 150mm 5.0 f-stop, 12800 ISO, 1/250s exposure 2025-04-26@19:44](https://threadmanager.blob.core.windows.net/users/lcvvIIfrcgy3oo8NKhjkLYJDZvHJKG0Nj3gerYEDsgQ/themed_folders/photography/2025_04_26_Jordan-Legacies-Dance/5a61f077-e3b4-5869-9180-168d64e13508_thumb.jpg){.lightbox title="Defying gravity with every move—this dance crew knows how to steal the show! #DanceGoals #OnStage 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 150mm 5.0 f-stop, 12800 ISO, 1/250s exposure 2025-04-26@19:44" alt="Defying gravity with every move—this dance crew knows how to steal the show! #DanceGoals #OnStage 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 150mm 5.0 f-stop, 12800 ISO, 1/250s exposure 2025-04-26@19:44"}](https://threadmanager.blob.core.windows.net/users/lcvvIIfrcgy3oo8NKhjkLYJDZvHJKG0Nj3gerYEDsgQ/themed_folders/photography/2025_04_26_Jordan-Legacies-Dance/5a61f077-e3b4-5869-9180-168d64e13508.jpg)
+<div class="caption">Defying gravity with every move—this dance crew knows how to steal the show! #DanceGoals #OnStage 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 150mm 5.0 f-stop, 12800 ISO, 1/250s exposure 2025-04-26@19:44</div>
+:::
+
+
+::: {.image-row}
+[![Soaring through the stage lights, she leaps higher than ever—dancing like no one is watching. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 150mm 5.0 f-stop, 10000 ISO, 1/250s exposure 2025-04-26@19:50](https://threadmanager.blob.core.windows.net/users/lcvvIIfrcgy3oo8NKhjkLYJDZvHJKG0Nj3gerYEDsgQ/themed_folders/photography/2025_04_26_Jordan-Legacies-Dance/eff95990-914f-5763-9215-5105f4bf6e96_thumb.jpg){.lightbox title="Soaring through the stage lights, she leaps higher than ever—dancing like no one is watching. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 150mm 5.0 f-stop, 10000 ISO, 1/250s exposure 2025-04-26@19:50" alt="Soaring through the stage lights, she leaps higher than ever—dancing like no one is watching. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 150mm 5.0 f-stop, 10000 ISO, 1/250s exposure 2025-04-26@19:50"}](https://threadmanager.blob.core.windows.net/users/lcvvIIfrcgy3oo8NKhjkLYJDZvHJKG0Nj3gerYEDsgQ/themed_folders/photography/2025_04_26_Jordan-Legacies-Dance/eff95990-914f-5763-9215-5105f4bf6e96.jpg)
+<div class="caption">Soaring through the stage lights, she leaps higher than ever—dancing like no one is watching. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 150mm 5.0 f-stop, 10000 ISO, 1/250s exposure 2025-04-26@19:50</div>
+:::
+
+
+::: {.image-row}
+[![Grace in motion—capturing the energy and beauty of dance under vibrant stage lights. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 150mm 5.0 f-stop, 5000 ISO, 1/250s exposure 2025-04-26@19:50](https://threadmanager.blob.core.windows.net/users/lcvvIIfrcgy3oo8NKhjkLYJDZvHJKG0Nj3gerYEDsgQ/themed_folders/photography/2025_04_26_Jordan-Legacies-Dance/5e00585f-a184-5bf7-b566-650a6e400155_thumb.jpg){.lightbox title="Grace in motion—capturing the energy and beauty of dance under vibrant stage lights. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 150mm 5.0 f-stop, 5000 ISO, 1/250s exposure 2025-04-26@19:50" alt="Grace in motion—capturing the energy and beauty of dance under vibrant stage lights. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 150mm 5.0 f-stop, 5000 ISO, 1/250s exposure 2025-04-26@19:50"}](https://threadmanager.blob.core.windows.net/users/lcvvIIfrcgy3oo8NKhjkLYJDZvHJKG0Nj3gerYEDsgQ/themed_folders/photography/2025_04_26_Jordan-Legacies-Dance/5e00585f-a184-5bf7-b566-650a6e400155.jpg)
+<div class="caption">Grace in motion—capturing the energy and beauty of dance under vibrant stage lights. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 150mm 5.0 f-stop, 5000 ISO, 1/250s exposure 2025-04-26@19:50</div>
+:::
+
+
+::: {.image-row}
+[![Owning the stage with confidence and style, ready to give an unforgettable performance under the bright lights! 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 150mm 5.0 f-stop, 10000 ISO, 1/250s exposure 2025-04-26@19:54](https://threadmanager.blob.core.windows.net/users/lcvvIIfrcgy3oo8NKhjkLYJDZvHJKG0Nj3gerYEDsgQ/themed_folders/photography/2025_04_26_Jordan-Legacies-Dance/507ee89d-2620-5b23-a835-6d71bbaa272f_thumb.jpg){.lightbox title="Owning the stage with confidence and style, ready to give an unforgettable performance under the bright lights! 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 150mm 5.0 f-stop, 10000 ISO, 1/250s exposure 2025-04-26@19:54" alt="Owning the stage with confidence and style, ready to give an unforgettable performance under the bright lights! 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 150mm 5.0 f-stop, 10000 ISO, 1/250s exposure 2025-04-26@19:54"}](https://threadmanager.blob.core.windows.net/users/lcvvIIfrcgy3oo8NKhjkLYJDZvHJKG0Nj3gerYEDsgQ/themed_folders/photography/2025_04_26_Jordan-Legacies-Dance/507ee89d-2620-5b23-a835-6d71bbaa272f.jpg)
+<div class="caption">Owning the stage with confidence and style, ready to give an unforgettable performance under the bright lights! 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 150mm 5.0 f-stop, 10000 ISO, 1/250s exposure 2025-04-26@19:54</div>
+:::
+
+
+::: {.image-row}
+[![Defying gravity with grace and power, capturing the beauty of dance in a breathtaking mid-air moment on stage. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 150mm 5.0 f-stop, 8000 ISO, 1/250s exposure 2025-04-26@19:57](https://threadmanager.blob.core.windows.net/users/lcvvIIfrcgy3oo8NKhjkLYJDZvHJKG0Nj3gerYEDsgQ/themed_folders/photography/2025_04_26_Jordan-Legacies-Dance/52cdbecc-22f1-5d92-9ab7-a73e06d2be55_thumb.jpg){.lightbox title="Defying gravity with grace and power, capturing the beauty of dance in a breathtaking mid-air moment on stage. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 150mm 5.0 f-stop, 8000 ISO, 1/250s exposure 2025-04-26@19:57" alt="Defying gravity with grace and power, capturing the beauty of dance in a breathtaking mid-air moment on stage. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 150mm 5.0 f-stop, 8000 ISO, 1/250s exposure 2025-04-26@19:57"}](https://threadmanager.blob.core.windows.net/users/lcvvIIfrcgy3oo8NKhjkLYJDZvHJKG0Nj3gerYEDsgQ/themed_folders/photography/2025_04_26_Jordan-Legacies-Dance/52cdbecc-22f1-5d92-9ab7-a73e06d2be55.jpg)
+<div class="caption">Defying gravity with grace and power, capturing the beauty of dance in a breathtaking mid-air moment on stage. 📷:OM-1ii 🔍OM 150-600mm F5.0-6.3 @ 150mm 5.0 f-stop, 8000 ISO, 1/250s exposure 2025-04-26@19:57</div>
+:::
+

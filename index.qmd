@@ -10,8 +10,8 @@ listing:
   - posts/2025-01-04-ev9-trip-report.qmd
   - posts/2024-12-09-understanding-llms.qmd
   - posts/2024-11-27-bird-buddy.qmd
-  - posts/2024-12-02-blog-comments.qmd
   - posts/2024-02-01-openai-concurrency.qmd
+  - posts/2023-12-31-remarkable2.qmd
   
   sort: False
   type: grid
