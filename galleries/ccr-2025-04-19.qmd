@@ -2,7 +2,7 @@
 title: "Cross Creek Ranch"
 date: 2025-04-19
 subtitle: "Fulshear, TX"
-image: https://threadmanager.blob.core.windows.net/users/lcvvIIfrcgy3oo8NKhjkLYJDZvHJKG0Nj3gerYEDsgQ/themed_folders/photography/2025_04_19_Fulshear/55792966-6674-5d92-850c-90761c44bbe7_thumb.jpg
+image: https://threadmanager.blob.core.windows.net/users/lcvvIIfrcgy3oo8NKhjkLYJDZvHJKG0Nj3gerYEDsgQ/themed_folders/photography/2025_04_19_Fulshear/15c0059e-4468-5564-b85e-eb0f7de876af_thumb.jpg
 author: "Lucas A. Meyer"
 lightbox: true
 include-in-header:
