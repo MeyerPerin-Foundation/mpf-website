@@ -1,0 +1,70 @@
+---
+title: "Fulshear"
+date: 2025-04-03
+subtitle: "2025-04-03"
+image: https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/thumbnail/2025_04_03_Fulshear/20250403_0051.jpg
+author: "Lucas A. Meyer"
+lightbox: true
+include-in-header:
+  - text: |
+      <style>
+        .image-row{display:flex;align-items:flex-start;gap:1rem;margin:1rem 0;}
+        .image-row img{max-width:300px;height:auto;flex-shrink:0;}
+        .image-row .caption{max-width:42rem;}
+      </style>
+---
+
+
+::: {.image-row}
+[![Caught in the act! This blue jay isn’t just stealing snacks—it’s judging your seed selection. Upgrade your feeder and impress the neighborhood’s fiercest food critic.](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/thumbnail/2025_04_03_Fulshear/20250403_0002.jpg){.lightbox title="Caught in the act! This blue jay isn’t just stealing snacks—it’s judging your seed selection. Upgrade your feeder and impress the neighborhood’s fiercest food critic." alt="Caught in the act! This blue jay isn’t just stealing snacks—it’s judging your seed selection. Upgrade your feeder and impress the neighborhood’s fiercest food critic."}](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/web/2025_04_03_Fulshear/20250403_0002.jpg)
+<div class="caption">Caught in the act! This blue jay isn’t just stealing snacks—it’s judging your seed selection. Upgrade your feeder and impress the neighborhood’s fiercest food critic.</div>
+:::
+
+
+::: {.image-row}
+[![Spotted: a blue jay auditioning for top chef at the fanciest feeder in town. When your snack station is solar-powered, you know it’s for the birds—literally!](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/thumbnail/2025_04_03_Fulshear/20250403_0003.jpg){.lightbox title="Spotted: a blue jay auditioning for top chef at the fanciest feeder in town. When your snack station is solar-powered, you know it’s for the birds—literally!" alt="Spotted: a blue jay auditioning for top chef at the fanciest feeder in town. When your snack station is solar-powered, you know it’s for the birds—literally!"}](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/web/2025_04_03_Fulshear/20250403_0003.jpg)
+<div class="caption">Spotted: a blue jay auditioning for top chef at the fanciest feeder in town. When your snack station is solar-powered, you know it’s for the birds—literally!</div>
+:::
+
+
+::: {.image-row}
+[![Guess who just RSVP’d to brunch? This blue jay knows where the best backyard buffet is—gourmet seeds with a side of sunshine!](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/thumbnail/2025_04_03_Fulshear/20250403_0005.jpg){.lightbox title="Guess who just RSVP’d to brunch? This blue jay knows where the best backyard buffet is—gourmet seeds with a side of sunshine!" alt="Guess who just RSVP’d to brunch? This blue jay knows where the best backyard buffet is—gourmet seeds with a side of sunshine!"}](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/web/2025_04_03_Fulshear/20250403_0005.jpg)
+<div class="caption">Guess who just RSVP’d to brunch? This blue jay knows where the best backyard buffet is—gourmet seeds with a side of sunshine!</div>
+:::
+
+
+::: {.image-row}
+[![Stop scrolling—there’s a blue jay enjoying fine dining and exclusive patio seating! Treat your backyard guests to a taste of luxury and watch your feathered friends flock in style.](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/thumbnail/2025_04_03_Fulshear/20250403_0006.jpg){.lightbox title="Stop scrolling—there’s a blue jay enjoying fine dining and exclusive patio seating! Treat your backyard guests to a taste of luxury and watch your feathered friends flock in style." alt="Stop scrolling—there’s a blue jay enjoying fine dining and exclusive patio seating! Treat your backyard guests to a taste of luxury and watch your feathered friends flock in style."}](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/web/2025_04_03_Fulshear/20250403_0006.jpg)
+<div class="caption">Stop scrolling—there’s a blue jay enjoying fine dining and exclusive patio seating! Treat your backyard guests to a taste of luxury and watch your feathered friends flock in style.</div>
+:::
+
+
+::: {.image-row}
+[![When you need patience and poise, channel your inner Great Blue Heron—master of stillness, ruler of the shoreline, and always impeccably dressed for the occasion.](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/thumbnail/2025_04_03_Fulshear/20250403_0026.jpg){.lightbox title="When you need patience and poise, channel your inner Great Blue Heron—master of stillness, ruler of the shoreline, and always impeccably dressed for the occasion." alt="When you need patience and poise, channel your inner Great Blue Heron—master of stillness, ruler of the shoreline, and always impeccably dressed for the occasion."}](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/web/2025_04_03_Fulshear/20250403_0026.jpg)
+<div class="caption">When you need patience and poise, channel your inner Great Blue Heron—master of stillness, ruler of the shoreline, and always impeccably dressed for the occasion.</div>
+:::
+
+
+::: {.image-row}
+[![Who taught the great blue heron to strike a pose like that? Nature’s runway model is serving some serious lakeside elegance.](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/thumbnail/2025_04_03_Fulshear/20250403_0032.jpg){.lightbox title="Who taught the great blue heron to strike a pose like that? Nature’s runway model is serving some serious lakeside elegance." alt="Who taught the great blue heron to strike a pose like that? Nature’s runway model is serving some serious lakeside elegance."}](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/web/2025_04_03_Fulshear/20250403_0032.jpg)
+<div class="caption">Who taught the great blue heron to strike a pose like that? Nature’s runway model is serving some serious lakeside elegance.</div>
+:::
+
+
+::: {.image-row}
+[![Did someone say garden party? This rabbit RSVP’d first—claiming the best seat on the lawn and keeping an ear out for any crunchy snacks.](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/thumbnail/2025_04_03_Fulshear/20250403_0051.jpg){.lightbox title="Did someone say garden party? This rabbit RSVP’d first—claiming the best seat on the lawn and keeping an ear out for any crunchy snacks." alt="Did someone say garden party? This rabbit RSVP’d first—claiming the best seat on the lawn and keeping an ear out for any crunchy snacks."}](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/web/2025_04_03_Fulshear/20250403_0051.jpg)
+<div class="caption">Did someone say garden party? This rabbit RSVP’d first—claiming the best seat on the lawn and keeping an ear out for any crunchy snacks.</div>
+:::
+
+
+::: {.image-row}
+[![Why did the turtle and the ducks stop by the water? To discuss who has the best swim style—slow and steady or winging it! What’s your pick: turtle pace or duck dash?](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/thumbnail/2025_04_03_Fulshear/20250403_0058.jpg){.lightbox title="Why did the turtle and the ducks stop by the water? To discuss who has the best swim style—slow and steady or winging it! What’s your pick: turtle pace or duck dash?" alt="Why did the turtle and the ducks stop by the water? To discuss who has the best swim style—slow and steady or winging it! What’s your pick: turtle pace or duck dash?"}](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/web/2025_04_03_Fulshear/20250403_0058.jpg)
+<div class="caption">Why did the turtle and the ducks stop by the water? To discuss who has the best swim style—slow and steady or winging it! What’s your pick: turtle pace or duck dash?</div>
+:::
+
+
+::: {.image-row}
+[![Ready for a walk on the wild side? This black-bellied whistling duck is strutting its stuff and proving that nature always sets the best trends.](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/thumbnail/2025_04_03_Fulshear/20250403_0079.jpg){.lightbox title="Ready for a walk on the wild side? This black-bellied whistling duck is strutting its stuff and proving that nature always sets the best trends." alt="Ready for a walk on the wild side? This black-bellied whistling duck is strutting its stuff and proving that nature always sets the best trends."}](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/web/2025_04_03_Fulshear/20250403_0079.jpg)
+<div class="caption">Ready for a walk on the wild side? This black-bellied whistling duck is strutting its stuff and proving that nature always sets the best trends.</div>
+:::
+

@@ -1,0 +1,34 @@
+---
+title: "Fulshear"
+date: 2025-04-24
+subtitle: "2025-04-24"
+image: https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/thumbnail/2025_04_24_Fulshear/20250424_0071.jpg
+author: "Lucas A. Meyer"
+lightbox: true
+include-in-header:
+  - text: |
+      <style>
+        .image-row{display:flex;align-items:flex-start;gap:1rem;margin:1rem 0;}
+        .image-row img{max-width:300px;height:auto;flex-shrink:0;}
+        .image-row .caption{max-width:42rem;}
+      </style>
+---
+
+
+::: {.image-row}
+[![Who needs a throne when you can reign from a pipe? This cormorant just claimed the coolest perch in the wetlands—call him the king of the marsh!](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/thumbnail/2025_04_24_Fulshear/20250424_0071.jpg){.lightbox title="Who needs a throne when you can reign from a pipe? This cormorant just claimed the coolest perch in the wetlands—call him the king of the marsh!" alt="Who needs a throne when you can reign from a pipe? This cormorant just claimed the coolest perch in the wetlands—call him the king of the marsh!"}](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/web/2025_04_24_Fulshear/20250424_0071.jpg)
+<div class="caption">Who needs a throne when you can reign from a pipe? This cormorant just claimed the coolest perch in the wetlands—call him the king of the marsh!</div>
+:::
+
+
+::: {.image-row}
+[![Not your average perch—this cormorant clearly believes in prime waterfront real estate. When you want the best views, you’ve got to stand out!](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/thumbnail/2025_04_24_Fulshear/20250424_0075.jpg){.lightbox title="Not your average perch—this cormorant clearly believes in prime waterfront real estate. When you want the best views, you’ve got to stand out!" alt="Not your average perch—this cormorant clearly believes in prime waterfront real estate. When you want the best views, you’ve got to stand out!"}](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/web/2025_04_24_Fulshear/20250424_0075.jpg)
+<div class="caption">Not your average perch—this cormorant clearly believes in prime waterfront real estate. When you want the best views, you’ve got to stand out!</div>
+:::
+
+
+::: {.image-row}
+[![Who needs a reserved seat when you’re a cormorant? Elevate your day, strike a pose, and remember: style is just a perch away.](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/thumbnail/2025_04_24_Fulshear/20250424_0079.jpg){.lightbox title="Who needs a reserved seat when you’re a cormorant? Elevate your day, strike a pose, and remember: style is just a perch away." alt="Who needs a reserved seat when you’re a cormorant? Elevate your day, strike a pose, and remember: style is just a perch away."}](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/web/2025_04_24_Fulshear/20250424_0079.jpg)
+<div class="caption">Who needs a reserved seat when you’re a cormorant? Elevate your day, strike a pose, and remember: style is just a perch away.</div>
+:::
+

@@ -3,30 +3,36 @@ from pathlib import Path
 from datetime import datetime
 import html
 import textwrap
-from mpfutils.cosmosdb import CosmosDBContainer
+from azure.cosmos import CosmosClient
 import random
+from dotenv import load_dotenv
+import os
+
+load_dotenv()
+
 
 PAGE_DIR = Path("galleries")
 PAGE_DIR.mkdir(parents=True, exist_ok=True)
 
-cdb = CosmosDBContainer("content", "themed_folders")
-records = cdb.run_query("SELECT * FROM c WHERE c.folder_name = 'photography'")
+endpoint = os.getenv("MPFU_COSMOS_ENDPOINT")
+key = os.getenv("MPFU_COSMOS_KEY")
 
-for r in records:
-    # path element 7 = "YYYY_MM_DD_folder_name"
-    tokens = r["blob_url"].split("/")[7].split("_")
-    yyyy, mm, dd, *name_parts = tokens
-    date_iso  = f"{yyyy}-{mm}-{dd}"
-    date_text = datetime.strptime(date_iso, "%Y-%m-%d").strftime("%B %d, %Y")
+client = CosmosClient(endpoint, key)
+database = client.get_database_client("media")
+container = database.get_container_client("photography")
 
-    folder_raw  = " ".join(name_parts)
-    slug_root   = "ccr" if folder_raw == "Fulshear" else folder_raw.lower().replace(" ", "-")
-    r["slug"]   = f"{slug_root}-{date_iso}"
-    r["title"]  = f"{'Cross Creek Ranch — Fulshear, TX' if folder_raw=='Fulshear' else folder_raw} — ({date_text})"
+# ──────────── 1. Query the database for all images ───────────────────────────
+query = "SELECT * FROM c WHERE IS_DEFINED(c.content_variant.gallery_slug) " \
+        "AND IS_DEFINED(c.content_variant.web_quality_url) AND IS_DEFINED(c.content_variant.thumbnail_url) " \
+        "AND IS_DEFINED(c.content_variant.gallery_name) AND IS_DEFINED(c.content_variant.short_description) " \
+        "AND c.content_variant.type = 'photography'"
+records = list(container.query_items(query=query, enable_cross_partition_query=True))
+
+print(f"Found {len(records)} images for galleries in the database.")
 
 groups = defaultdict(list)
 for rec in records:
-    groups[rec["slug"]].append(rec)
+    groups[rec["content_variant"]["gallery_slug"]].append(rec)
 
 CSS_BLOCK = textwrap.dedent("""
     <style>
@@ -36,15 +42,14 @@ CSS_BLOCK = textwrap.dedent("""
     </style>
 """).strip()
 
-
 def row_block(thumb, full, caption):
     """
     thumbnail (left) wrapped in a link → lightbox
     short caption (right) in a div
     long caption in the lightbox title
     """
-    cap_full   = html.escape(" ".join(caption.split()))    # no  newlines/quotes
-
+    cap_full = caption.strip()
+    cap_full = cap_full.replace('"', '&quot;')  # escape quotes for HTML
     return (
         f"::: {{.image-row}}\n"
         # 1️⃣  .lightbox on the <img>, alt = long caption
@@ -55,29 +60,23 @@ def row_block(thumb, full, caption):
     )
 
 def gallery_page(title, images):
-    # break off the date from the title, it will be the last part of the title
-    gallery_date = title.split(" — ")[-1]
+    # find a pattern of the form (YYYY-MM-DD) in the title
+    gallery_date = ""
+    for part in title.split():
+        if part.startswith("(") and part.endswith(")"):
+            gallery_date = part
+            break
 
-    # remove the date from the title, it will be in the front matter
-    title = title.replace(" — " + gallery_date, "")
+    title = title.split("(")[0].strip()  # remove the date part from the title
+
 
     # remove the parenthesis from the date
     gallery_date = gallery_date.replace("(", "").replace(")", "")
-
-    # date is in the format "Month Day, Year"
-    # convert to ISO format YYYY-MM-DD
-    gallery_date = datetime.strptime(gallery_date, "%B %d, %Y").strftime("%Y-%m-%d")
+    subtitle = gallery_date
     
-    # if the title still has a —, break off a subtitle
-    if " — " in title:
-        title, subtitle = title.split(" — ", 1)
-        title = f"{title}"
-    else:
-        subtitle = ""
-
     # use a random image for the thumbnail between 0 and n_img - 1
     n_img = len(images)
-    img_url = images[random.randint(0, n_img - 1)]["thumbnail_blob_url"]  # select a random image
+    img_url = images[random.randint(0, n_img - 1)]["content_variant"]["thumbnail_url"]  # select a random image
 
     # if title has - replace it with a space
     title = title.replace("-", " ")
@@ -99,23 +98,16 @@ def gallery_page(title, images):
     
 
     body = "\n\n".join(
-        row_block(img["thumbnail_blob_url"], img["blob_url"], img.get("text", ""))
+        row_block(img["content_variant"]["thumbnail_url"], img["content_variant"]["web_quality_url"], img["content_variant"]["short_description"])
         for img in images
     )
     return front_matter + "\n\n" + body + "\n"
 
 
 for slug, imgs in groups.items():
-    page = gallery_page(imgs[0]["title"], imgs)
+    page = gallery_page(imgs[0]["content_variant"]["gallery_name"], imgs)
     (PAGE_DIR / f"{slug}.qmd").write_text(page, encoding="utf-8")
     print("wrote", slug + ".qmd")
-    for img in imgs:
-        # add a field to the image with the gallery url
-        img["gallery_url"] = f"https://www.meyerperin.org/galleries/{slug}.html"
-        img["urls"]=[f"https://www.meyerperin.org/galleries/{slug}.html"]
-        img["url_titles"]=["🖼️: Gallery"]
-        # update the database
-        cdb.upsert_item(img)
 
 print(f"✅  Generated {len(groups)} gallery pages in '{PAGE_DIR}/'")
 

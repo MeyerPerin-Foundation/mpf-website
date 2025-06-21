@@ -1,0 +1,244 @@
+---
+title: "Fulshear"
+date: 2025-05-04
+subtitle: "2025-05-04"
+image: https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/thumbnail/2025_05_04_Fulshear/20250504_0385.jpg
+author: "Lucas A. Meyer"
+lightbox: true
+include-in-header:
+  - text: |
+      <style>
+        .image-row{display:flex;align-items:flex-start;gap:1rem;margin:1rem 0;}
+        .image-row img{max-width:300px;height:auto;flex-shrink:0;}
+        .image-row .caption{max-width:42rem;}
+      </style>
+---
+
+
+::: {.image-row}
+[![Bad feather day? This Great Blue Heron proves you don’t need perfect hair to strike a pose—confidence is always in style.](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/thumbnail/2025_05_04_Fulshear/20250504_0078.jpg){.lightbox title="Bad feather day? This Great Blue Heron proves you don’t need perfect hair to strike a pose—confidence is always in style." alt="Bad feather day? This Great Blue Heron proves you don’t need perfect hair to strike a pose—confidence is always in style."}](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/web/2025_05_04_Fulshear/20250504_0078.jpg)
+<div class="caption">Bad feather day? This Great Blue Heron proves you don’t need perfect hair to strike a pose—confidence is always in style.</div>
+:::
+
+
+::: {.image-row}
+[![Bad feather day? This Snowy Egret owns it. Proof that confidence is the best accessory—no matter how wild your morning looks!](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/thumbnail/2025_05_04_Fulshear/20250504_0151.jpg){.lightbox title="Bad feather day? This Snowy Egret owns it. Proof that confidence is the best accessory—no matter how wild your morning looks!" alt="Bad feather day? This Snowy Egret owns it. Proof that confidence is the best accessory—no matter how wild your morning looks!"}](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/web/2025_05_04_Fulshear/20250504_0151.jpg)
+<div class="caption">Bad feather day? This Snowy Egret owns it. Proof that confidence is the best accessory—no matter how wild your morning looks!</div>
+:::
+
+
+::: {.image-row}
+[![Who says you need fancy shoes to stand out? This Snowy Egret proves that a little flair and confidence go a long way.](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/thumbnail/2025_05_04_Fulshear/20250504_0152.jpg){.lightbox title="Who says you need fancy shoes to stand out? This Snowy Egret proves that a little flair and confidence go a long way." alt="Who says you need fancy shoes to stand out? This Snowy Egret proves that a little flair and confidence go a long way."}](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/web/2025_05_04_Fulshear/20250504_0152.jpg)
+<div class="caption">Who says you need fancy shoes to stand out? This Snowy Egret proves that a little flair and confidence go a long way.</div>
+:::
+
+
+::: {.image-row}
+[![Caught you staring! This Green Heron knows how to strike a pose and bring the drama. Who else wishes they could pull off that feathered look?](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/thumbnail/2025_05_04_Fulshear/20250504_0226.jpg){.lightbox title="Caught you staring! This Green Heron knows how to strike a pose and bring the drama. Who else wishes they could pull off that feathered look?" alt="Caught you staring! This Green Heron knows how to strike a pose and bring the drama. Who else wishes they could pull off that feathered look?"}](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/web/2025_05_04_Fulshear/20250504_0226.jpg)
+<div class="caption">Caught you staring! This Green Heron knows how to strike a pose and bring the drama. Who else wishes they could pull off that feathered look?</div>
+:::
+
+
+::: {.image-row}
+[![When you’re a green heron, every day is a runway—just look at those legs! Strutting through the reeds and serving fierce wetland fashion.](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/thumbnail/2025_05_04_Fulshear/20250504_0233.jpg){.lightbox title="When you’re a green heron, every day is a runway—just look at those legs! Strutting through the reeds and serving fierce wetland fashion." alt="When you’re a green heron, every day is a runway—just look at those legs! Strutting through the reeds and serving fierce wetland fashion."}](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/web/2025_05_04_Fulshear/20250504_0233.jpg)
+<div class="caption">When you’re a green heron, every day is a runway—just look at those legs! Strutting through the reeds and serving fierce wetland fashion.</div>
+:::
+
+
+::: {.image-row}
+[![Ever tried building a home while flying? This blackbird makes multitasking look like a breeze—literally. Master builder with wings on point!](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/thumbnail/2025_05_04_Fulshear/20250504_0025.jpg){.lightbox title="Ever tried building a home while flying? This blackbird makes multitasking look like a breeze—literally. Master builder with wings on point!" alt="Ever tried building a home while flying? This blackbird makes multitasking look like a breeze—literally. Master builder with wings on point!"}](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/web/2025_05_04_Fulshear/20250504_0025.jpg)
+<div class="caption">Ever tried building a home while flying? This blackbird makes multitasking look like a breeze—literally. Master builder with wings on point!</div>
+:::
+
+
+::: {.image-row}
+[![When life gives you twigs, the blackbird makes a move! Sometimes, all it takes is a little balance to find your next great adventure.](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/thumbnail/2025_05_04_Fulshear/20250504_0031.jpg){.lightbox title="When life gives you twigs, the blackbird makes a move! Sometimes, all it takes is a little balance to find your next great adventure." alt="When life gives you twigs, the blackbird makes a move! Sometimes, all it takes is a little balance to find your next great adventure."}](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/web/2025_05_04_Fulshear/20250504_0031.jpg)
+<div class="caption">When life gives you twigs, the blackbird makes a move! Sometimes, all it takes is a little balance to find your next great adventure.</div>
+:::
+
+
+::: {.image-row}
+[![This grackle’s got balance and attitude—when life gets twiggy, just hang tight and enjoy the view!](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/thumbnail/2025_05_04_Fulshear/20250504_0033.jpg){.lightbox title="This grackle’s got balance and attitude—when life gets twiggy, just hang tight and enjoy the view!" alt="This grackle’s got balance and attitude—when life gets twiggy, just hang tight and enjoy the view!"}](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/web/2025_05_04_Fulshear/20250504_0033.jpg)
+<div class="caption">This grackle’s got balance and attitude—when life gets twiggy, just hang tight and enjoy the view!</div>
+:::
+
+
+::: {.image-row}
+[![Caught mid-scheme, this clever grackle is scouting the branches for its next shiny treasure. Nature’s little mastermind hard at work!](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/thumbnail/2025_05_04_Fulshear/20250504_0043.jpg){.lightbox title="Caught mid-scheme, this clever grackle is scouting the branches for its next shiny treasure. Nature’s little mastermind hard at work!" alt="Caught mid-scheme, this clever grackle is scouting the branches for its next shiny treasure. Nature’s little mastermind hard at work!"}](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/web/2025_05_04_Fulshear/20250504_0043.jpg)
+<div class="caption">Caught mid-scheme, this clever grackle is scouting the branches for its next shiny treasure. Nature’s little mastermind hard at work!</div>
+:::
+
+
+::: {.image-row}
+[![Bad feather day? Even great blue herons have those mornings—just proof that you don’t need perfect hair to rule the nest.](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/thumbnail/2025_05_04_Fulshear/20250504_0045.jpg){.lightbox title="Bad feather day? Even great blue herons have those mornings—just proof that you don’t need perfect hair to rule the nest." alt="Bad feather day? Even great blue herons have those mornings—just proof that you don’t need perfect hair to rule the nest."}](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/web/2025_05_04_Fulshear/20250504_0045.jpg)
+<div class="caption">Bad feather day? Even great blue herons have those mornings—just proof that you don’t need perfect hair to rule the nest.</div>
+:::
+
+
+::: {.image-row}
+[![Caught you staring! These herons prove that family gatherings are really just about good hair days and awkward head angles.](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/thumbnail/2025_05_04_Fulshear/20250504_0058.jpg){.lightbox title="Caught you staring! These herons prove that family gatherings are really just about good hair days and awkward head angles." alt="Caught you staring! These herons prove that family gatherings are really just about good hair days and awkward head angles."}](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/web/2025_05_04_Fulshear/20250504_0058.jpg)
+<div class="caption">Caught you staring! These herons prove that family gatherings are really just about good hair days and awkward head angles.</div>
+:::
+
+
+::: {.image-row}
+[![Ever seen a heron rocking bedhead like it's a runway look? These great blue herons know how to ruffle some feathers and still turn heads at sunrise.](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/thumbnail/2025_05_04_Fulshear/20250504_0072.jpg){.lightbox title="Ever seen a heron rocking bedhead like it's a runway look? These great blue herons know how to ruffle some feathers and still turn heads at sunrise." alt="Ever seen a heron rocking bedhead like it's a runway look? These great blue herons know how to ruffle some feathers and still turn heads at sunrise."}](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/web/2025_05_04_Fulshear/20250504_0072.jpg)
+<div class="caption">Ever seen a heron rocking bedhead like it&#x27;s a runway look? These great blue herons know how to ruffle some feathers and still turn heads at sunrise.</div>
+:::
+
+
+::: {.image-row}
+[![Looking for style inspo? This mallard duck serves looks and feathers. Proof that a little confidence is always in season!](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/thumbnail/2025_05_04_Fulshear/20250504_0097.jpg){.lightbox title="Looking for style inspo? This mallard duck serves looks and feathers. Proof that a little confidence is always in season!" alt="Looking for style inspo? This mallard duck serves looks and feathers. Proof that a little confidence is always in season!"}](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/web/2025_05_04_Fulshear/20250504_0097.jpg)
+<div class="caption">Looking for style inspo? This mallard duck serves looks and feathers. Proof that a little confidence is always in season!</div>
+:::
+
+
+::: {.image-row}
+[![When the mallard mom says it's time to move, you waddle! Family outings are always better when everyone's duckling behind.](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/thumbnail/2025_05_04_Fulshear/20250504_0105.jpg){.lightbox title="When the mallard mom says it's time to move, you waddle! Family outings are always better when everyone's duckling behind." alt="When the mallard mom says it's time to move, you waddle! Family outings are always better when everyone's duckling behind."}](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/web/2025_05_04_Fulshear/20250504_0105.jpg)
+<div class="caption">When the mallard mom says it&#x27;s time to move, you waddle! Family outings are always better when everyone&#x27;s duckling behind.</div>
+:::
+
+
+::: {.image-row}
+[![Warning: Maximum fluff detected. These ducklings are here to prove that sometimes, the best kind of squad goals are covered in feathers.](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/thumbnail/2025_05_04_Fulshear/20250504_0114.jpg){.lightbox title="Warning: Maximum fluff detected. These ducklings are here to prove that sometimes, the best kind of squad goals are covered in feathers." alt="Warning: Maximum fluff detected. These ducklings are here to prove that sometimes, the best kind of squad goals are covered in feathers."}](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/web/2025_05_04_Fulshear/20250504_0114.jpg)
+<div class="caption">Warning: Maximum fluff detected. These ducklings are here to prove that sometimes, the best kind of squad goals are covered in feathers.</div>
+:::
+
+
+::: {.image-row}
+[![Ready for a close-up? This duck is serving major feathered model energy. Who knew pond life could look this fabulous?](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/thumbnail/2025_05_04_Fulshear/20250504_0120.jpg){.lightbox title="Ready for a close-up? This duck is serving major feathered model energy. Who knew pond life could look this fabulous?" alt="Ready for a close-up? This duck is serving major feathered model energy. Who knew pond life could look this fabulous?"}](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/web/2025_05_04_Fulshear/20250504_0120.jpg)
+<div class="caption">Ready for a close-up? This duck is serving major feathered model energy. Who knew pond life could look this fabulous?</div>
+:::
+
+
+::: {.image-row}
+[![Who needs a weighted blanket when you’ve got a pile of ducklings? Bringing a whole new level to squad snuggles.](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/thumbnail/2025_05_04_Fulshear/20250504_0125.jpg){.lightbox title="Who needs a weighted blanket when you’ve got a pile of ducklings? Bringing a whole new level to squad snuggles." alt="Who needs a weighted blanket when you’ve got a pile of ducklings? Bringing a whole new level to squad snuggles."}](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/web/2025_05_04_Fulshear/20250504_0125.jpg)
+<div class="caption">Who needs a weighted blanket when you’ve got a pile of ducklings? Bringing a whole new level to squad snuggles.</div>
+:::
+
+
+::: {.image-row}
+[![Warning: Maximum cuteness overload ahead! These ducklings prove there’s nothing better than sticking with your best buds for a cozy day in.](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/thumbnail/2025_05_04_Fulshear/20250504_0128.jpg){.lightbox title="Warning: Maximum cuteness overload ahead! These ducklings prove there’s nothing better than sticking with your best buds for a cozy day in." alt="Warning: Maximum cuteness overload ahead! These ducklings prove there’s nothing better than sticking with your best buds for a cozy day in."}](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/web/2025_05_04_Fulshear/20250504_0128.jpg)
+<div class="caption">Warning: Maximum cuteness overload ahead! These ducklings prove there’s nothing better than sticking with your best buds for a cozy day in.</div>
+:::
+
+
+::: {.image-row}
+[![Why walk when you can soar? This heron glides into Monday like it owns the sky—proof that a little lift goes a long way.](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/thumbnail/2025_05_04_Fulshear/20250504_0190.jpg){.lightbox title="Why walk when you can soar? This heron glides into Monday like it owns the sky—proof that a little lift goes a long way." alt="Why walk when you can soar? This heron glides into Monday like it owns the sky—proof that a little lift goes a long way."}](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/web/2025_05_04_Fulshear/20250504_0190.jpg)
+<div class="caption">Why walk when you can soar? This heron glides into Monday like it owns the sky—proof that a little lift goes a long way.</div>
+:::
+
+
+::: {.image-row}
+[![Ever wish you could just wing it? This heron is gliding into Monday with zero regrets and a sky-high attitude.](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/thumbnail/2025_05_04_Fulshear/20250504_0214.jpg){.lightbox title="Ever wish you could just wing it? This heron is gliding into Monday with zero regrets and a sky-high attitude." alt="Ever wish you could just wing it? This heron is gliding into Monday with zero regrets and a sky-high attitude."}](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/web/2025_05_04_Fulshear/20250504_0214.jpg)
+<div class="caption">Ever wish you could just wing it? This heron is gliding into Monday with zero regrets and a sky-high attitude.</div>
+:::
+
+
+::: {.image-row}
+[![Who says you can’t be sharp and stylish? This Green Heron proves that keen eyesight and killer looks are always in season.](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/thumbnail/2025_05_04_Fulshear/20250504_0243.jpg){.lightbox title="Who says you can’t be sharp and stylish? This Green Heron proves that keen eyesight and killer looks are always in season." alt="Who says you can’t be sharp and stylish? This Green Heron proves that keen eyesight and killer looks are always in season."}](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/web/2025_05_04_Fulshear/20250504_0243.jpg)
+<div class="caption">Who says you can’t be sharp and stylish? This Green Heron proves that keen eyesight and killer looks are always in season.</div>
+:::
+
+
+::: {.image-row}
+[![Caught mid-stride, this Green Heron is clearly strutting into Monday like it owns the pond. Who says you can’t walk into the week with serious style?](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/thumbnail/2025_05_04_Fulshear/20250504_0248.jpg){.lightbox title="Caught mid-stride, this Green Heron is clearly strutting into Monday like it owns the pond. Who says you can’t walk into the week with serious style?" alt="Caught mid-stride, this Green Heron is clearly strutting into Monday like it owns the pond. Who says you can’t walk into the week with serious style?"}](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/web/2025_05_04_Fulshear/20250504_0248.jpg)
+<div class="caption">Caught mid-stride, this Green Heron is clearly strutting into Monday like it owns the pond. Who says you can’t walk into the week with serious style?</div>
+:::
+
+
+::: {.image-row}
+[![Ever heard a crow spill the best morning gossip? This one’s got the scoop—and a front-row seat to sunrise in the treetops.](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/thumbnail/2025_05_04_Fulshear/20250504_0279.jpg){.lightbox title="Ever heard a crow spill the best morning gossip? This one’s got the scoop—and a front-row seat to sunrise in the treetops." alt="Ever heard a crow spill the best morning gossip? This one’s got the scoop—and a front-row seat to sunrise in the treetops."}](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/web/2025_05_04_Fulshear/20250504_0279.jpg)
+<div class="caption">Ever heard a crow spill the best morning gossip? This one’s got the scoop—and a front-row seat to sunrise in the treetops.</div>
+:::
+
+
+::: {.image-row}
+[![Ready for takeoff or just showing off? These Great Blue Herons know how to ruffle a few feathers while keeping it effortlessly elegant. Nature’s runway never looked so chic!](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/thumbnail/2025_05_04_Fulshear/20250504_0293.jpg){.lightbox title="Ready for takeoff or just showing off? These Great Blue Herons know how to ruffle a few feathers while keeping it effortlessly elegant. Nature’s runway never looked so chic!" alt="Ready for takeoff or just showing off? These Great Blue Herons know how to ruffle a few feathers while keeping it effortlessly elegant. Nature’s runway never looked so chic!"}](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/web/2025_05_04_Fulshear/20250504_0293.jpg)
+<div class="caption">Ready for takeoff or just showing off? These Great Blue Herons know how to ruffle a few feathers while keeping it effortlessly elegant. Nature’s runway never looked so chic!</div>
+:::
+
+
+::: {.image-row}
+[![Ready for takeoff or just striking a pose? These Great Blue Herons know how to keep us guessing—and looking twice at nature’s runway.](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/thumbnail/2025_05_04_Fulshear/20250504_0300.jpg){.lightbox title="Ready for takeoff or just striking a pose? These Great Blue Herons know how to keep us guessing—and looking twice at nature’s runway." alt="Ready for takeoff or just striking a pose? These Great Blue Herons know how to keep us guessing—and looking twice at nature’s runway."}](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/web/2025_05_04_Fulshear/20250504_0300.jpg)
+<div class="caption">Ready for takeoff or just striking a pose? These Great Blue Herons know how to keep us guessing—and looking twice at nature’s runway.</div>
+:::
+
+
+::: {.image-row}
+[![Can you spot the heron with the best hair day? Nature’s runway is open and these Great Blue Herons are serving serious looks.](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/thumbnail/2025_05_04_Fulshear/20250504_0305.jpg){.lightbox title="Can you spot the heron with the best hair day? Nature’s runway is open and these Great Blue Herons are serving serious looks." alt="Can you spot the heron with the best hair day? Nature’s runway is open and these Great Blue Herons are serving serious looks."}](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/web/2025_05_04_Fulshear/20250504_0305.jpg)
+<div class="caption">Can you spot the heron with the best hair day? Nature’s runway is open and these Great Blue Herons are serving serious looks.</div>
+:::
+
+
+::: {.image-row}
+[![Ever feel like your roommate talks too much? These Great Blue Herons know the struggle. Sometimes, silence really is golden.](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/thumbnail/2025_05_04_Fulshear/20250504_0318.jpg){.lightbox title="Ever feel like your roommate talks too much? These Great Blue Herons know the struggle. Sometimes, silence really is golden." alt="Ever feel like your roommate talks too much? These Great Blue Herons know the struggle. Sometimes, silence really is golden."}](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/web/2025_05_04_Fulshear/20250504_0318.jpg)
+<div class="caption">Ever feel like your roommate talks too much? These Great Blue Herons know the struggle. Sometimes, silence really is golden.</div>
+:::
+
+
+::: {.image-row}
+[![Fishing without a rod? The white ibis has mastered the art of snagging snacks straight from the shoreline—no bait required!](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/thumbnail/2025_05_04_Fulshear/20250504_0336.jpg){.lightbox title="Fishing without a rod? The white ibis has mastered the art of snagging snacks straight from the shoreline—no bait required!" alt="Fishing without a rod? The white ibis has mastered the art of snagging snacks straight from the shoreline—no bait required!"}](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/web/2025_05_04_Fulshear/20250504_0336.jpg)
+<div class="caption">Fishing without a rod? The white ibis has mastered the art of snagging snacks straight from the shoreline—no bait required!</div>
+:::
+
+
+::: {.image-row}
+[![Stepping out like a runway model, this white ibis proves that wetland style is always in season. Who else wishes they had legs this fabulous?](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/thumbnail/2025_05_04_Fulshear/20250504_0337.jpg){.lightbox title="Stepping out like a runway model, this white ibis proves that wetland style is always in season. Who else wishes they had legs this fabulous?" alt="Stepping out like a runway model, this white ibis proves that wetland style is always in season. Who else wishes they had legs this fabulous?"}](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/web/2025_05_04_Fulshear/20250504_0337.jpg)
+<div class="caption">Stepping out like a runway model, this white ibis proves that wetland style is always in season. Who else wishes they had legs this fabulous?</div>
+:::
+
+
+::: {.image-row}
+[![Caught mid-stroll, this White Ibis is serving looks and hunting bugs—just another glam day on the wetlands runway.](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/thumbnail/2025_05_04_Fulshear/20250504_0340.jpg){.lightbox title="Caught mid-stroll, this White Ibis is serving looks and hunting bugs—just another glam day on the wetlands runway." alt="Caught mid-stroll, this White Ibis is serving looks and hunting bugs—just another glam day on the wetlands runway."}](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/web/2025_05_04_Fulshear/20250504_0340.jpg)
+<div class="caption">Caught mid-stroll, this White Ibis is serving looks and hunting bugs—just another glam day on the wetlands runway.</div>
+:::
+
+
+::: {.image-row}
+[![Who ordered the grumpy blue heron special? Three times the attitude, one nest, and zero patience for morning nonsense.](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/thumbnail/2025_05_04_Fulshear/20250504_0344.jpg){.lightbox title="Who ordered the grumpy blue heron special? Three times the attitude, one nest, and zero patience for morning nonsense." alt="Who ordered the grumpy blue heron special? Three times the attitude, one nest, and zero patience for morning nonsense."}](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/web/2025_05_04_Fulshear/20250504_0344.jpg)
+<div class="caption">Who ordered the grumpy blue heron special? Three times the attitude, one nest, and zero patience for morning nonsense.</div>
+:::
+
+
+::: {.image-row}
+[![Ruffled feathers? This Great Blue Heron calls it a style choice. Nature’s runway never looked so graceful—or so fabulously wild.](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/thumbnail/2025_05_04_Fulshear/20250504_0347.jpg){.lightbox title="Ruffled feathers? This Great Blue Heron calls it a style choice. Nature’s runway never looked so graceful—or so fabulously wild." alt="Ruffled feathers? This Great Blue Heron calls it a style choice. Nature’s runway never looked so graceful—or so fabulously wild."}](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/web/2025_05_04_Fulshear/20250504_0347.jpg)
+<div class="caption">Ruffled feathers? This Great Blue Heron calls it a style choice. Nature’s runway never looked so graceful—or so fabulously wild.</div>
+:::
+
+
+::: {.image-row}
+[![Caught you checking my feathers! Even great blue herons know that a little preening is the key to looking fly—especially when love is in the air.](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/thumbnail/2025_05_04_Fulshear/20250504_0352.jpg){.lightbox title="Caught you checking my feathers! Even great blue herons know that a little preening is the key to looking fly—especially when love is in the air." alt="Caught you checking my feathers! Even great blue herons know that a little preening is the key to looking fly—especially when love is in the air."}](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/web/2025_05_04_Fulshear/20250504_0352.jpg)
+<div class="caption">Caught you checking my feathers! Even great blue herons know that a little preening is the key to looking fly—especially when love is in the air.</div>
+:::
+
+
+::: {.image-row}
+[![When the herons call a treehouse meeting, you know nature’s boardroom is open for business. Catch the sunrise, stay for the strategy session.](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/thumbnail/2025_05_04_Fulshear/20250504_0372.jpg){.lightbox title="When the herons call a treehouse meeting, you know nature’s boardroom is open for business. Catch the sunrise, stay for the strategy session." alt="When the herons call a treehouse meeting, you know nature’s boardroom is open for business. Catch the sunrise, stay for the strategy session."}](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/web/2025_05_04_Fulshear/20250504_0372.jpg)
+<div class="caption">When the herons call a treehouse meeting, you know nature’s boardroom is open for business. Catch the sunrise, stay for the strategy session.</div>
+:::
+
+
+::: {.image-row}
+[![Caught in a game of hide and seek, this blackbird is winning at camouflage and attitude. Sometimes the best views come with feathers and a side of mystery!](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/thumbnail/2025_05_04_Fulshear/20250504_0380.jpg){.lightbox title="Caught in a game of hide and seek, this blackbird is winning at camouflage and attitude. Sometimes the best views come with feathers and a side of mystery!" alt="Caught in a game of hide and seek, this blackbird is winning at camouflage and attitude. Sometimes the best views come with feathers and a side of mystery!"}](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/web/2025_05_04_Fulshear/20250504_0380.jpg)
+<div class="caption">Caught in a game of hide and seek, this blackbird is winning at camouflage and attitude. Sometimes the best views come with feathers and a side of mystery!</div>
+:::
+
+
+::: {.image-row}
+[![Spotted: the grackle, mastering the art of dramatic entrances. Why blend in when you can stand out and own your spotlight?](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/thumbnail/2025_05_04_Fulshear/20250504_0385.jpg){.lightbox title="Spotted: the grackle, mastering the art of dramatic entrances. Why blend in when you can stand out and own your spotlight?" alt="Spotted: the grackle, mastering the art of dramatic entrances. Why blend in when you can stand out and own your spotlight?"}](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/web/2025_05_04_Fulshear/20250504_0385.jpg)
+<div class="caption">Spotted: the grackle, mastering the art of dramatic entrances. Why blend in when you can stand out and own your spotlight?</div>
+:::
+
+
+::: {.image-row}
+[![Ready, set, fish! This green heron’s patience game is next-level—waiting for the perfect moment is its secret to success. Nature's silent hunter at work!](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/thumbnail/2025_05_04_Fulshear/20250504_0485.jpg){.lightbox title="Ready, set, fish! This green heron’s patience game is next-level—waiting for the perfect moment is its secret to success. Nature's silent hunter at work!" alt="Ready, set, fish! This green heron’s patience game is next-level—waiting for the perfect moment is its secret to success. Nature's silent hunter at work!"}](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/web/2025_05_04_Fulshear/20250504_0485.jpg)
+<div class="caption">Ready, set, fish! This green heron’s patience game is next-level—waiting for the perfect moment is its secret to success. Nature&#x27;s silent hunter at work!</div>
+:::
+
+
+::: {.image-row}
+[![Is it just us, or is the moon giving us some serious side-eye tonight? Proof that even the universe knows how to pull off a dramatic look.](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/thumbnail/2025_05_04_Fulshear/20250504_0514.jpg){.lightbox title="Is it just us, or is the moon giving us some serious side-eye tonight? Proof that even the universe knows how to pull off a dramatic look." alt="Is it just us, or is the moon giving us some serious side-eye tonight? Proof that even the universe knows how to pull off a dramatic look."}](https://mpmpmedia.blob.core.windows.net/photography/00000000-0000-0000-f947-d827942227b2/web/2025_05_04_Fulshear/20250504_0514.jpg)
+<div class="caption">Is it just us, or is the moon giving us some serious side-eye tonight? Proof that even the universe knows how to pull off a dramatic look.</div>
+:::
+
