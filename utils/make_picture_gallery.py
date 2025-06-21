@@ -14,8 +14,8 @@ load_dotenv()
 PAGE_DIR = Path("galleries")
 PAGE_DIR.mkdir(parents=True, exist_ok=True)
 
-endpoint = os.getenv("MPFU_COSMOS_ENDPOINT")
-key = os.getenv("MPFU_COSMOS_KEY")
+endpoint = os.getenv("MPFU_COSMOS_ENDPOINT", "")
+key = os.getenv("MPFU_COSMOS_KEY", "")
 
 client = CosmosClient(endpoint, key)
 database = client.get_database_client("media")
