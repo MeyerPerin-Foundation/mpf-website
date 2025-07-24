@@ -1,0 +1,8 @@
+---
+title: "Science and a Movie: Arrival"
+format: revealjs
+---
+
+## Science and a Movie: Arrival
+
+<iframe src="arrival.pdf" width="1600" height="1200"></iframe>

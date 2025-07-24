@@ -32,6 +32,12 @@ website:
         file: index.qmd
       - text: "Photography"
         file: galleries.qmd
+      - text: "Presentations"
+        menu: 
+          - text: "Arrival"
+            href: presentations/arrival
+          - text: "MCP"
+            href: presentations/mcp
       - text: "GitHub Repositories" 
         menu:
           - text: "Thread Manager: manage social media with AI (WIP)"

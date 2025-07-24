@@ -1,0 +1,285 @@
+---
+title: "MCP: Model Context Protocol"
+format:
+  revealjs: 
+    theme: night
+---
+
+## Sexiest Job of the 21st Century
+
+![](data-scientist.png)
+
+::: {.notes}
+In 2012, Harvard Business Review announced that "Data Scientist" was going to be the sexiest job of the 21st century.
+:::
+
+## Even sexier!
+
+![](prompt-engineer.png)
+
+::: {.notes}
+A few years later, after LLMs became mainstream, for a brief moment "prompt engineer" was going to become a great job title.
+:::
+
+
+##  Context Engineer
+
+![](karpathy.jpg)
+
+::: {.notes}
+A recent discussion in AI circles is about the importance of context. A lot of the techniques that became very popular in the era of LLMs are actually ways of incorporating context into the model's understanding. Prompt engineering is one of them, retrieval-augmented generation is another.
+:::
+
+# This context thing seems important...
+
+::: {.notes}
+What if there was a way of formalizing the way in which other systems and applications provide context to LLMs?
+:::
+
+## Retrieval-Augmented Generation (RAG)
+
+The idea of **retrieval-augmented generation** is to provide the model with additional context from external sources, such as databases or documents, to improve its responses.
+
+```
+<<< User query >>>
+<<< LIST OF TASKS >>>
+
+```
+
+```
+User: List my tasks
+```
+
+```python
+prompt = prompt.replace("<<< LIST OF TASKS >>>", 
+  "\n".join([f"- {task}" for task in list_tasks(user)]))
+```
+
+## Function calling
+
+```text
+<<< User query >>>
+
+<<< FUNCTIONS >>>
+You can call functions:
+- `list_open_tasks(user)`: Retrieves list of tasks
+- `create_task(user, task_name, due_date)`: Creates a new task
+- `mark_task_complete(user, task_id)`: Marks a task as complete
+- `delete_task(user, task_id)`: Deletes a task
+<<< END FUNCTIONS >>>
+
+```
+
+## Metaprompt
+```text
+<METAPROMPT>
+Given the user query:
+</METAPROMPT>
+"List my tasks"
+
+<<< FUNCTIONS >>>
+You can call functions:
+- `list_open_tasks(user)`: Retrieves list of tasks
+- `create_task(user, task_name, due_date)`: Creates a new task
+- `mark_task_complete(user, task_id)`: Marks a task as complete
+- `delete_task(user, task_id)`: Deletes a task
+<<< END FUNCTIONS >>>
+
+<METAPROMPT>
+Choose the appropriate function to call and replace the 
+functions section by its results
+</METAPROMPT>
+
+```
+
+## Model Context Protocol (MCP)
+
+MCP is a _protocol_ that helps applications **automatically** provide context to AI models.
+
+If an application provides information using this protocol through an **MCP server**, an AI model that implements an **MCP client** can interact with the application more easily and predictably.
+
+
+## MCP Server: <br/> Resources, Prompts and Tools
+
+An **MCP server** exposes three types of information:
+
+- **Resources**: static or slow-changing documents
+
+- **Prompts**: Developer-tested, tuned prompts
+
+- **Tools**: Actions that the model can trigger
+
+## MCP Client: tools as functions
+
+An **MCP client** consumes the context provided by an MCP server. _Function-calling chatbots_ (e.g., Claude Desktop) are good examples of **MCP clients**, but you can write your own.
+
+Some AI frameworks, like **LangChain** and **Microsoft Semantic Kernel** make it easy to build MCP clients.
+
+Today, most **MCP clients** consume **tools** as functions and don't yet do a good job with **resources** and **prompts**.
+
+::: {.notes}
+In practice, that currently means exposing resources and prompts as tools.
+:::
+
+## Metaprompt
+```text
+<METAPROMPT>
+Given the user query:
+</METAPROMPT>
+"List my tasks"
+```
+MCP tools come here
+
+```text
+<METAPROMPT>
+Choose the appropriate function to call and replace the 
+functions section by its results
+</METAPROMPT>
+
+```
+# The MCP Ecosystem
+
+## MCP Servers Repository
+
+https://github.com/modelcontextprotocol/servers
+
+::: {.columns}
+
+::: {.column width="50%"}
+
+
+- FileSystem
+- YouTube Video Summarizer
+- Microsoft Dataverse
+- GitHub (a lot of _vibecoding_ depends on it)
+- There are even MCP servers to find MCP Servers
+
+:::
+
+::: {.column width="50%"}
+
+![](inception.jpg)
+
+:::
+
+:::
+
+## Agents and Vibecoding
+
+::: {.columns}
+
+::: {.column width="50%"}
+
+MCP servers enable **agents** to access a wide range of tools and resources, making it easier to build complex workflows. One specific type of agentic behavior enabled by MCP is **vibecoding**, which involves using the context provided by MCP servers to generate more relevant and accurate code snippets.
+
+:::
+
+::: {.column width="50%"}
+
+![](vibecoding.jpg)
+
+:::
+
+:::
+# This seems powerful
+
+![](showme.jpg)
+
+
+# The To-Do MCP Server
+
+## Server code (1/2)
+
+```python
+mcp = FastMCP("ms-todo")
+
+@mcp.tool(description="List all open to-do tasks that the user has")
+def list_open_tasks() -> list[TodoItem]:
+    mstd = MicrosoftToDo()
+    return mstd.list_open_tasks()
+
+@mcp.tool(description="Create a new to-do task",)
+def create_task(
+        task_name: Annotated[str, 
+          Field(description="The name of the task")],
+        due_date: Annotated[datetime | None, 
+          Field(description="The due date of the task")] = None
+) -> TodoItem | None:
+    mstd = MicrosoftToDo()
+    return mstd.create_task(task_name=task_name, due_date=due_date)
+```
+
+## Server code (2/2)
+
+```python
+@mcp.tool(description="Mark a to-do task as complete")
+def mark_task_complete(id: str) -> bool:
+    mstd = MicrosoftToDo()
+    return mstd.mark_task_complete(id)
+
+@mcp.tool(description="Delete a task given its id")
+def delete_task(id: str) -> bool:
+    mstd = MicrosoftToDo()
+    return mstd.delete_task(id)
+```
+
+## Semantic Kernel MCP Client (1/2)
+
+```python
+async def main():
+    kernel = Kernel()
+    kernel.add_service(
+        OpenAIChatCompletion(
+            ai_model_id="gpt-4.1",
+            service_id="default",              
+            api_key=os.getenv("OPENAI_API_KEY")
+
+        )
+    )
+
+    thread = ChatHistoryAgentThread()
+
+    mcp_plugin = MCPSsePlugin(
+        name="LocalMCP",
+        url="http://localhost:9000/sse"
+    )
+
+    await mcp_plugin.connect()
+
+```
+
+## Semantic Kernel MCP Client (2/2)
+
+```python
+    agent = ChatCompletionAgent(
+        service=kernel.get_service("default"),
+        name="MCPChatbot",
+        instructions="You are a helpful assistant using MCP tools.",
+        plugins=[mcp_plugin]
+    )
+    
+    print("MCP‑backed chatbot is ready. Type 'exit' to quit.")
+    while True:
+        user_input = await asyncio.to_thread(input, "\nYou: ")
+        if user_input.strip().lower() in {"exit", "quit"}:
+            break
+
+        response = await agent.get_response(user_input, thread=thread)
+        print(f"Bot: {response}")
+
+        thread = response.thread
+```
+
+# Problems
+
+![](paperclips.png)
+
+# Thank you
+
+**Lucas A. Meyer**
+
+
+LinkedIn: lucas**a**meyer
+
+Threads/IG: lucas_a_meyer
+
