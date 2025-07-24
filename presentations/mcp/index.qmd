@@ -7,7 +7,7 @@ format:
 
 ## Sexiest Job of the 21st Century
 
-![](data-scientist.png)
+![](/presentations/mcp/data-scientist.png)
 
 ::: {.notes}
 In 2012, Harvard Business Review announced that "Data Scientist" was going to be the sexiest job of the 21st century.
@@ -15,7 +15,7 @@ In 2012, Harvard Business Review announced that "Data Scientist" was going to be
 
 ## Even sexier!
 
-![](prompt-engineer.png)
+![](/presentations/mcp/prompt-engineer.png)
 
 ::: {.notes}
 A few years later, after LLMs became mainstream, for a brief moment "prompt engineer" was going to become a great job title.
@@ -24,7 +24,7 @@ A few years later, after LLMs became mainstream, for a brief moment "prompt engi
 
 ##  Context Engineer
 
-![](karpathy.jpg)
+![](/presentations/mcp/karpathy.jpg)
 
 ::: {.notes}
 A recent discussion in AI circles is about the importance of context. A lot of the techniques that became very popular in the era of LLMs are actually ways of incorporating context into the model's understanding. Prompt engineering is one of them, retrieval-augmented generation is another.
@@ -158,7 +158,7 @@ https://github.com/modelcontextprotocol/servers
 
 ::: {.column width="50%"}
 
-![](inception.jpg)
+![](/presentations/mcp/inception.jpg)
 
 :::
 
@@ -176,14 +176,14 @@ MCP servers enable **agents** to access a wide range of tools and resources, mak
 
 ::: {.column width="50%"}
 
-![](vibecoding.jpg)
+![](/presentations/mcp/vibecoding.jpg)
 
 :::
 
 :::
 # This seems powerful
 
-![](showme.jpg)
+![](/presentations/mcp/showme.jpg)
 
 
 # The To-Do MCP Server
@@ -272,7 +272,7 @@ async def main():
 
 # Problems
 
-![](paperclips.png)
+![](/presentations/mcp/paperclips.png)
 
 # Thank you
 
