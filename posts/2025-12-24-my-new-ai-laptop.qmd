@@ -1,0 +1,62 @@
+---
+author: Lucas A. Meyer
+date: 2025-12-24
+draft: false
+image: /images/rog.jpg
+include-in-header: _msft-clarity.html
+page-layout: full
+title: My new laptop for AI
+toc: true
+toc-expand: true
+---
+
+<article data-clarity-region="article">
+
+I found a laptop that I can use for my AI work even though I travel a lot.
+
+## The problem
+
+I love to travel, and as an applied scientist, I get to travel a lot for work, visiting partners in the field, and presenting the work of the [AI for Good Lab]. In addition, I also love to travel for leisure.
+
+Working with AI (training models or even doing local inference) meant having a "mobile workstation," a very heavy laptop that can train models locally. For many years I used the Lenovo P-series, with my latest being a Lenovo P15 Gen2 that served me well since 2021.
+
+The problem: it weighs 6 lbs (without counting the gigantic power brick) and it goes through its battery in about a couple of hours. Charging it is tricky, too - it does not charge from USB, and its power brick draws so much power that it prevents charging in most planes.
+
+So I started looking for a lighter computer. Given my long-time loyalty to Lenovo, I started there, but I was quickly underwhelmed by the selection. The smaller and lighter Lenovo P14s felt underpowered, with Ada GPUs with only 4 Gb of VRAM, or Blackwells with 6 Gb of VRAM, which restrict the size of models I can use locally.
+
+So, after many years of being a Lenovo-only household, I looked outside, and I found two laptops that I liked.
+
+## My requirements
+
+- Large GPU VRAM for local AI work. 12-16 GB is the difference between “this is a fun demo” and “I can actually do something useful on the road.”
+
+- A truly portable chassis. I need a decent battery, and also a laptop that fits in the tray of an economy seat.
+
+- Practical charging. I wanted something that could top up over USB-C for “normal work” days (email, notebooks, writing, light coding), even if full GPU performance still needs the big brick. Also, it's helpful to have some way to charge while I rest during a flight.
+
+Both the [ASUS ROG Zephyrus G14](https://amzn.to/45s4gjh) and the [Razer Blade 14](https://amzn.to/4qlkGSx) fit all those requirements. (These are affiliate links.)
+
+- [ASUS Zephyrugs G14 product page](https://rog.asus.com/laptops/rog-zephyrus/rog-zephyrus-g14-2025/) 
+- [Razer Blade 14 product page](https://www.razer.com/gaming-laptops/razer-blade-14)
+
+Review comparisons consistently show that the Zephyrus G14 delivers excellent real‑world performance for its price, great battery life, and an OLED display that delivers deep contrast and rich colors, which benefits both content creation and media consumption. 
+
+In contrast, the Razer Blade 14 leans more heavily into premium design, which gives it a slightly better thermal envelope for the GPU (increasing the performance a bit), and slightly higher refresh‑rate displays. However, this is currently limited to a RTX 5070 with 12 Gb of VRAM for $2,300. The same configuration for a Zephyrus G14 is $1,999. I was able to find a Zephyrus G14 with a RTX 5080 16 Gb VRAM for $2,550, $250 more than the Blade with a 5070, and I got it.
+
+## Early “real world” notes
+
+A few things became clear almost immediately after switching away from the old Lenovo.
+
+- USB-C charging is an incredible quality-of-life upgrade. These days, everything charges off USB-C, so even if the computer is charging a bit slower than the full power brick (200W for the power brick vs 100W for the USB-C), it still charges properly overnight. Better yet, I can charge it from my [power bank]
+  
+- It fits an economy class tray with space for a drink (the laptop has to hang a little out)
+
+- It showed 4h30 hours of battery in a flight without having to adjust power configurations or dial down the OLED brightness (no GPU use). My flight was shorter, so I only used 2h.
+
+- It's sufficiently powerful when connected to the power brick: the RTX 5080 seems to be equivalent to a V100, enough to run a lot of real-world workloads.
+
+## Closing thought
+
+I honestly expected Lenovo to have a better offer, and that would have saved me given the number of power bricks and docking stations that my family and I accumulated over the years. But 4 Gb VRAM is insuficcient these days for a small form-factor, and the larger form-factors are impractical. I'm glad Razer and ASUS have ultraportable powerful computers available.
+
+</article>
