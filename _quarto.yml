@@ -2,6 +2,9 @@ project:
   type: website
   output-dir: _site
 
+  resources:
+    - ".well-known/**"  
+
   preview:
     port: 4200
     browser: false
