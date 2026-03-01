@@ -41,7 +41,7 @@ Both the [ASUS ROG Zephyrus G14](https://amzn.to/45s4gjh) and the [Razer Blade 1
 
 Review comparisons consistently show that the Zephyrus G14 delivers excellent real‑world performance for its price, great battery life, and an OLED display that delivers deep contrast and rich colors, which benefits both content creation and media consumption. 
 
-In contrast, the Razer Blade 14 leans more heavily into premium design, which gives it a slightly better thermal envelope for the GPU (increasing the performance a bit), and slightly higher refresh‑rate displays. However, this is currently limited to a RTX 5070 with 12 Gb of VRAM for $2,300. The same configuration for a Zephyrus G14 is $1,999. I was able to find a Zephyrus G14 with a RTX 5080 16 Gb VRAM for $2,550, $250 more than the Blade with a 5070, and I got it.
+In contrast, the Razer Blade 14 leans more heavily into premium design, which gives it a slightly better thermal envelope for the GPU (increasing the performance a bit), and slightly higher refresh‑rate displays. However, this is currently limited to a RTX 5070 with 12 Gb of VRAM for $2,300. The same configuration for a Zephyrus G14 is $1,999. I was able to find a Zephyrus G14 with a RTX 5080 16 Gb VRAM for $2,550, $250 more than the Blade with a 12 Gb 5070, and I got it.
 
 ## Early “real world” notes
 

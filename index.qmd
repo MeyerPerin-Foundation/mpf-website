@@ -20,7 +20,8 @@ listing:
   sort-ui: false
   filter-ui: false
   fields: [image, author, date, title, subtitle]
-  feed: true
+  feed:
+    type: partial
 - id: blog
   contents: posts
   sort: "date desc"
