@@ -10,6 +10,7 @@ listing:
   type: grid
   feed:
     type: full
+    items: 200
   fields: [image, author, date, title, subtitle]
   image-height: 320px
   categories: false
