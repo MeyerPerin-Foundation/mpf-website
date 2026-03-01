@@ -4,24 +4,6 @@ title-meta: "Articles and Blog"
 toc: true
 toc-expand: true
 listing:
-- id: articles
-  contents: 
-  - posts/2025-12-24-my-new-ai-laptop.qmd  
-  - posts/2025-02-05-all-cool-kids-using-uv.qmd
-  - posts/2024-12-09-understanding-llms.qmd
-  - posts/2024-11-27-bird-buddy.qmd
-  - posts/2024-02-01-openai-concurrency.qmd
-  - posts/2023-12-31-remarkable2.qmd
-  
-  sort: False
-  type: grid
-  image-height: 320px
-  categories: false
-  sort-ui: false
-  filter-ui: false
-  fields: [image, author, date, title, subtitle]
-  feed:
-    type: partial
 - id: blog
   contents: posts
   sort: "date desc"
@@ -40,13 +22,6 @@ include-in-header: _msft-clarity.html
 The MeyerPerin Foundation is a nonprofit organization dedicated to the advancement of science and technology, with a focus on Artificial Intelligence and Education. 
 
 We are especially interested in helping neurodivergent people thrive in their scientific pursuits, especially those with Autism and ADHD.
-
-## Featured Articles  
-
-:::{#articles}
-:::
-
----
 
 ## Blog
 

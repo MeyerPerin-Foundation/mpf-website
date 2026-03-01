@@ -1,0 +1,64 @@
+---
+author: Lucas A. Meyer
+date: 2026-02-28
+draft: false
+image: /images/croppers-shears-h500.jpg
+include-in-header: _msft-clarity.html
+page-layout: full
+title: Croppers and the Death of Leetcoding
+toc: true
+toc-expand: true
+---
+
+<article data-clarity-region="article">
+
+A couple of years ago, I wrote about the [Luddites and the AI Revolution](https://www.meyerperin.com/posts/2024-03-06-luddites.html). In that post, I talked about croppers, the skilled workers who used massive 40-pound shears to finish cloth. Their skill was so specialized and physically demanding that you could identify a cropper by the large callus on their forearm, called a "saddle." They were well-paid and high-status, and then machines came along and did the same job faster and cheaper.
+
+I've been thinking about croppers again lately, because I realize that the tech industry has its own version of them: LeetCode grinders.
+
+## The Cropper's Skill
+
+Think about what made croppers valuable. They endured years of painful training to develop a very specific physical skill. The skill itself wasn't the point. The point was to produce a well-finished piece of cloth. But because the skill was hard to acquire, it became a proxy for the outcome. If you had the saddle, you could finish cloth. If you could finish cloth, you were valuable.
+
+It's unlikely that anybody actually _wanted_ to develop a giant callus on their forearm. The callus was a side effect of the real work. But over time, the callus became the credential. You could tell a cropper by his saddle.
+
+## The LeetCoder's Skill
+
+Now think about what makes a LeetCode grinder valuable, or rather, what is _supposed_ to make them valuable. They spend months memorizing algorithms and data structures, practicing problems until they can solve them under time pressure. The skill itself isn't the point: the point is to identify people who can write good software. But because the skill is hard to acquire and (loosely) related to writing software, it became a proxy for the outcome.
+
+It's unlikely that anybody actually _wants_ to memorize the algorithm for finding the longest palindromic substring. That knowledge is a side effect of what companies are ostensibly looking for: the ability to solve real engineering problems. But over time, the LeetCode performance became the credential. You can tell a grinder by their leetcode performance.
+
+I've [written before](https://www.meyerperin.com/posts/2022-07-22-leetcode.html) about how to separate LeetCode grinders from people who can actually code. Even back in 2022, the distinction mattered. Grinders could ace a standard interview while being mediocre at the actual job. The proxy had already diverged from the outcome it was supposed to measure.
+
+## Croppers Were More Useful
+
+Here's the thing, though. Croppers, for all the absurdity of using a callus as a credential, were actually doing the real work when cropping. The saddle was a byproduct of genuinely finishing cloth. A cropper's skill and the output were directly connected. A great cropper produced great cloth, and a bad cropper produced bad cloth. The credential was imperfect, but it was at least _correlated_ with the real thing.
+
+LeetCode grinding doesn't necessarily have that property. The ability to implement a red-black tree on a whiteboard or on a notepad-like interface in a video interview has, at best, a weak correlation with the ability to design a reliable and useful system. The proxy was always more disconnected from the outcome than the cropper's saddle ever was.
+
+So even before AI came along, LeetCoders were already a worse version of croppers: people who developed a painful, specialized skill that served mainly as a credential, except the credential was less connected to the actual work. Hopefully, when hiring a leetcoder, you were getting a good software engineer, and in many cases you were. But there was a lot of "false negatives": people who could write great software but didn't do well under pressure, or did not have a lot of time to memorize algorithms while developing a real system and raising a family. There were also a lot of "false positives": people who could grind LeetCode but weren't great engineers.
+
+## Rage Against the Machine
+
+And now, of course, there's a machine that does it all.
+
+AI can easily solve LeetCode problems. Not just the easy ones, it also handles hard problems reliably and quickly. The entire ritual of memorizing algorithms, practicing under time pressure, and performing in a 45-minute interview can now be done by a system that costs a few cents per query. The machine doesn't need months of preparation, doesn't get nervous, and doesn't forget the algorithm after the interview is over.
+
+In addition, in the last couple of months, creating software with AI agents have _felt_ different. Agents are tackling more complex problems, learning from the existing codebase, and writing code that is very good. The value of being who memorized the syntax of a particular programming language has declined. And since AI models have memorized all Leetcode problems, the value of being someone who also memorized them has also gone down.
+
+## What's Left
+
+When Mellor and the croppers saw the machines, they knew their skill was becoming worthless. John Booth, the young outsider, tried to tell them that the machine could be "man's chief blessing instead of his curse," if the benefits were fairly shared. But that was cold comfort to the workers, and in the end, even Booth couldn't hold to his own argument. He joined the Luddites and died in the raid on Rawfolds Mill, at nineteen.
+
+The croppers' trade didn't adapt. It simply disappeared. But the cloth industry didn't disappear with it. It grew, and the people who thrived in it were the ones who understood cloth, not the ones who had the biggest calluses. The skill that mattered was never the shearing itself. It was creating cloth products that users wanted and needed.
+
+The same will be true for software engineers. LeetCode performance is the saddle: a painful credential that was always an imperfect proxy for the real thing. What will matter is what always mattered: judgment, taste, and knowing what good software looks like. Now you won't need to code everything yourself and memorize syntax. You can simply direct AI agents that write the code for you. 
+
+The saddle was never the point. The cloth was.
+
+</article>
+
+<hr />
+This post appeared first on [www.meyerperin.org](https://www.meyerperin.org/posts/2026-02-28-leetcoding.html).
+
+

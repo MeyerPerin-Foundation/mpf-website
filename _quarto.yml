@@ -13,8 +13,9 @@ project:
     - '*.qmd'
     - sitemap.xml
 
-execute: 
+execute:
   freeze: auto
+  cache: true
       
 website:
   title: "MeyerPerin"
