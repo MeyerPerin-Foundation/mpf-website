@@ -1,0 +1,8 @@
+LICENSE
+README.md
+pyproject.toml
+mpf_website.egg-info/PKG-INFO
+mpf_website.egg-info/SOURCES.txt
+mpf_website.egg-info/dependency_links.txt
+mpf_website.egg-info/requires.txt
+mpf_website.egg-info/top_level.txt

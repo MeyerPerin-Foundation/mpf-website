@@ -8,6 +8,8 @@ listing:
   contents: posts
   sort: "date desc"
   type: grid
+  feed:
+    type: full
   fields: [image, author, date, title, subtitle]
   image-height: 320px
   categories: false

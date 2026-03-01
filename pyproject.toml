@@ -1,3 +1,7 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
 [project]
 name = "mpf-website"
 version = "0.1.0"
@@ -7,3 +11,7 @@ requires-python = ">=3.13"
 dependencies = [
     "mpfutils>=0.4.6",
 ]
+
+[tool.setuptools]
+packages = []
+py-modules = []
